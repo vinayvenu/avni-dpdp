@@ -1,0 +1,3630 @@
+Source: https://www.youtube.com/watch?v=wbrcImXSO3k
+
+[00:00] It has impacted
+[00:02] and is going to impact each and
+[00:04] everyone. This is the most important
+[00:07] part of a business in the world where
+[00:10] majority business are done online. You
+[00:13] collect lot of information, personal
+[00:15] data, how you protect, it's your
+[00:17] responsibility. There were laws, there
+[00:20] were regulation but this government is
+[00:23] trying through this acts and rules to
+[00:26] make it systematic, more control. And if
+[00:29] you open the paper continuously now the
+[00:32] talk is that the timeline because see
+[00:35] this act and rules partly is implemented
+[00:38] and slowly it is started implementing it
+[00:41] has impact and it will have quite effect
+[00:45] on small and MSME sectors and startup.
+[00:49] So they are concerned about the cost
+[00:52] with this view. Such a important topic
+[00:55] we have taken as our today's
+[00:58] presentation topic. Our presenter is
+[01:00] Miss Kjan Mata senior associate mata and
+[01:03] mata and our panelist is Mr. Ibrahim
+[01:06] Khatri IT professional. Thanks and is
+[01:10] very intelligent to be honestly formally
+[01:13] introduced. Mr. Ibrahim Khatri is the
+[01:15] co-founder and CEO of Pris Solutions, no
+[01:20] privacy solutions, a digital governance
+[01:23] and data privacy firm helping financial
+[01:26] institution and fintex build trust,
+[01:29] compliance and resilience in the digital
+[01:32] economy. With over 20 years of
+[01:34] experience across financial services,
+[01:37] data privacy and technology risk, he has
+[01:40] advised leading global organizations
+[01:43] including NPCI, City Group, BNY Melon,
+[01:47] Jurich Insurance and Qatar National Bank
+[01:50] where he served as a data protection
+[01:52] officer, leading enterprise by GDPR
+[01:56] implementation. A former leader at EY
+[01:59] KPMG USA in India and PWC. Mr. Ibraim
+[02:04] specializes in privacy governance, AI
+[02:07] and cyber security risk and regulatory
+[02:10] compliance. He's a fellow of information
+[02:12] privacy and certified and is very widely
+[02:17] recognized for his practical and
+[02:19] forward-looking approach to digital
+[02:21] trust and responsible finance. Welcome
+[02:23] Mr. Ibraim. Thanks for your time. Thank
+[02:26] you mi. Thank you for the introduction.
+[02:28] >> Our presenter is Miss Kinjal Mata. Miss
+[02:31] Kjal Mata is a chartered accountant and
+[02:32] company secretary. She previously gained
+[02:35] experience in EI assurance auditing
+[02:37] prominent private sector banks and
+[02:39] contributed to M&A transactions with EI
+[02:41] strategy and transaction advisory team.
+[02:44] She also worked with Blackwell Capital a
+[02:46] venture debt fund underwriting
+[02:47] investments in growth companies.
+[02:49] Currently she serve as a senior
+[02:51] associate in Mata Labas IPO. our
+[02:55] moderator everyone knows our own Mr.
+[02:58] Bala with this I'll request we thank all
+[03:02] our panelist of today's webinar for
+[03:04] joining us on our knowledge sharing
+[03:06] journey on behalf of entire team of mata
+[03:09] and ma I'll request Mr. Ibraim to say
+[03:12] few word on the topic then Mr. Bala and
+[03:16] then Miss Kjel you can start your
+[03:17] presentation over to Mr. Ibrahim please.
+[03:20] >> Thank you. Thank you DIY. Thank you for
+[03:22] the warm introduction. Uh I'll just
+[03:24] begin saying that this is a new uh you
+[03:27] know a completely new way how
+[03:29] organizations have to think right and
+[03:32] I'm saying this with you know I know you
+[03:34] mentioned that India has had some kind
+[03:36] of IT act or SPDI rules earlier like
+[03:40] 2011 but there has never been any fines
+[03:42] associated. Nobody has done any kind of
+[03:45] data governance or data privacy
+[03:47] programs. uh it's and I think it's more
+[03:50] from a culture awareness training and
+[03:52] letting people know that privacy has to
+[03:55] come into the DNA of every employee.
+[03:57] It's not you know whoever is processing
+[03:59] personal data has to uh you know be
+[04:02] trained on it. Second the most important
+[04:04] thing is that I was implementing the
+[04:06] GDPR for Qatar National Bank and all
+[04:09] European
+[04:10] companies
+[04:12] have had some kind of privacy law since
+[04:14] 1990s. They had a two year deadline for
+[04:18] GDPR but still organizations were really
+[04:21] struggling till the last minute. India
+[04:23] has a first of all a little bit
+[04:26] uniqueness the way they have managed
+[04:27] consent. So
+[04:29] I think a lot of people will realize
+[04:31] that lot of time is required for
+[04:34] assessing and doing an implementation.
+[04:36] Um and I think it's it's just going to
+[04:39] be a a game changer the way the after
+[04:42] the board is put up. The government is
+[04:45] already putting a couple of fines before
+[04:47] even the the board has completely been
+[04:50] formalized or the deadline has come. I'm
+[04:51] sure everybody's read about meta right
+[04:54] and meta just got fine and they're
+[04:57] taking them to court but yes it's a
+[04:59] whole new era right
+[05:01] >> thank you Mr. Ibrahim and we will surely
+[05:04] get uh benefit of your experience during
+[05:07] presentation. Please share your
+[05:08] experience as and when you want and you
+[05:11] can interrupt the presentation. Thank
+[05:13] you. Over to Mr. Bala please.
+[05:15] >> Good morning to all of you. I have a
+[05:17] great pleasure in welcoming you all on
+[05:20] my own behalf and also on behalf of as
+[05:23] both of our panelists said it's a very
+[05:25] quite new topic which has actually come
+[05:27] only in the last year 2025. Partly
+[05:30] implementation started implementation
+[05:32] spread over till next year. I believe it
+[05:35] is May 2026 is the deadline. But we are
+[05:38] in the implementing process and the
+[05:40] learning process. However, as Ibrahim
+[05:43] puts it, yes, there were laws earlier,
+[05:46] especially for the corporate sector, you
+[05:48] know, even under the common law, the
+[05:50] confidential information should not be
+[05:52] shared, it should be kept, privacy
+[05:53] should be maintained, all those things
+[05:55] were there. But there was hardly
+[05:56] anything on those when it come to the
+[05:59] implementation when it's located. But
+[06:01] personally if I go through this law the
+[06:03] law as a reading it appears to be simple
+[06:06] rather it uses the word when it complain
+[06:08] to the complaint because being a company
+[06:10] secretary I look upon what are the
+[06:11] complaints because as you are aware as a
+[06:14] company secretary we are having a duty
+[06:16] bound to ensure complaints under all the
+[06:18] applicable laws there one more law gets
+[06:20] added DPTB act so from the complaints
+[06:23] point of view if I look into from the
+[06:26] company secretary's point it said the
+[06:28] laws complaints is made in the the cell
+[06:30] system that means simple accessible
+[06:34] rational and actionable framework that's
+[06:36] what it says but as it's reading it is
+[06:39] not that simple because there are many
+[06:42] issues today as DIP puts it everything
+[06:45] is done on all the things are stored in
+[06:47] soft copy no more what do you call
+[06:51] physical copies so what happened the
+[06:53] data actually becomes an assess asset to
+[06:56] the company actually today when the
+[06:58] asset to the company The safeguarding
+[07:00] comes to the top most to people that is
+[07:03] board of directors who have to take the
+[07:05] responsibility to ensure it is well
+[07:07] protected. That is one thing. Second
+[07:09] thing is as we go on Kel will take us
+[07:12] the various terminology. What is the
+[07:15] data production? What is the individual
+[07:16] data protection? What is the processing
+[07:18] and all those things we think we collect
+[07:20] the data? We store it. Even the law says
+[07:23] even collecting the data and storing
+[07:26] itself is also a processing. So those
+[07:28] sort of the intricacies are there. So we
+[07:31] have a great way to learn the things
+[07:33] correctly, interpret the terminology
+[07:36] because we are good at interpreting the
+[07:38] law. But we have to see very carefully
+[07:41] and see while coming to the
+[07:42] implementation. There are lot of scams
+[07:45] and misuses and other things all
+[07:47] happening in the data privacy which we
+[07:49] are watching. lot of number of cases
+[07:51] have already been reported also because
+[07:54] especially when the people are giving
+[07:56] outsourcing and the KYC information
+[07:58] other things and all so there are many
+[08:00] things are there and we are still in the
+[08:03] learning process I am also looking
+[08:04] forward from the IT expert today more
+[08:07] knowledge to know so I'm looking forward
+[08:10] this uh webinar very eagerly to learn
+[08:13] more things so I'm very sure I will be
+[08:15] sharing his personal experiences because
+[08:17] yesterday I had a small interaction with
+[08:19] with him. I can understand the
+[08:21] tremendous amount of the knowledge the
+[08:23] job what he has been doing. He we could
+[08:26] not have get the better panelist than
+[08:29] him pertaining to this particular topic.
+[08:31] I would say that that is the thing
+[08:33] looking forward to listen from him. Kind
+[08:36] over to you please.
+[08:38] >> Thank you. Can I start miss?
+[08:39] >> Yes. Let me just share my screen. Yes.
+[08:42] Um good morning everyone. Um so today's
+[08:46] topic is again another uh hot topic uh
+[08:51] which is digital personal data
+[08:54] protection act and rules.
+[08:57] uh we are going to take an insight into
+[09:00] this new uh legal framework that are
+[09:04] that is in the process of coming into
+[09:06] place in India which is you know one of
+[09:09] the fundamental changes when it comes to
+[09:14] the uh the developments
+[09:17] in the legal world that are that are
+[09:20] happening right now. keeping pace with
+[09:22] all the tech um and data related updates
+[09:26] that are uh taking place today. So with
+[09:29] that I'll start uh with my presentation.
+[09:32] Now starting with why was digital
+[09:35] personal data protection act and its
+[09:38] rules required
+[09:40] uh how did we get here today? So
+[09:43] starting with before this Supreme Court
+[09:46] judgment
+[09:48] uh just where India's Supreme Court
+[09:51] declared privacy to be a fundamental
+[09:53] right under article 21 of the
+[09:56] constitution which is the right to life
+[09:59] and personal liberty. This included
+[10:01] information privacy also that is having
+[10:05] uh control over personal data. But this
+[10:08] judicial recognition did not
+[10:10] automatically create a legislative
+[10:13] framework. That meant that there was no
+[10:15] clear enforcable
+[10:18] rules uh that defined what counts as
+[10:21] personal data, how and when data can be
+[10:23] collected, used, shared or deleted and
+[10:26] various
+[10:28] rights and obligations of individuals um
+[10:32] like who could access, correct, erase uh
+[10:35] before this particular act. Now this gap
+[10:38] left privacy rights uninforcable in
+[10:42] practice. So there was a constitutional
+[10:45] imperative to translate the right to
+[10:47] privacy into an operational law. Coming
+[10:50] to rapid digital transformation, India's
+[10:53] digital economy including e-commerce,
+[10:55] mobile apps, digital payments, other
+[10:57] link services and social networks
+[10:59] expanded enormously over the past
+[11:01] decade. Billions of Indians now transact
+[11:04] online, share information. They're on
+[11:06] social platforms and depend on digital
+[11:08] IDs today.
+[11:10] The implication for this is there was
+[11:12] vast volumes of personal data that are
+[11:14] generated, scored, processed,
+[11:17] transmitted daily. This includes
+[11:19] sensitive personal data such as
+[11:21] biometric identifiers, financial
+[11:24] details, health records, location, etc.
+[11:27] Without a robust legal framework, this
+[11:33] was very vulnerable
+[11:37] to
+[11:39] transfers etc.
+[11:42] Further there was a rise in data
+[11:44] breaches and unsafe practices.
+[11:47] India saw a growing n number of
+[11:49] high-profile
+[11:51] data breaches where personal information
+[11:53] companies and organizations often lack
+[11:55] clear data governance standards. There
+[11:57] was no uniform rules mandating data
+[12:00] breach notifications, consent
+[12:01] requirements or accountability.
+[12:04] This made individuals susceptible to
+[12:07] identity theft, fraud, and economic
+[12:10] exploitation.
+[12:12] A law with clear security breach
+[12:14] reporting obligations plus accounting
+[12:17] accountability mechanism was a dire need
+[12:20] of the day. Then before 2023, India's
+[12:24] data governance uh uh data management
+[12:27] was governed mainly by the information
+[12:30] technology actu 2000
+[12:33] and its rules. Section 43A of this act
+[12:37] required reasonable security practices
+[12:40] but did not define the data categories,
+[12:43] consent rules, user rights and penalties
+[12:46] when it came to uh maintenance of these
+[12:49] reasonable security practices. other
+[12:52] guidelines from other regulators such as
+[12:54] RBI, IR, DAI, there were requirements
+[12:58] under those laws but they were very
+[12:59] sector specific and there was no uniform
+[13:02] legally enforcable national uh standard.
+[13:05] Further, global standards
+[13:08] um were were moving ahead of us um as
+[13:13] global privacy frameworks like the EU's
+[13:15] general data protection regulation or
+[13:17] GDPR which is which today has become the
+[13:21] benchmark for when it comes to data
+[13:22] protection uh regulation and our um this
+[13:27] act has also been inspired and uh from
+[13:30] this particular framework
+[13:33] uh it Um with this India faced pressure
+[13:37] to align with international norms to
+[13:40] allow for cross data flows.
+[13:42] Multinational companies processing
+[13:44] Indian user data needed clear legal
+[13:46] obligations to comply with yogic
+[13:48] standards. Strong privacy laws built
+[13:51] trust with users and investors helping
+[13:54] India attract digital investment and
+[13:56] innovation. A data protection law became
+[13:59] important not just for rights but also
+[14:01] economic partners partnership in the
+[14:04] global digital economy. Um further uh a
+[14:08] modern data law needed to be needed to
+[14:11] provide individuals with meaningful
+[14:13] control over their data. Uh before this
+[14:16] uh citizens did not have control over
+[14:20] their own data. um requirements when it
+[14:23] came to consent, access and correction,
+[14:25] deletion, limitations on uh data
+[14:28] retention, profiling and how it was used
+[14:30] didn't exist before
+[14:34] Kel, are you still in the first slide
+[14:36] because slide is not changing?
+[14:37] >> Yes. Yes, I'm on the first slide.
+[14:39] >> Okay. Okay. No problem. Oh, no problem.
+[14:42] If you're on the first slide, it is
+[14:43] fine. If the slide is not changing, then
+[14:45] I have a concern. Yeah. Go ahead. Please
+[14:48] go ahead. individuals uh citizens did
+[14:51] not have any recourse when their data
+[14:53] was misused or mishandled. Um further
+[14:56] there was commercial misuse of data. Uh
+[14:58] businesses increasingly relied on data
+[15:00] for targeted advertising, automated
+[15:02] profiling, behavioral insights without
+[15:04] transparent consent. There was
+[15:06] manipulative data practices,
+[15:08] exploitation of user information without
+[15:10] explicit awareness or choice. There was
+[15:12] lack of transparency.
+[15:14] Further there was there were uh
+[15:16] instances of political misuse where
+[15:19] unauthorized
+[15:22] and use of personal data for political
+[15:24] activities or campaigns was being used.
+[15:26] There was there was requirement for
+[15:28] stronger legal safeguards against
+[15:30] nonconsentual data harvesting. Uh now
+[15:34] all of these issues this particular uh
+[15:37] new act has tried to address and we will
+[15:40] look into how uh they are they are
+[15:43] trying to do that. Coming to two uh
+[15:47] basic concepts when we are looking at
+[15:50] this particular act. One is data privacy
+[15:52] and the other is data protection. Now
+[15:54] data privacy is a fundamental human
+[15:56] right. Like I mentioned it was
+[15:58] identified as a fundamental human right
+[16:00] in the landmark judgment of Putaswami.
+[16:03] uh whereas data protection is a
+[16:05] regulatory um operational framework. It
+[16:09] is a regulation regulatory framework
+[16:13] that uh the government is trying to put
+[16:15] in place today. Uh data privacy deals
+[16:18] with individual dignity, autonomy,
+[16:21] control over personal life and choices.
+[16:25] It answers the question, what part of my
+[16:27] life should be free from intrusion? and
+[16:29] it's more normative and value based in
+[16:32] nature. In contrast, data protection
+[16:35] deals with um personal data um during
+[16:40] collection, processing, storage, sharing
+[16:43] and deletion. It answers the question
+[16:46] how must uh information about me be
+[16:49] handled. Uh so data protection is more
+[16:52] technical, more procedural and
+[16:54] enforceable in nature. While data
+[16:57] privacy like I mentioned is a
+[16:58] fundamental right that comes from the
+[17:00] constitution of India. Data protection
+[17:02] is a statutory right which comes from
+[17:03] the a statute uh which is your DPDP act.
+[17:07] Uh data privacy is a broader concept
+[17:10] which includes borderly privacy, spatial
+[17:12] privacy when it comes to where your you
+[17:15] your movement is, decisional privacy, um
+[17:18] freedom of choice, beliefs,
+[17:20] informationational privacy
+[17:23] which is your personal data
+[17:26] and not all of these privacies. Data
+[17:29] privacy require involves data whereas
+[17:32] data protection is a much narrower
+[17:34] concept. It's actually a subset of data
+[17:35] privacy. protection issues relate to
+[17:38] privacy but not all privacy issues
+[17:40] involves data protection. Now this
+[17:43] particular act is applicable within
+[17:46] India and also it has it has extr
+[17:52] territorial reach. It is applicable
+[17:54] outside India if such processing of data
+[17:58] is in connection with any activity
+[18:00] related to offering goods or services to
+[18:04] data principles that is citizens within
+[18:07] India.
+[18:09] So if a a company is dealing with can
+[18:12] you go to earlier slide just to huh so
+[18:17] that means data privacy which is
+[18:19] fundamental right is our data our
+[18:22] information and you get protection if it
+[18:27] is processed by somebody and which is
+[18:30] statutory right am I correct so data
+[18:33] privacy is not limited to um data only.
+[18:38] So you have the right to not be
+[18:40] surveiled um you know by someone who is
+[18:44] standing outside your home uh and things
+[18:46] like that. So that's a broader concept.
+[18:49] But when it comes to data protection,
+[18:51] you're talking about personal data and
+[18:53] the the the right to having more control
+[18:56] over how that is distributed.
+[18:58] >> Ibrahim, you would like to add something
+[19:00] on this.
+[19:01] >> Ibrahim, you're on mute.
+[19:02] >> Sorry. So yeah is you know drawing
+[19:06] parallels uh data protection is more
+[19:09] come coming from the subject of like
+[19:11] cyber security like protecting the data
+[19:13] right while it uh while you're while
+[19:16] it's in the different life cycle like
+[19:18] when you're collecting sharing uh
+[19:20] processing it what are the controls data
+[19:23] protection controls you are applying to
+[19:26] to safeguard the personal data is more
+[19:28] personal data and data privacy is a more
+[19:31] broader concept Okay, thank you. Yeah,
+[19:34] sorry. Go ahead.
+[19:35] >> Right. And like I mentioned data privacy
+[19:37] even though it was a fundamental right
+[19:39] there was no kind of uh law rights is
+[19:42] particular right in in in a better
+[19:44] manner whereas data protection with this
+[19:46] DPDP act um this one part of data
+[19:49] privacy which is information privacy
+[19:51] when it comes to personal data you're
+[19:53] trying to enforce that in the country.
+[19:56] >> Okay. I mean every country has had some
+[19:59] kind of a data privacy law like US has
+[20:01] had they have a separate law for called
+[20:03] HIPPA for healthare grande which is used
+[20:08] by all the banks. uh certain states have
+[20:11] a privacy law. Now GD before GDPR EU had
+[20:14] so many uh different kind of regulations
+[20:17] about privacy but India has never had
+[20:19] like a typical right this is completely
+[20:22] uh you know not only defining the the
+[20:25] framework like policies and procedures
+[20:27] but also from an engineering perspective
+[20:30] a lot of things are involved that need
+[20:33] to be done by organizations.
+[20:35] In fact as you rightly say Ibraim I
+[20:38] remember I visited UK about 30 years
+[20:40] back I understand from them asking
+[20:43] somebody what is your age that itself is
+[20:46] looked upon interference in the privacy
+[20:49] that is looked upon you know offensive
+[20:51] way of putting the questions
+[20:54] >> correct
+[20:54] >> yeah that overshare so I'm I'll take
+[20:58] couple of examples right even if you go
+[20:59] to like a machine in India the guy
+[21:02] behind you or a bank counter the guy
+[21:04] will come right behind you right I mean
+[21:05] they'll they'll look into stuff the
+[21:07] privacy as a culture is not there you
+[21:09] know so I think that is the main idea a
+[21:13] lot of people say why do we need this
+[21:14] but you know we definitely need it for
+[21:16] many things I'll take a very small
+[21:18] example right uh there's a fintech
+[21:21] company it was in the news recently uh
+[21:23] there was a BBC documentary about it
+[21:25] right uh they were they were
+[21:27] specializing in giving loans to second
+[21:29] tier and third tier cities you know from
+[21:32] two lakhs to five lakhs and they had
+[21:33] enough data
+[21:34] about people who really needed money
+[21:37] very urgently and at the time of signing
+[21:40] up they would basically take so much of
+[21:41] their data. They would take data that is
+[21:43] not required. There was no lawful
+[21:45] business purpose for them to take that
+[21:47] kind of data. That kind of data is your
+[21:49] access to your phone book, access to
+[21:52] your contacts, your your your location,
+[21:56] um you know your camera, all that.
+[21:58] there's no business purpose but they
+[22:00] were taking all that information and
+[22:02] using it for other kind of purposes
+[22:03] right the loan wasn't paid on time then
+[22:06] they would call them up saying that we
+[22:07] know where you are we're going to come
+[22:09] right this is a documented thing that's
+[22:11] happens happened in India couple of
+[22:13] times but there's no data privacy law
+[22:15] right so now organizations can't even
+[22:18] collect any data that they don't have a
+[22:20] business purpose for so that's one of
+[22:22] the biggest exercise that organizations
+[22:24] have started to do is basically stop
+[22:26] holding the data that you actually don't
+[22:28] need read the data that you don't have
+[22:30] legal purpose for right that's a whole
+[22:32] you have to go on a data diet because
+[22:35] organizations have collected so much
+[22:37] data and data about data like metadata
+[22:40] where they have no business purpose
+[22:42] right
+[22:45] >> WhatsApp
+[22:49] don't have the business use any of the
+[22:51] private datas etc that is the case
+[22:53] please quit this country
+[22:56] >> that was the horse things which made by
+[22:58] the observation by the
+[22:59] >> because because Meta as a company they
+[23:01] have different privacy policies for
+[23:02] different countries which has privacy
+[23:04] regulation just because India doesn't
+[23:05] have that regulation for example they're
+[23:07] sharing data very freely between uh
+[23:09] Facebook Instagram and WhatsApp without
+[23:12] you consenting to that right how they
+[23:15] use that data how they process that data
+[23:17] that's a different subject but uh just
+[23:19] because we don't have that law they are
+[23:20] taking advantage of that that's why
+[23:22] Supreme Court is also trying to make
+[23:23] some judgments uh sorry some examples
+[23:26] >> okay yeah Yeah. Go ahead.
+[23:29] >> Yeah.
+[23:29] >> Somebody is putting a question. Do it
+[23:32] cover.
+[23:32] >> I think just one question we panelist
+[23:35] will discuss. I
+[23:37] >> No, no, no. I no no no. I'm not taking a
+[23:39] question because here when you say
+[23:42] people are collecting the data more than
+[23:44] what is necessary it is relating to that
+[23:46] someone is actually asking do it cover
+[23:49] any accessing location and contact
+[23:51] access of the persons whenever we are
+[23:53] taking because why are we are booking
+[23:54] the Ola through the application. That's
+[23:56] what he is asking.
+[23:58] >> Yeah.
+[23:59] >> Um yeah. So coming to applicability,
+[24:03] it is applicable within India. All the
+[24:07] personal data that is collected within
+[24:09] India by Indian companies uh for users
+[24:13] in India. Over and above that it is
+[24:16] applicable outside India too. If such
+[24:19] data, personal data relates to
+[24:23] principles or individuals and citizens
+[24:25] within India.
+[24:27] So any foreign companies collecting um
+[24:30] uh data on Indian citizens
+[24:34] is is also covered under this act. Uh
+[24:37] coming to digital uh so now this act
+[24:40] also limits itself to digital personal
+[24:43] data. Now this digital personal data
+[24:48] which is collected in digital form or
+[24:50] collected in non-digital form but
+[24:52] subsequently digitized.
+[24:54] So all in all it uh uh limits itself to
+[24:59] digital data only and not all the data.
+[25:03] Uh further there are certain exclusions
+[25:06] from applicability when you know this
+[25:08] kind of data is used for personal or
+[25:10] domestic use. If this data is publicly
+[25:13] available then it if it is used uh for
+[25:17] state instrumentalities for sovereignity
+[25:20] security of the state public order
+[25:22] research statistics then the government
+[25:25] can has the power to exclude certain
+[25:29] startups if they feel necessary etc.
+[25:32] Coming to the uh the the timeline for
+[25:36] its applicability. Uh some of it is
+[25:39] immediately applicable which was 13th
+[25:41] November 2025
+[25:44] uh which is uh you know definitions
+[25:48] um and the establishment and
+[25:50] constitution of data protection board.
+[25:52] Now this since November 2025 is kind of
+[25:55] just laying down a foundational work for
+[25:58] further implementation of the act.
+[26:02] One year later which is November 13,
+[26:04] 2026 uh regulations with relation to
+[26:07] consent manager which is a concept we'll
+[26:09] cover later will become enforceable and
+[26:12] 18 months after the notifications which
+[26:14] is 13th May 2026 the full act and rules
+[26:18] will be enforceable. Now let's dive into
+[26:21] key definitions and concepts under this
+[26:24] particular uh act. Now when we talk
+[26:27] about personal data um
+[26:31] who does this really belong to? Does it
+[26:34] belong to the person whose data it is?
+[26:36] Does it belong to um you know the
+[26:40] company that spends time and effort
+[26:42] collecting this data? Does it belong to
+[26:45] uh the government that is trying to you
+[26:47] know uh do certain surveys etc. The the
+[26:52] law answers this question which is this
+[26:54] personal data belongs to the person
+[26:57] itself which is the principle uh to whom
+[27:01] this particular data relates. Now what
+[27:03] is this personal data? Personal data is
+[27:06] defined as any data about an individual
+[27:11] identifiable by or in relation to such
+[27:14] data.
+[27:16] which means any data about an individual
+[27:19] that can be traced back to the
+[27:21] individual or it can identify an
+[27:23] individual or is it related to that
+[27:26] particular individual.
+[27:28] Let's look further into that. So
+[27:31] uh this um identifi identification or in
+[27:36] relation can be directly or indirectly.
+[27:39] Now directly you can identify an
+[27:42] individual through name, mobile number,
+[27:44] Aadhaar, PAN card, device ids etc. uh
+[27:48] sorry um name, mobile number, Aadhaar
+[27:50] card, PAN card etc. But something like
+[27:52] an device ID or a IP address or
+[27:55] something uh in silo may not be able to
+[27:59] identify a particular person. Now
+[28:01] indirectly is when certain different
+[28:04] data points point to a particular person
+[28:07] and related to related to a particular
+[28:10] person which then turns into personal
+[28:12] data. Now this act covers
+[28:16] um all types of personal data. It does
+[28:19] not essentially uh define sensitivity of
+[28:22] data. Um it it covers all personal data
+[28:27] when it comes to a particular
+[28:28] individual. Now coming to processing.
+[28:31] Now processing is another definition and
+[28:35] concept operation or set of operations
+[28:38] performed on digital personal data and
+[28:42] includes operations such as and it lists
+[28:44] down a number of different uh processes
+[28:47] that can take place on a particular
+[28:50] data. So any kind of process so any of
+[28:53] these kind of processes that you carry
+[28:55] out on a set of digital personal data
+[28:58] that is referred to as processing under
+[29:00] the app. So for example asking for phone
+[29:03] number in a particular form that a
+[29:06] person is filling out is that
+[29:07] processing? Yes, it is collection of
+[29:10] data. Storing Aadhaar in a database is
+[29:14] storage which is again processing of
+[29:16] data. Analyzing purchase history which
+[29:19] is use of data and hence again
+[29:21] processing of data. Sharing data with a
+[29:23] cloud provider is disclosure of data
+[29:26] which is again processing of data.
+[29:28] Running algorithms on user data
+[29:32] um is again processing of data.
+[29:35] Profiling users for ads it is
+[29:38] combination and inference of data which
+[29:41] is again processing of data. deleting
+[29:43] old customer records which is erasure
+[29:46] which is again processing of data. So
+[29:49] all of these different activities and
+[29:51] operations that take place on a digital
+[29:54] personal data refers to processing under
+[29:56] this act. Coming to digital principle
+[29:59] one of the main entities uh under the
+[30:02] law which the law is essentially trying
+[30:04] to protect. Now uh data principle means
+[30:08] the individual to whom the personal data
+[30:11] relates. there are certain additional
+[30:13] protection provided to a child. So when
+[30:16] there is a child involved then this
+[30:18] includes parents or lawful guardians of
+[30:21] such child. If a person with disability
+[30:23] then again the lawful guardian acting on
+[30:26] behalf of this disabled person. Let's
+[30:30] look at certain examples of data
+[30:31] principle. A customer using a mobile app
+[30:35] is a data principle. An employee whose
+[30:39] HR records are processed is a data
+[30:41] principle. So let's look at this again.
+[30:45] And all the data that companies hold for
+[30:50] its employees are also covered under
+[30:53] this act. A patient whose medical
+[30:56] details are stored digitally is also a
+[30:59] data principle. This is one of the most
+[31:01] important definitions under the code.
+[31:03] Coming to uh data fiduciary. Now this is
+[31:07] again one of the other very uh important
+[31:12] um entities under this act. Now data
+[31:16] fiduciary means any person who alone or
+[31:21] in conjunction with other person
+[31:23] determines the purpose and means of
+[31:26] processing personal data. Now if there
+[31:31] is an entity or an individual or an LLP,
+[31:35] government departments, public
+[31:37] authorities, NOS's etc. who is
+[31:40] collecting data and uh determining the
+[31:43] purpose and means of processing data
+[31:47] then that's a data fiduciary and once
+[31:50] you become a data fiduciary
+[31:53] oblations and responsibilities are put
+[31:55] on you under this act. Let's look at
+[31:58] certain examples. An e-commerce
+[32:00] platforms
+[32:02] e-commerce platform decides what
+[32:04] customer data to
+[32:06] Kel one minute. Ibrahim wants to share
+[32:08] something.
+[32:08] >> Yeah.
+[32:09] >> Can you go to the previous slide one
+[32:10] sec? So as Kel explained what data
+[32:13] fiduciaries are any organization that's
+[32:15] collecting the data and deciding what
+[32:18] are you going to do with the data is
+[32:19] considered data fiduciary. Now there's
+[32:22] another class of data fiduciaries which
+[32:24] is called significant data fiduciaries.
+[32:27] Now these organizations who are deemed
+[32:29] by the data protection board who will be
+[32:32] considered significant data fiduciary
+[32:34] will have a much higher compliance
+[32:36] burden compared to a data fiduciary. Now
+[32:40] who will be data fiduciary is going to
+[32:43] be notified by the DPDP board and that's
+[32:45] going to happen soon. uh but I'll just
+[32:48] uh from the you know couple of roundt
+[32:50] conferences that we had been to as part
+[32:52] of data security council of India and as
+[32:54] for is that
+[32:57] large volume of data definitely if
+[32:59] organization is processing and also if
+[33:01] it's sensitive though the DPDP doesn't
+[33:03] talk about sensitive health data but if
+[33:05] like like your health records right if
+[33:07] they get breached it can cause like real
+[33:11] you know you can really get lot of
+[33:13] distress to the data principle so these
+[33:15] organizations will be considered
+[33:17] significant data fiduciary. Now
+[33:19] significant data fudiciary needs to hire
+[33:21] a you know a data protection officer who
+[33:24] is you know one of the new roles that
+[33:26] all these organizations will need to
+[33:28] hire u you know they will talk to the
+[33:30] regulator customers and also uh you know
+[33:34] manage the program internally within the
+[33:36] organization that's the first thing have
+[33:38] a DP on board second thing is they have
+[33:40] to appoint an independent auditor and go
+[33:43] through DPIA
+[33:45] data protection impact assessment right
+[33:48] Um and the organization also has to
+[33:52] appoint the independent auditor first
+[33:53] and do audit on them and they have to
+[33:55] give the report on the annual basis
+[33:56] especially for data protection impact
+[33:59] assessment right uh that's high
+[34:03] processing high risk processing
+[34:05] activities. So most of insurance
+[34:06] companies banking would come under you
+[34:09] know significant data ficiary. Now one
+[34:12] more thing on a significant data ficiary
+[34:13] is that if they're using any kind of uh
+[34:16] AI algorithms right they will basically
+[34:19] need to make sure that they are able to
+[34:21] be so transparent that they can exhibit
+[34:24] to the regulator that you know that all
+[34:27] the AI principles are met. there are no
+[34:29] biases. Uh there are no hallucinations.
+[34:32] Uh if you ask a question today versus
+[34:34] tomorrow, it should be similar. Right?
+[34:36] So I mean it has to go through a data
+[34:38] protection impact assessment to make
+[34:40] sure that the AI algorithm the
+[34:41] significant data fudiciary is using is
+[34:43] not causing harms uh to the freedom and
+[34:47] rights of a data principle right which
+[34:49] is customer or employee. So I just
+[34:52] wanted to add that part because those
+[34:54] significant data fiduciaries have much
+[34:55] higher compliance burden than a data
+[34:57] ficiary.
+[35:00] >> We covered significant data fiduciaries
+[35:04] later on um in the in the
+[35:06] >> if I understand correctly the various
+[35:10] health companies and insurance companies
+[35:12] and hospitals all other people broadly
+[35:16] who are collecting the health related
+[35:18] information will come under this
+[35:19] category. Am I correct? Yes, I mean this
+[35:22] is going to be the you know master
+[35:23] umbrella and all like your your
+[35:26] healthare your IRDA or your you know RBI
+[35:29] sevy all the regulators are going to
+[35:30] come with more further detailing to this
+[35:33] but this has set the umbrella right for
+[35:36] for everything
+[35:38] >> certain examples um an e-commerce
+[35:40] platform that decides what customer data
+[35:43] to collect and how to use it becomes a
+[35:46] data fiduciary a bank that determines
+[35:49] processing of KYC transaction and credit
+[35:52] data becomes a data fiduciary. Hospital
+[35:54] when it comes to patient data collected
+[35:56] and stored becomes a data fiduciary.
+[35:58] Social media platform profiling, content
+[36:01] delivery, advertising etc. um becomes a
+[36:05] data fiduciary. Government department
+[36:07] that determines data processing for
+[36:09] welfare schemes become a data fiduciary.
+[36:11] Employer now again employer so that
+[36:15] covers a lot of uh organizations.
+[36:19] um determines um that determines
+[36:22] employee data collection and usage
+[36:23] becomes a ministry. Coming to data
+[36:26] processor, it's it's um another
+[36:29] definition and concept under the uh the
+[36:33] act uh data processor means any person
+[36:36] who processes personal data on behalf of
+[36:39] a data fiduciary.
+[36:41] So this uh particular entity it does not
+[36:46] determine the per purpose of processing.
+[36:48] The minute you determine the purpose of
+[36:50] processing you become a data fiduciary.
+[36:52] But this particular data processor does
+[36:54] not determine the purpose of fiduciary.
+[36:57] It does not decide the means
+[36:58] independently. It acts strictly on
+[37:01] instructions of data fiduciary. If an
+[37:04] entity starts deciding why it is why
+[37:07] data is used, it stops being a processor
+[37:10] and becomes a data fiduciary or a joint
+[37:12] fiduciary.
+[37:14] That means all
+[37:16] >> some examples
+[37:18] that means all the practicing people
+[37:20] like a meta firm or practicing company
+[37:24] secretary, practicing charted
+[37:25] accountant, practicing cost accountants
+[37:28] all those people who are there who are
+[37:29] collecting the data they are processing
+[37:31] for one reason or another either for the
+[37:32] certification or filing and other things
+[37:35] and all those thing all those people
+[37:37] will get covered on this.
+[37:39] >> Yes, they're all data producers.
+[37:40] >> Yeah. This is a very very interesting
+[37:42] topic and this is a one of the things
+[37:44] that organizations should start working
+[37:46] on this immediately. I'm talking from a
+[37:48] ground implementation perspective. So
+[37:51] now think about all the contracts that
+[37:52] you have with all the vendors that
+[37:55] you're using. you have to basically send
+[37:58] you know a updated contract to them for
+[38:01] them to sign that they will basically
+[38:03] abide with all the DPDP uh rules that
+[38:06] are mandated for a processor like as
+[38:08] some of the things Kinjel mentioned they
+[38:10] will you know have the best cyber
+[38:12] security controls u they will also
+[38:15] basically you know uh not do anything
+[38:17] else with the data besides the
+[38:20] instructions clear instructions that are
+[38:21] documented in the contract they'll only
+[38:23] do so and so things if there's a breach
+[38:25] they will notify them immediately and
+[38:28] they will invest in in cyber security
+[38:30] controls. Also, in principle, you know,
+[38:32] you are not supposed to send data to an
+[38:34] organization that has less cyber
+[38:36] security controls uh than you, which is
+[38:39] less uh secured than you. So, that's a
+[38:42] tricky part. Um, one of the part you
+[38:46] know which the which is the most tedious
+[38:48] part of uh of of DPDP act is basically
+[38:51] doing a data inventory knowing where the
+[38:53] data is within your whole organization
+[38:55] right but the tougher part is like even
+[38:58] you have to map what kind of data
+[39:00] elements you are sharing with each
+[39:02] vendor has to be documented. Now can you
+[39:06] imagine an organization how many vendors
+[39:07] do they have and what kind of data are
+[39:09] they sharing with each of the vendors
+[39:11] that has to be documented right and all
+[39:14] the privacy pol all the uh agreements
+[39:17] have to be updated with a very clear
+[39:19] distinction who the controller is and
+[39:21] who the processor is that's the biggest
+[39:23] problem right because in the vendor
+[39:24] agreements they they don't they don't
+[39:27] have an ownership or accountability of
+[39:28] who the controller will be and who the
+[39:30] processor will be
+[39:32] >> right I mean to certain examples when it
+[39:34] comes to data processors So if there is
+[39:35] a company who's using AWS to uh services
+[39:38] to host customer data then the data
+[39:41] processor in this particular scenario
+[39:42] becomes AWS. Bank who outsources KYC
+[39:45] verification the KYC vendor will become
+[39:48] the data processor. E-commerce platform
+[39:50] uses payment gateway. Now any
+[39:53] information data that they share with
+[39:54] the payment gateway and that they
+[39:56] process the uh they are the data
+[39:59] processor the payment gateway. Employer
+[40:01] that uses an HR SAS tool
+[40:05] where the HR software provider becomes
+[40:08] your data processor. Employer is the
+[40:09] data fiduciary. Hospital that uses
+[40:12] cloud-based EMR system. The EMR vendor
+[40:15] becomes the uh data processor. Who is
+[40:18] strictly acting uh on the instructions
+[40:21] of data fiduciary. Coming to consent
+[40:23] manager. Consent manager is again
+[40:25] another definition under this act. A
+[40:29] consent manager means a person who is
+[40:31] registered with the board to enable data
+[40:34] principle to give, manage, review and
+[40:37] withdraw her consent through an
+[40:39] accessible, transparent and interropable
+[40:44] platform.
+[40:45] Okay. So let's go through this one by
+[40:47] one. A consent manager must be
+[40:49] registered with the board uh that is
+[40:50] formed under this act. uh and they
+[40:54] provide a s single point of access to
+[40:57] manage consent for the data principle.
+[41:01] It does not represent data fiduciaries.
+[41:05] It does not use personal data for its
+[41:08] own purpose. It acts solely to execute
+[41:12] the will of data principle. It acts
+[41:16] solely to give, manage, review and
+[41:20] withdraw consent of the data principle
+[41:24] through a platform that they provide
+[41:26] that is accessible, transparent and
+[41:29] interopable.
+[41:30] Now uh like we saw that you know today
+[41:34] when you're signing up for something you
+[41:36] have pages and pages of terms and
+[41:38] condition with a lot of legal jargon
+[41:40] etc. you you really are not reading most
+[41:43] of it. you don't know what consent
+[41:44] you're giving uh uh what you're
+[41:46] reviewing uh etc. how much information
+[41:49] they are taking from you. This uh leads
+[41:51] to fatigue uh when it comes to any data
+[41:54] principle that is providing consent um
+[41:58] with regards to his or her data. So this
+[42:01] consent manager is essentially put in
+[42:03] place to help manage these kind of
+[42:08] consents and make it easier for data
+[42:11] principle to manage the consent that
+[42:13] they're providing when it comes to their
+[42:15] personal data.
+[42:17] >> I'll just say certain examples.
+[42:19] >> Yeah. Yes.
+[42:20] >> I'll just add something here about
+[42:22] consent manager. If you can go to the
+[42:23] previous slide. So consent manager is
+[42:26] you know very unique concept in India.
+[42:29] uh if you drop I mean you know initially
+[42:31] we said that DPDP act has been modeled
+[42:33] by GDPR but India has used this consent
+[42:37] manager as a very unique concept right
+[42:39] because
+[42:41] u mostly you if you want to process data
+[42:44] of a customer you need explicit consent
+[42:47] from them just in time no legal jargon
+[42:50] and explicit u you know if for GDPR and
+[42:54] other global regulations if you're
+[42:56] executing a contract with a with a some
+[42:58] with your customer then you don't need
+[43:00] explicit consent at some time some you
+[43:02] have concept of deemed consent but in
+[43:04] India there is you know you need
+[43:06] explicit consent for each and every
+[43:09] uh purpose for which you're processing
+[43:10] their personal data right for example if
+[43:13] a person opens the account in HDFC bank
+[43:15] earlier they would basically share it
+[43:17] with you know HDFC life insurance with
+[43:19] their sister companies but now they have
+[43:21] to explicitly say that you know I allow
+[43:24] them to like send marketing emails and
+[43:27] then they need to honor that right they
+[43:29] need to store that consent you know
+[43:30] there's a whole framework that's come
+[43:32] from mei of how this consent manager
+[43:34] should look like also right and they
+[43:37] need to you know it it has to be
+[43:39] immutable so it can be used in court of
+[43:41] law and it's a very unique concept so
+[43:43] other global company you know the whole
+[43:46] idea is that they want to make it kind
+[43:48] of a UPI kind of a system and also
+[43:52] uh in a way that uh that will that will
+[43:58] replicate the account aggregator
+[43:59] framework if you guys are familiar with
+[44:01] that but that's only for the financial
+[44:03] services but this will be the consent
+[44:05] manager will be a very similar concept
+[44:06] in the non-FS sector as well
+[44:10] yeah so consent management is the first
+[44:12] deadline that's coming up in this in
+[44:14] dece in November and you know this will
+[44:17] mean like you know consent management
+[44:18] from your website also website cookies
+[44:20] you will see very soon you will see a
+[44:22] pop-up banner from all uh websites that
+[44:25] are processing that are keeping
+[44:27] trackers and cookies on your browsers.
+[44:30] >> Ibrahim, I have one small question. I
+[44:32] don't know whether
+[44:34] >> I don't know whether I am correct or
+[44:35] not. Now, what happens when you are
+[44:38] talking about the explicit consent
+[44:40] >> today whenever we execute some loan etc.
+[44:45] There are agreements which are printed
+[44:47] in such a way I will rather put it in a
+[44:49] very absolute terms it all printed in
+[44:52] the fine print not to be read and if we
+[44:55] blindly sign. Yeah. Unless we sign we
+[44:57] are going not going to get our whatever
+[44:58] we wanted. So we are forced to sign
+[45:00] rather I will put it that way because
+[45:02] either you you don't have the choice to
+[45:04] alter it. You have a choice either to
+[45:07] concern or not to consent. If you not to
+[45:09] concern you don't get what you want but
+[45:11] if you concern you'll have it but the
+[45:12] thing is without understanding without
+[45:14] reading because it's all in the fine
+[45:16] print. It is I think probably it is
+[45:17] written that it should not be read that
+[45:19] is the way it is there. how that will
+[45:21] change in this act that is the
+[45:23] >> I think the intention right a very good
+[45:25] question very very good question
+[45:27] relevant question professor VA and I
+[45:29] think the intent of this government is
+[45:30] that basically they wanted they want to
+[45:32] make uh you know privacy uh awareness to
+[45:35] everybody in the in the society right uh
+[45:38] so that's why you know very soon you
+[45:40] will see data privacy policies being
+[45:43] sent to you by all the organizations
+[45:45] that you have shared personal data with
+[45:46] they will need to share the privacy
+[45:48] policy in 22 regional languages Again
+[45:50] this is a very unique concept in India
+[45:52] that they want every second thirdly
+[45:55] keep clicking without understanding what
+[45:57] are the intricacies what is the things
+[45:58] etc.
+[46:00] >> But that's why the law very clearly says
+[46:02] that it cannot be legally it cannot be
+[46:04] like legal jargon it should be easy to
+[46:07] understand normal person I can
+[46:09] understand you know just in time one one
+[46:12] sentence. So in fact one of our
+[46:13] insurance customers this is a problem
+[46:14] and we like breaking it down for them.
+[46:16] The huge paragraphs that they have where
+[46:18] people write just you know such a big
+[46:21] paragraph where they take multiple
+[46:22] consents at the same time is not allowed
+[46:24] anymore. So even if you go to an
+[46:26] insurance company's website they will
+[46:28] take consent if they have a you know
+[46:31] call me back form or everything very
+[46:34] clearly they will ask you that we will
+[46:36] take this data just to contact you for
+[46:38] this this purpose you know. So you will
+[46:40] see that in most of the websites now
+[46:43] going along
+[46:45] >> it is very intrusive right that some of
+[46:47] the cookies and like you know that our
+[46:49] clients basically store on their
+[46:50] customers browsers is so intrusive that
+[46:53] they actually when you're shopping or
+[46:54] you're transacting on a bank or you're
+[46:56] buying something from Amazon which they
+[46:58] have no no reason to know but they
+[47:00] exactly know they're building a persona
+[47:02] from you okay this person shops in the
+[47:04] night he's impulsive he likes sweet
+[47:06] something you know and then they will
+[47:07] personalize stuff for you. So
+[47:12] >> yeah that is what it's seen in many of
+[47:13] the sites you know although we think we
+[47:15] have visited only this site we get
+[47:18] various you know unwanted calls etc from
+[47:20] the other sites by using this particular
+[47:23] site that means automatically the
+[47:25] information travel down to various other
+[47:27] places without our knowing it that's
+[47:29] what it happens today
+[47:30] >> right so this concept of consent manager
+[47:33] will become applicable from November
+[47:35] 2026 it's not applicable yet so we have
+[47:39] looked at different definitions and
+[47:41] different uh say characters. Uh
+[47:44] >> can I just add one thing? I'm sorry. Can
+[47:45] I just add one thing to the I think it's
+[47:47] pretty important right that if you go to
+[47:48] the previous slide the so the deadline
+[47:51] is about you know um May for consent man
+[47:54] so sorry November 2026 for consent
+[47:56] manager and in that much time what
+[47:59] organizations are expected to do is they
+[48:02] are supposed to basically reach out to
+[48:03] all the data principles which is their
+[48:05] customers and tell them that this is we
+[48:08] have updated our privacy policy this is
+[48:10] how we are using your data this is who
+[48:12] we are sharing the data with uh and If
+[48:15] you wish not and this is the kind of
+[48:18] consent we have from you you can
+[48:21] unconsent if you like you have to give
+[48:23] that option to them. Now can you imagine
+[48:26] the exercise that organizations
+[48:27] basically need to do? I mean the the
+[48:29] question professor bar that you picked
+[48:31] up about insurance company and the
+[48:32] legacy data from legacy uh customers who
+[48:36] are there in legacy systems you know
+[48:39] it's you have to send each and every
+[48:41] customer SMS emails message whatever
+[48:44] communication you're you're taking uh
+[48:47] but you need to send them updated
+[48:48] privacy policies and give them the
+[48:50] option of opting out if they don't want
+[48:52] further processing of their data. That's
+[48:55] a huge ask until November 26, you know.
+[48:59] >> So, uh, now we looked at different
+[49:02] parties and different characters under
+[49:04] this DPDP ecosystem. Uh, one is the data
+[49:08] principle who is the person to whom the
+[49:10] personal data relates. Um, data
+[49:13] fiduciary who's collecting the data,
+[49:15] deciding how the data is processed. Data
+[49:17] processor who's processing the data uh
+[49:20] on the instructions of data fiduciary.
+[49:22] Consent manager who's managing consents
+[49:24] for the data principle significant data
+[49:26] fiduciary which we will discuss in more
+[49:28] in detail later. Um then coming data
+[49:32] auditor who is um auditing these
+[49:35] different uh systems and policies and
+[49:39] management of this uh personal data
+[49:42] under this act. Then the data protection
+[49:45] board of India which in which is uh you
+[49:48] know in the process of being appointed
+[49:50] today who is essentially a regulator for
+[49:54] uh this DPDP act.
+[49:57] Now under the DPDP act um the these
+[50:00] different um uh Kel go to the go to the
+[50:04] earlier slide. No
+[50:06] >> I just realized there are a lot of
+[50:08] questions here as well.
+[50:10] >> Yeah we have to attend at the end
+[50:11] otherwise we will not be able to finish.
+[50:13] That's the reason. So that's why you
+[50:15] keep on adding your comment at the end
+[50:17] we'll cover that and many times they ask
+[50:19] the information which is there in
+[50:21] subsequent slide. Uh just uh quickly you
+[50:25] can just mention that what it is role of
+[50:28] this that will clarify the audience. Kel
+[50:32] you have explained this but I'm
+[50:33] requesting panelists to just explain
+[50:35] this with the practical example if
+[50:37] possible. So data principle is anybody
+[50:40] who will whose data is being collected
+[50:42] right I mean I think you already
+[50:43] mentioned that it can be employee or
+[50:45] customer data fiduciary or significant
+[50:48] data fiduciary anyone who's collecting
+[50:50] the data and deciding on the means and
+[50:52] purpose of of the data but now suppose
+[50:56] there's somebody as bank bazar right
+[50:58] bang bazar basically collects the data
+[51:00] but it doesn't collect it collects it
+[51:01] for multiple people right so it becomes
+[51:05] in certain way a joint controller also
+[51:08] Right? Because if they are correcting
+[51:10] only for purpose of a single client, a
+[51:12] agent is collecting data from
+[51:15] individuals only for a single client,
+[51:17] then they become joint uh data
+[51:19] fiduciary. So they have joint
+[51:20] responsibility as per the law. Data
+[51:23] processor, we've already covered I think
+[51:25] she's given good examples like TCS and
+[51:27] you know all these companies whoever you
+[51:29] send the data out to most of the people
+[51:30] say that they don't have they don't give
+[51:32] data to any data processor including one
+[51:34] of the stock exchanges in India. But
+[51:36] then we had a long discussion that if
+[51:38] you're using Office 365 you are you are
+[51:41] sending data outside all your data all
+[51:43] your email is outside right so people
+[51:46] basically want to just say that they
+[51:48] don't have anything and they don't need
+[51:49] to comply right some like couple of days
+[51:52] I was on a call with a CISO and he
+[51:55] really deals with information security
+[51:57] protecting the data but privacy is is
+[51:59] not there right so he's saying I mask
+[52:00] all my data that means I don't need to
+[52:02] comply so I mean that awareness that
+[52:05] it's a completely new stuff and a lot of
+[52:07] things are required. So if you are using
+[52:10] office 365 you have a data processor you
+[52:13] know so you have to make sure
+[52:15] >> interesting yeah
+[52:17] >> yeah consent manager we have we have all
+[52:21] you know discussed this is going to be
+[52:23] more clarity is going to be require is
+[52:25] going to be coming out
+[52:27] >> a lot of we are seeing that a few or
+[52:29] consent managers are organizations like
+[52:31] account aggregators
+[52:34] but what we are seeing a lot of banks
+[52:35] they are building their own consent
+[52:37] management platform themselves. Now this
+[52:39] is again something which was not
+[52:40] expected but a lot of big big banks um
+[52:43] you know of the likes of Yes Bank they
+[52:46] are or you know pay you which which owns
+[52:50] u uh
+[52:53] uh Lazy Pay those those organizations
+[52:55] are building their own consent because
+[52:56] they don't want to expose their whole
+[52:58] technology stack to a third party vendor
+[53:01] you know because for whatever reasons
+[53:02] right
+[53:04] so
+[53:06] these people are building their own this
+[53:08] thing. But then the accountability and
+[53:11] trans and trans transparency right if
+[53:13] something goes to court then how can you
+[53:15] the whole idea is that a independent
+[53:17] consent manager is completely
+[53:18] independent without any biases if you
+[53:21] are storing your consent and it's
+[53:22] doesn't have that rel
+[53:26] >> yeah independence data auditor this is a
+[53:28] new I think most of the uh this will be
+[53:31] a whole new breed of uh you know
+[53:33] auditors that'll be required right now I
+[53:36] think EI just released a day four
+[53:38] yesterday that only
+[53:40] out of the professionals who are there
+[53:42] in the data privacy only 30% feel really
+[53:45] competent and about 60 70% are not
+[53:48] feeling what what is going to be
+[53:49] required from them from DBTP so a lot of
+[53:51] upskilling re resklling is required
+[53:55] right uh data protection board comes
+[53:58] under the meaty and they are the ones
+[53:59] who are going to be putting the fines
+[54:02] uh
+[54:04] >> yeah thanks this given the entire
+[54:06] activist who are there in the system of
+[54:09] thanks. Yeah. Go ahead.
+[54:13] >> Yes. So under this act the this act puts
+[54:16] a lot of responsibilities and rights on
+[54:19] all of these different parties. So one
+[54:22] of the main parties on whom a lot of
+[54:25] obligation and responsibility has been
+[54:27] put because this is the person who is
+[54:30] deciding how the data is processed,
+[54:33] where it is used, how it is used. uh
+[54:36] being the data fiduciary.
+[54:39] Let's look at all the the basic core uh
+[54:44] obligations and responsibilities of a
+[54:46] data fiduciary. Now data fiduciary is
+[54:48] the one that is collecting the data and
+[54:50] deciding where how the data is being
+[54:52] used. So one of the main requirements
+[54:55] for a data fiduciary is uh that they can
+[54:59] whom this data relates. The consent must
+[55:02] be free, specific, informed,
+[55:05] unambiguous, unconditional and given
+[55:09] through a clear affirmative action. It
+[55:11] cannot be ambiguous
+[55:14] and processing without this valid
+[55:16] consent will result into illegal
+[55:18] processing. Now there are certain proc
+[55:21] uh certain processes processing of data
+[55:24] which falls within legitimate uses which
+[55:26] includes performance of legal
+[55:28] obligations under particular act or uh
+[55:31] court requirement things like that. Uh
+[55:34] medical emergency government functions
+[55:36] that have been authorized by law,
+[55:38] employment related purposes when it
+[55:40] comes to safety at work etc.
+[55:42] uh where um using this data uh without
+[55:47] consent is allowed under the law unless
+[55:50] it is specifically
+[55:52] um you know forbidden by law
+[55:55] then then um that is um allowed
+[55:59] >> as you can see on the right there are
+[56:01] very slim things right I mean what I
+[56:03] mean medical emergency like if you
+[56:05] somebody meet an accident you don't
+[56:07] really need to like give his name number
+[56:09] you need to basically admit him first
+[56:11] and then you And you know no consent is
+[56:13] required from the this thing. Uh state
+[56:15] functions if somebody is basically you
+[56:17] know narco terrorist or something right
+[56:20] then they want to do surveillance on him
+[56:22] but that also has to have certain bases.
+[56:24] Uh very slim things over here right
+[56:26] employment because sometimes as a you
+[56:29] know when you're applying for a job you
+[56:31] are voluntarily sending your resume to
+[56:34] the organization right so you don't need
+[56:37] their consent when somebody's applying
+[56:38] for a job. So what I'm trying to say is
+[56:39] that it's a very the certain legitimate
+[56:42] uses for the data is very slim for
+[56:45] everything else be prepared
+[56:47] organizations be prepared to collect
+[56:49] consent explicit consent and honor those
+[56:52] record those consents on blockchain
+[56:54] ledger and honor those if somebody says
+[56:57] that do not send me marketing emails you
+[56:59] cannot send them marketing emails there
+[57:01] are huge fines associated with consent
+[57:03] >> so that means in this particular act the
+[57:05] implicit consent will not be
+[57:08] That's gone. That's gone. implicit
+[57:10] consent is the word itself is actually a
+[57:14] doesn't mean deemed consent implicit or
+[57:17] deemed consent that is used to call in
+[57:19] GDPR that thing is not very
+[57:22] I'm asking why I'm asking this question
+[57:24] is when we share the financial details
+[57:27] to the practicing people only for the
+[57:29] purpose of filing and things etc thing
+[57:31] and so when we are given this for their
+[57:33] usage for this particular purpose the
+[57:36] financials are with him they can use for
+[57:38] some other purposes also for which I
+[57:40] have not given the consent because the
+[57:42] whole idea is you have shared the
+[57:44] information to me I am using it so there
+[57:46] is already implicit concern is there can
+[57:48] that work actually
+[57:49] >> yeah because because methan meta if they
+[57:52] are doing some sort of the filing for
+[57:54] the people the financial information is
+[57:56] shared with them
+[57:57] >> it is shared only with them for the
+[57:59] purpose of filing and other things etc
+[58:01] but can they be used for any other
+[58:03] purposes for which is the specific
+[58:05] concern has not been taken because you
+[58:06] already posed on the information to be
+[58:08] you given the concern to be for
+[58:09] Yeah then that broader you know purpose
+[58:12] as part of your agreement can be defined
+[58:13] as a consent right for all business
+[58:15] related processing activities right uh
+[58:19] but that will be you you you will still
+[58:20] need to take explicit consent in the
+[58:22] beginning at a at a larger umbrella
+[58:24] level I believe I'm just need to
+[58:26] understand the nuance a little bit more
+[58:29] uh
+[58:30] >> that means organization has to got a lot
+[58:32] of things to think and reward their
+[58:35] agreements and other things and all how
+[58:38] to pass the information where it can be
+[58:39] used where it cannot be used to do and
+[58:41] don'ts and all those things that's a big
+[58:43] job
+[58:44] >> yes
+[58:46] >> have you covered children children
+[58:48] consent
+[58:49] >> yes
+[58:49] >> yeah it is coming it is coming
+[58:51] >> coming to the second requirement uh
+[58:53] again which is notice and transparency
+[58:55] obligations so before the or at the time
+[58:59] of collection of the data the data
+[59:02] fiduciary must provide a clear
+[59:04] accessible notice stating type of
+[59:08] personal Data collected, purpose of
+[59:10] processing, rights of the data
+[59:12] principle,
+[59:14] manner to withdraw consent,
+[59:17] grievance to address mechanism if they
+[59:20] have any grievances,
+[59:22] details of data protection officer if
+[59:24] that is applicable. So if uh it's a
+[59:27] significant uh data fiduciary, which is
+[59:29] a concept we'll be looking into in
+[59:31] detail later, then they'll have a data
+[59:33] protection officer. Um that is one point
+[59:36] of contact. uh if those the details for
+[59:40] the the such data protection officer
+[59:43] must be provided uh in the notice at the
+[59:47] time or before the collection of data.
+[59:51] This notice must be clear and plain and
+[59:54] must be available in English and other
+[59:56] Indian languages. I I think there are 22
+[59:58] Indian languages u mentioned in the age
+[60:01] schedule and there should be no dark
+[60:03] patterns or deceptive inter uh in inter
+[60:05] interfaces
+[60:07] um while taking this consent and in case
+[60:11] of any dispute uh the burden of proof
+[60:14] lies on the data fiduciary uh to prove
+[60:17] that valid notice was given and consent
+[60:20] was obtained uh when it came to
+[60:23] collection of data. Um coming to coming
+[60:27] Hello.
+[60:28] >> Yeah, go ahead.
+[60:29] >> Hey. Yes. Yes. Go ahead. Your voice is
+[60:31] clear.
+[60:32] >> Okay. Uh coming to um data processor.
+[60:37] Now data processor becomes a vendor for
+[60:40] a data fiduciary who processes data on
+[60:43] behalf of the data fiduciary. So a data
+[60:46] fiduciary may only engage a data
+[60:48] processor under a valid contract. The
+[60:51] fiduciary remains responsible for the
+[60:53] processor's compliance. So again, the
+[60:56] ultimate responsibility when it comes to
+[60:58] management of personal data, it always
+[61:01] stays with the data fiduciary even
+[61:03] though it may engage engage various
+[61:07] vendors with whom this data is shared.
+[61:09] But the ultimate responsibility will
+[61:11] always stay with the fiduciary. So it's
+[61:13] the fiduciary's responsibility to ensure
+[61:16] that prop proper practices um when it
+[61:19] comes to data protection is is
+[61:21] maintained at uh these vendors ends.
+[61:25] Coming to uh data integrity. So the data
+[61:28] fiduciary must ensure that personal data
+[61:31] is accurate and upto-date. It must
+[61:34] enable correction and updating upon
+[61:36] request. It must avoid decision making
+[61:40] based on outdated or incorrect data. So
+[61:44] uh if the data is used for decision
+[61:46] making or shared with other fiduciaries,
+[61:48] it is the fiduciary's responsibility
+[61:52] to ensure its completeness, accuracy and
+[61:55] consistency. Then coming to grievance
+[61:58] redress,
+[61:59] um it is it is uh the fiduciary's
+[62:02] responsibility to establish an effective
+[62:05] grievance redress mechanism. uh
+[62:07] acknowledge and resolve complaints
+[62:09] within uh prescribed timelines which is
+[62:11] 90 days as of right now and provide
+[62:14] escalation to data protection board if
+[62:18] such grievances are unresolved. We'll
+[62:20] look at the grievance address mechanism
+[62:22] a little more in detail later. Coming to
+[62:24] data retention uh and duty to erase. A
+[62:28] data fiduciary must retain personal data
+[62:31] only as long as necessary. They must
+[62:34] delete data once purpose is fulfilled
+[62:36] and retention is no longer legally
+[62:38] required. This creates a mandatory data
+[62:41] lifestyle obligation and not an optional
+[62:44] housekeeping process. Uh when it comes
+[62:46] to data retention and management in case
+[62:50] the uh consent is withdrawn um and the
+[62:53] specified purpose for which the data was
+[62:55] collected is no longer there then the
+[62:59] data must be erased. For larger
+[63:02] e-commerce, social media or gaming
+[63:03] entities purpose is beat finish if the
+[63:06] principal does not contact the fiduciary
+[63:08] for 3 years. Then they must delete this
+[63:12] data the personal data when it comes to
+[63:14] the data principles that they're dealing
+[63:16] with. Fiduciaries must inform the
+[63:18] principal at least 48 hours before this
+[63:20] scheduled erasure. Now uh there is
+[63:25] security safeguards. So data fiduciaries
+[63:27] must implement technical safeguards that
+[63:29] is encryption, opification, masking,
+[63:32] strict access control. Uh when it comes
+[63:35] to the data that they are managing,
+[63:37] there must also be organ organizational
+[63:39] safeguard which is your different
+[63:41] policies, trainings that must be put in
+[63:43] place. Then the measures uh that um are
+[63:48] are are taken to ensure security
+[63:51] safeguards must be proportionate to the
+[63:53] volume of data that is being handled,
+[63:54] the sensitivity of data, risk of harm
+[63:57] etc.
+[63:59] Reasonable
+[64:00] security practices is now a statutory
+[64:03] obligation for this data fiduciary who's
+[64:06] collecting this data and not a best
+[64:09] practice. It is mandatory in nature.
+[64:11] they are required to maintain logs of
+[64:14] data access and retain these logs for
+[64:17] one year to enable uh any kind of
+[64:19] investigation that takes place later.
+[64:22] >> There is a breach.
+[64:24] >> Yeah. Ibrahim wants to add something. So
+[64:27] what we I mean these security safeguards
+[64:29] that these some of the mandatory ones
+[64:31] they have named as examples or exhibits
+[64:35] you know but there the regulator is
+[64:37] going to see the intent and how are you
+[64:39] going if and this has the highest fine
+[64:41] right if your organization does not put
+[64:43] enough security safeguard controls it
+[64:45] has the maximum amount of fine they
+[64:49] they they need to see an intent that
+[64:51] organization is investing uh based on
+[64:53] how muchever you know they deem fit as
+[64:55] per the operation processing operations
+[64:59] but the only way to show the regulator
+[65:00] is through some kind of certification
+[65:02] that you have done uh there's no other
+[65:05] way of basically exhibiting right
+[65:07] because these are few of them but there
+[65:08] are many more DSPM technology you know
+[65:13] uh anomalization pseudonymization there
+[65:16] are lot of other technologies and that's
+[65:17] why certification is very good for
+[65:19] organizations to keep to show that they
+[65:22] have the industry-wise best standards
+[65:24] right like ISO NIST and and what have
+[65:27] you.
+[65:28] >> Yeah. And the burden of proof to prove
+[65:29] that uh lies with the fiduciary with the
+[65:33] audit trails that they maintain when it
+[65:34] comes to this
+[65:35] >> and and as I don't know if I was very
+[65:37] clear when I said that that the
+[65:39] fiduciary has to make sure that the
+[65:41] processor has great cyber security
+[65:43] control. Not only just asking them but
+[65:46] basically more comprehensive the cyber
+[65:48] security controls like what we do for
+[65:49] some of our clients right now is ask
+[65:51] asking them to attach evidence also that
+[65:54] you know do you have a frame privacy
+[65:56] framework do you have a good exit policy
+[65:58] there's a whole framework for vendor
+[66:00] risk assessment where I mean you know
+[66:02] this especially cyber security works on
+[66:04] zero trust so you basically need to see
+[66:06] evidences that organizations have
+[66:07] actually applied these safeguard
+[66:09] controls you know uh to the level of
+[66:12] sometimes they randomly select like they
+[66:14] want to see antivirus being deployed DLP
+[66:17] data loss prevention which is a very big
+[66:20] part of DPTP app right nobody should be
+[66:23] able to just like take data from a USB
+[66:25] cable they want to see it to ask for
+[66:27] screenshots
+[66:29] >> so you can say to avoid liability
+[66:31] regulatory liability in future the
+[66:32] fiduciary has to take care very clearly
+[66:35] with the proper proof that that
+[66:37] processor has all the
+[66:40] security right
+[66:41] >> yeah I yeah but to you as a large
+[66:44] organization which has a matured cyber
+[66:46] security control, you cannot give it to
+[66:47] any Mickey Mouse company. You have to
+[66:49] basically make sure that other company
+[66:51] that you're sharing data with at least
+[66:53] has standards that are your level and
+[66:55] not lower than you. You're not supposed
+[66:58] to send data to any organization that's
+[67:01] has lesser cyber security controls than
+[67:03] you. So I think the most the most
+[67:05] matured in that is basically the the BF
+[67:07] the BFSI and from BFSI also I'll say the
+[67:11] banking and fintex are more matured in
+[67:13] that but every other function is really
+[67:16] lagging behind in that area.
+[67:18] >> Yeah we have that uh clients and they
+[67:22] ask so many information with the proof
+[67:24] for the security system actually they
+[67:27] have that in place. You're right. Thank
+[67:29] you. Yeah, because master there's a
+[67:31] master RBI regulation also that they
+[67:32] need to comply with which has a lot of
+[67:34] checks and balances for third party, you
+[67:36] know.
+[67:37] >> Now the the act specifies a breach
+[67:40] response protocol. Now this didn't exist
+[67:43] before in case there was any data breach
+[67:45] that was that happened. There was no
+[67:48] sense of accountability and this
+[67:50] happened very often uh which led to a
+[67:53] lot of leakage of data, misuse of data
+[67:55] etc. So this uh act actually codifies uh
+[68:00] a protocol for when such a breach
+[68:02] happens. So when this so what does a
+[68:06] personal data breach mean? It means that
+[68:09] any unauthor unauthorized processing of
+[68:12] personal data or accidental disclosure,
+[68:15] acquisition, sharing, use, alteration,
+[68:19] destruction or loss of access to
+[68:22] personal data that compromises the
+[68:24] confidentiality,
+[68:26] integrity or availability of personal
+[68:28] data. In case of personal data breach,
+[68:31] the data fiduciary must notify the data
+[68:34] protection board of India. It must also
+[68:37] uh inform the affected data principles
+[68:40] whose data has been breached and it must
+[68:44] do uh notify. So uh when it comes to the
+[68:49] board a detailed report must be
+[68:51] submitted within 72 hours. This will
+[68:53] include uh um broad facts relating to
+[68:57] this breach uh measures implemented or
+[69:00] proposed to mitigate risk. any findings
+[69:02] regarding the person who must have done
+[69:04] it uh remedial measures to prevent
+[69:07] reoccurrence
+[69:08] um etc. Um again when it comes to the
+[69:12] data principle data
+[69:15] disclose nature extent and timing of the
+[69:18] data breach uh consequences that might
+[69:22] lead uh because because of such data
+[69:26] leak when it comes to uh this data
+[69:28] principle measures implemented safety
+[69:30] measures that the data principle can
+[69:32] take to protect their interest etc. Now
+[69:36] um like I think we've alluded Quickly
+[69:39] add something for the for the breach
+[69:41] one. uh you know if an incident really
+[69:45] happens uh then that still needs to be
+[69:47] reported to the cert which has a 6-hour
+[69:50] deadline right which is more for cyber
+[69:52] security if so if there's a cyber
+[69:54] security incident you still have to
+[69:55] report it to the um to the to the
+[69:58] certain regulator within 6 hours and
+[70:02] what constitutes of a of a incident into
+[70:06] a personal data breach right so I'll
+[70:08] take an example of you know employee
+[70:10] laptop being stolen Simple example, an
+[70:12] employee laptop being stolen and that
+[70:14] employee laptop basically had encryption
+[70:16] in it. So if even if a third party stole
+[70:19] it, it doesn't have the encryption keys,
+[70:20] they will not be able to
+[70:23] decrypt it, right? In the ideal world.
+[70:26] But as part of that investigation when
+[70:28] you when when the data protection
+[70:30] officer usually will run the
+[70:31] investigation, they will need to see
+[70:34] what data was compromised. They need to
+[70:36] run a whole investigation report, right?
+[70:38] uh investigation template and then he
+[70:41] needs to take a call that why is he not
+[70:42] reporting it to the regulator if he
+[70:44] decides not to report it to the
+[70:46] regulator and to the customers because
+[70:48] the hard drive was encrypted and that's
+[70:50] a rational that he took right uh to not
+[70:53] inform the customers moving a step ahead
+[70:57] right the law also I mean if if data
+[71:00] basically what what what is a personal
+[71:02] data breach
+[71:04] data breach could also mean data that is
+[71:07] shared from one department to another
+[71:09] department accidentally. If the employee
+[71:12] all the employee related data has been
+[71:15] uh you know sent by email to somebody
+[71:18] from the marketing team you know that is
+[71:20] also considered a data breach at those
+[71:22] time also investigation templates needs
+[71:24] to be run and whatever decision needs to
+[71:27] be taken right u and I take a small
+[71:31] example for data breach in general if
+[71:33] anybody who's ordered pizza in Domino's
+[71:35] in India their data has been compromised
+[71:38] it's out there your name and your phone
+[71:39] number is already out there but nobody
+[71:41] actually went and even nobody you know
+[71:45] updated the the customers so they could
+[71:47] do some grieviances they could change
+[71:48] their passwords on other portals as well
+[71:51] because there's lot of linking to all
+[71:53] these things right but with this new law
+[71:55] now within within 72 hours you need to
+[71:58] you know uh report it to the regulator
+[72:00] and to the customers u so they can
+[72:03] basically change their passwords or what
+[72:04] have you right so the just wanted to say
+[72:06] that the whole uh definition of of of
+[72:10] incident and breach is pretty large.
+[72:12] >> Yeah, as you rightly say, I recolct this
+[72:16] not today. Maybe some 25 years back or
+[72:19] something. If you have the bank ATM
+[72:21] card, if something goes wrong, there
+[72:24] will be a telephonic check. You give
+[72:26] your name and address, give your date of
+[72:27] birth and uh you also tell me your phone
+[72:30] number or something like that. Then with
+[72:32] that, you know, they will give you the
+[72:34] new password.
+[72:36] >> They will send it actually. So people
+[72:38] used to make a you know scam out of that
+[72:41] and they used to do it has happened it
+[72:42] has been reported in the newspaper later
+[72:45] on they changed many things actually as
+[72:47] we moved along that can be done actually
+[72:49] even today also it is possible in some
+[72:51] of the cases as you rightly said
+[72:53] >> towards end of this webinar I'll put one
+[72:55] website uh it's called am I pond right
+[72:58] so you can put your email address and
+[73:00] you guys will see all the places which
+[73:03] year your data has actually got breached
+[73:05] right so even LinkedIn most If you've
+[73:07] used LinkedIn at a certain point of time
+[73:09] and your data has got breached uh you
+[73:10] know some uh like pepper fry those a lot
+[73:14] of companies will come up if you've been
+[73:15] using house so I'll put it later towards
+[73:18] the chat it's just a fun exercise that
+[73:19] you guys can see that how many times
+[73:21] your data has actually got breached
+[73:24] >> no no I actually agree with you because
+[73:26] many time what happens whenever we do
+[73:27] the things are lot of pop-up things
+[73:29] which keeps on coming automatically how
+[73:31] they get your email id how they get your
+[73:34] what number etc and other thing and all
+[73:35] because it is data is being said by
+[73:37] somebody unwantedly without your
+[73:39] knowledge. That is why it is happening
+[73:40] today.
+[73:41] >> Moving on. So there are special uh
+[73:44] protection given under the act to uh uh
+[73:48] say children and um uh person with
+[73:52] disabilities. The so uh where data
+[73:54] principle is below the years of 18 years
+[73:57] they must obtain a verifiable parental
+[74:00] consent that and they no company no
+[74:04] fiduciary is allowed to do any kind of
+[74:07] behavioral tracking targeted advertising
+[74:10] neither they allowed to process uh you
+[74:13] know that might is likely to cause harm
+[74:16] to these u children under the act. This
+[74:21] this so this kind of protection is one
+[74:24] of the strictest one that is there
+[74:27] globally when it comes to uh data
+[74:29] protection for children. That's a very
+[74:32] very difficult that's a that's a very
+[74:33] very difficult uh ask right taking
+[74:36] parental consent u uh so how to
+[74:40] implement it and how to assess it is
+[74:42] very very difficult right because
+[74:44] tomorrow if your child might uh there
+[74:47] are couple of ways of basically getting
+[74:48] a parental consent maybe through a
+[74:50] integration with digil locker right um
+[74:54] or taking the parents credit card to
+[74:57] basically verify that they're above 18
+[74:59] right so these
+[75:01] additional technology implementation
+[75:03] that organizations need to do right
+[75:05] right now looks like it that diger will
+[75:07] be the most conducive way of doing it
+[75:10] getting parental concern but sometimes
+[75:12] there's also a question that sometimes
+[75:14] you're taking more data to to become for
+[75:18] the subject of data privacy right so
+[75:20] >> talking to significant data fiduciaries
+[75:23] uh now these uh fiduciaries are um
+[75:29] notified by the government So these are
+[75:30] fiduciaries that uh you know they have
+[75:34] special features they're large uh in in
+[75:36] in the kind of data they handle. So when
+[75:40] it comes to volume and sensitivity of
+[75:42] personal data it's very high when it
+[75:45] comes to them. Uh then they deal with
+[75:47] data personal data that has risk to
+[75:49] rights of the data principle. then they
+[75:52] might be dealing in data which has risk
+[75:55] to sovereignity and integrity of India
+[75:57] um or even the electoral democracy of
+[76:01] India um or even the security of state.
+[76:04] So when any kind of fiduciaries that are
+[76:07] dealing with this kind of data um they
+[76:10] may be notified as significant data
+[76:12] fiduciaries by the government um and
+[76:15] they have a higher level of uh
+[76:17] obligation um and requirement under this
+[76:20] act.
+[76:21] and they may also face restrictions on
+[76:23] transferring data outside of India if
+[76:25] the government uh decides so.
+[76:29] Now these additional compliances under
+[76:31] the act uh refer to appointment of uh
+[76:34] India based data protection officer um
+[76:37] and and this this person must directly
+[76:41] report to board of directors. It is one
+[76:44] single point of contact for grievance
+[76:47] etc. When it comes to uh various data
+[76:49] principles that the data deals in, then
+[76:53] they they must have an independent data
+[76:56] uh they must have independent data
+[76:57] audits that must be uh conducted um uh
+[77:03] on notified uh frequencies by an
+[77:06] independent auditor to evaluate
+[77:07] compliance with this particular act. Um
+[77:10] they
+[77:12] um they also have uh data protection
+[77:16] impact assessments that they must
+[77:19] conduct um and uh publish these uh
+[77:23] reports. Um and they must have enhanced
+[77:26] security and governance controls. um and
+[77:31] they may uh designation uh they they not
+[77:35] allowed to uh designate any of these
+[77:37] kind of duties outside of their
+[77:39] organization.
+[77:42] >> So just a DPO the subject of a DPO is
+[77:44] very interesting when it comes to India.
+[77:46] Um you know the the DPO is supposed to
+[77:49] be an independent role. Uh so you know
+[77:52] as it mentioned either like highest
+[77:54] management, board of directors or
+[77:55] independence independent function um so
+[77:58] globally if you take any data protection
+[78:00] regulation this is a independent
+[78:02] function they should not have a dual
+[78:04] role while doing a data protection
+[78:05] officer right but the Indian law does
+[78:08] not basically talk about any of this. So
+[78:11] in my experience I I deal with data
+[78:13] protection officers who are completely
+[78:15] legal people because you know they are
+[78:17] drafting policies. Obviously it is
+[78:19] involved information security officers
+[78:21] they are wearing that global dual role
+[78:24] because they actually know how the data
+[78:26] is being there in the organization. One
+[78:29] of my insurance company actually your
+[78:30] company secretary and the legal head is
+[78:32] the DPO. um though not very technical
+[78:35] but then she has a very technical junior
+[78:37] DPO pseudo DPO who's working under her
+[78:40] but the responsibility is lying within
+[78:41] her at one time the CTO and the legal
+[78:45] head are they basically pushing the
+[78:47] responsibility so in India what I'm
+[78:49] trying to say is very unique again
+[78:50] compared to rest of the world that a
+[78:52] person can have dual roles till now
+[78:54] maybe in a further notification it might
+[78:56] come that it has to be a completely
+[78:58] independent role but right now we in
+[79:00] India we are seeing you know dual roles
+[79:04] like legal head with you know compliance
+[79:06] head or CISO or CTO. Just wanted to add
+[79:10] that right.
+[79:11] >> Yeah. Maybe initially as you rightly
+[79:13] mentioned as the time pass they will
+[79:15] make it independent.
+[79:16] >> Yeah. Yeah. As you really see as we go
+[79:18] by implementation then things will come
+[79:20] up accordingly things will also always
+[79:22] change.
+[79:23] >> But lot of lot of like top very like you
+[79:26] know I would say the top 10 20 CISOs of
+[79:29] India very proudly they were the batch
+[79:30] of CISO and DPO. The only reason because
+[79:34] they they really know how the data is
+[79:35] flowing in the whole ecosystem from a
+[79:37] technical perspective, right? So, but
+[79:40] the best DPO in my opinion is somebody
+[79:43] who has, you know, all you know, all the
+[79:46] knowledge, little bit of every
+[79:47] knowledge, technical knowledge, legal
+[79:49] knowledge, you know, chartered
+[79:51] accountant, who understands audit,
+[79:52] isaka, IT controls, everything. And most
+[79:55] importantly that person should be a the
+[79:57] most successful DPOS that I've seen
+[79:59] who've done a great job is uh a people's
+[80:01] person because you have to talk to the
+[80:03] regulator. You have to talk you have to
+[80:05] be the seller of data privacy within the
+[80:07] organization. So you are the the face
+[80:10] right promoting data privacy within the
+[80:12] organization and also dealing with
+[80:15] customers. So people and again other
+[80:17] stakeholders like it or legal cuts
+[80:20] across many functions. So people person
+[80:22] having broad knowledge right now in
+[80:24] India seems a very great uh fit.
+[80:27] >> Um coming to the data principle the act
+[80:30] uh puts codifies u the rights and
+[80:34] responsibilities of a data principle.
+[80:36] Let's let's look at what those are. So
+[80:39] when it comes to rights uh all data
+[80:43] principles to whom this uh personal data
+[80:46] relates have the right to access
+[80:49] information that the fiduciary uh has on
+[80:54] them. They also have the right to
+[80:56] correct and update the information that
+[80:59] with uh the fiduciaries when it comes to
+[81:01] their personal data in case there is a
+[81:04] change in phone number, address etc.
+[81:07] then they have a right to erasure. If
+[81:09] they don't want their uh personal data
+[81:13] to be with a particular fiduciary to be
+[81:15] processed in a certain way then they
+[81:17] have a right to ask them to erase their
+[81:20] personal data. They have a right to
+[81:22] grievance redress. So um under the act
+[81:26] the fiduciary is required to have an
+[81:28] internal grievance redressing mechanism.
+[81:30] If that fails then there is an external
+[81:32] grievance redressing mechanism under the
+[81:33] code. uh we look into that uh in the
+[81:36] coming slides. They also have the right
+[81:38] to nominate someone when it comes to uh
+[81:41] practicing all of these rights
+[81:44] that they have under the act. They have
+[81:47] they also have the right to withdraw
+[81:48] consent when it comes to their uh data
+[81:51] that is being used by fiduciaries. Now
+[81:53] there are certain duties also that uh
+[81:57] have been codified um under um the act
+[82:01] when it comes to data principles.
+[82:04] Um so they must comply with all
+[82:07] applicable laws while exercising their
+[82:09] rights under this act. They they cannot
+[82:12] be you know uh not complying with um
+[82:16] other laws. Uh when it comes to this
+[82:19] particular act they should not be
+[82:20] impersonating someone else while
+[82:23] providing data. They must not be
+[82:25] suppressing material information
+[82:28] um for when it especially when it comes
+[82:31] to um state issued uh data collection
+[82:34] etc. They must uh furnish only
+[82:37] verifiable authentic uh information
+[82:41] um and as and when required requesting
+[82:44] correction and eraser when it comes to
+[82:46] their personal data. So um like so under
+[82:51] the act a lot of rights and
+[82:53] responsibilities have been placed on uh
+[82:55] data principles also when it comes to
+[82:58] their own data. Coming to consent
+[83:00] managers and uh their obligations and
+[83:03] duties under the code. Um so so coming
+[83:06] to requirement when it comes to a
+[83:09] consent manager uh a consent manager uh
+[83:12] must be registered with the data
+[83:14] protection board of India. It um uh it
+[83:18] must have
+[83:21] um financial solveny and net worth of
+[83:24] more than 2 cr rupees. It management
+[83:26] must be sound and possess specific
+[83:28] reputation of fairness and integrity and
+[83:31] it must possess sufficient technical
+[83:33] capacity to fulfill obligations prior to
+[83:36] registration. in the sense they should
+[83:38] have the capacity to put in place
+[83:40] processes, systems, cyber security
+[83:42] processes um and controls that allows
+[83:46] them to carry out the function required
+[83:49] under the under the act. Then coming to
+[83:51] core, so when it comes to um consent
+[83:56] managers, they must provide an effective
+[83:59] mechanism to enable granting of consent
+[84:03] uh to one or more fiduciaries. They must
+[84:07] uh enable uh withdrawal, notification or
+[84:11] denial of consent with ease and ensure
+[84:15] that this consent is free, specific,
+[84:17] informed, unambiguous
+[84:20] uh and granular.
+[84:22] They must also have data blindness. Um,
+[84:26] which means that consent managers must
+[84:29] ensure that they do not access, read or
+[84:32] use the personal data flowing through
+[84:34] their systems. They must be blind to
+[84:37] this particular data that is flowing
+[84:39] through the system. Their role is
+[84:41] limited only to consent signaling and
+[84:44] not data processing. technical
+[84:47] architecture ensures end-to-end
+[84:49] encryption or equivalent safeguards and
+[84:52] they should not become shadow data
+[84:54] processors.
+[84:56] So this this is a very important
+[84:58] requirement under the act and this u
+[85:02] consent managers must keep these
+[85:05] processes and systems that they have
+[85:07] maintained in writing and maintain audit
+[85:09] trail uh when it comes to these
+[85:12] requirements under the act because this
+[85:13] is paramount when it comes to their role
+[85:16] uh under the act
+[85:18] then they must maintain record and
+[85:21] retain it. So consent managers must
+[85:23] maintain complete uh records of consents
+[85:27] granted, consents withdrawn, consents
+[85:30] denied and notices issued by data
+[85:33] fiduciaries and these records must be
+[85:35] maintained for seven years or as
+[85:38] prescribed
+[85:40] and all this must be auditable and
+[85:43] traceable um under uh this particular
+[85:47] act. Now they must maintain data uh
+[85:51] transparency and access to um records.
+[85:55] So upon request consent managers must
+[85:58] provide data principles access to their
+[86:01] consent records and they must ensure
+[86:03] that the records are machine readable,
+[86:05] easily download downloadable and
+[86:08] accurate and complete. Then coming to um
+[86:12] certain requirements when it comes to
+[86:14] accountability and conflict of interest.
+[86:17] Um consent managers must act in
+[86:19] fiduciary capacity and prioritize best
+[86:22] interests of uh data principles. They
+[86:25] must avoid design choices that nudge or
+[86:28] manipulate consent outcomes. Um
+[86:32] and they must
+[86:35] also are not allowed to subcontract or
+[86:39] assign any of these legal obligations
+[86:41] under the act to any other party. They
+[86:44] cannot outsource or delegate the
+[86:46] statutory obligations and must retain
+[86:48] full legal responsibility for
+[86:50] compliance. They must also avoid
+[86:53] conflict uh of interest. So consent
+[86:56] managers must actively avoid conflict of
+[86:59] interest which includes no financial
+[87:01] interest in data fiduciaries, no
+[87:04] overlapping directors, KMPs or
+[87:06] controlling shareholders, no employment
+[87:09] or consultancy relationships that impair
+[87:12] the neutrality and there's a mandatory
+[87:15] disclosure requirement when it comes to
+[87:16] promoters, directors and shareholders
+[87:18] holding more than 2% um equity uh in uh
+[87:23] any of the fiduciaries or any of these
+[87:25] uh
+[87:26] consent managers when it comes to um
+[87:30] clash of conflict of interest. Then um
+[87:33] consent managers must implement robust
+[87:36] technical organizational safeguards to
+[87:38] ensure integrity of consent records,
+[87:41] availability, confidentiality
+[87:44] uh etc. There must be internal and
+[87:47] external audit mechanism. So consent
+[87:49] manager must establish effect effective
+[87:52] audit mechanism and periodically review
+[87:54] technical control security safeguards uh
+[87:57] compliance with neutrality principles
+[87:59] and they must submit these audit
+[88:01] outcomes to the data uh protection board
+[88:04] and in case of uh breach you know there
+[88:08] are several penalties that are
+[88:10] applicable um uh by the data protection
+[88:14] board which we'll get into later. Now um
+[88:17] coming to the data protection board of
+[88:20] India. Now the data protection board of
+[88:23] India uh is again the the the sections
+[88:26] relating to that and rules relating to
+[88:28] that are already um you know
+[88:31] implemented. Um and it it consists of
+[88:35] chair person and elected members. Um
+[88:38] they can um and they have the power of a
+[88:41] civil court. They can summon inspect
+[88:43] data books etc. they can impose
+[88:45] penalties uh under the act on all these
+[88:48] different parties um under the DPDP
+[88:51] ecosystem. Um it is essentially uh an
+[88:55] enforcer of the DPDP act and rules. Um
+[88:59] any kind of inquiry that it takes uh you
+[89:02] know when it comes to uh data protection
+[89:05] it must uh try and conclude within 6
+[89:08] months. Um and and uh so yeah it it does
+[89:14] uh play an important uh role when it
+[89:19] comes to um the DPDP act um and uh its
+[89:24] rules. We will get more and more clarity
+[89:26] on its functions and how it functions
+[89:29] etc. once you know there are more
+[89:31] sections and the DPDP act is more has
+[89:33] come into effect uh in on a larger
+[89:36] scale. Now the DPDP act uh puts in place
+[89:41] a dispute resolution mechanism um which
+[89:45] uh starts with uh the data fiduciary. So
+[89:49] under the act the data fiduciary
+[89:51] mandatorily is required uh and obligated
+[89:54] to establish an effective mechanism to
+[89:57] redress grievances of data principles.
+[90:00] Um and the data principle has a right
+[90:03] under the act to have a readily
+[90:05] available grievance redressal mechanism
+[90:09] when it comes to a data fiduciary and
+[90:11] consent manager for any kind of omission
+[90:13] or any kind of uh grievances that they
+[90:16] have. Then the fiduciaries must um in
+[90:20] must communicate the manner in which the
+[90:22] data principal may make a complaint to
+[90:25] the data protection board uh in the
+[90:28] initial notice when they are collecting
+[90:30] data and they must also give information
+[90:32] on this particular grievance redressal
+[90:34] mechanism.
+[90:36] Then uh fiduciaries must um prominently
+[90:41] publish the business contact information
+[90:42] of the data protection officer in case
+[90:45] of a significant uh uh fiduciary uh for
+[90:50] a person authorized to answer questions
+[90:52] about data processing on their website
+[90:53] or app. Um and this information must
+[90:57] also be included in every response to
+[90:59] data principles communication.
+[91:01] A data fiduciary or consent manager must
+[91:04] respond to the grievances within a
+[91:06] period of 90 days and uh they are
+[91:09] required to implement appropriate
+[91:11] technical and organizational measures to
+[91:13] ensure uh that they have systems that is
+[91:17] able to respond within this 90 days. Um
+[91:21] a data principal is required to exhaust
+[91:23] the opportunity first provided by the
+[91:26] data fiduciary to resolve this grievance
+[91:29] and if they are not uh able to do so
+[91:32] then they they can approach the data
+[91:33] protection board. If the data protection
+[91:35] board believes that the complaint can be
+[91:37] resolved through mediation then it may
+[91:40] direct parties to attempt resolution by
+[91:43] mutually agreed upon a mediator.
+[91:47] Then in case any complaints are received
+[91:49] by the board, then the board has the
+[91:50] power to inquire into these complaints
+[91:52] regarding breaches uh by fiduciaries or
+[91:56] consent managers and can impose
+[91:57] penalties
+[91:59] and it it functions as it's a digital
+[92:02] office meaning that all these functions
+[92:06] uh that are codified for this uh data
+[92:09] protection board can be done online
+[92:11] itself
+[92:13] as a digital office. Meaning the receipt
+[92:16] allocation and hearing of complaints uh
+[92:20] are digital by design.
+[92:23] Then uh there should be no false
+[92:26] complaints. Data principles have duty
+[92:28] not to register for false or frivolous
+[92:30] grievances. Um then if the if the board
+[92:34] thinks that the complaint is false or
+[92:36] frivolous, it can put out a warning or
+[92:39] impose a penalty. Um they can data
+[92:42] principles can also appeal u uh by any
+[92:46] kind of order actually any person
+[92:48] agreved by the order of the data
+[92:51] protection board can appeal with the app
+[92:52] tribunal within 60 days of the order.
+[92:56] Now penalties has been the most
+[92:59] eyeopening uh part of uh this data
+[93:02] protection law because these are
+[93:03] humongous uh when it comes to any kind
+[93:06] of breaches that take place. So um under
+[93:10] this act there is no imprisonment as
+[93:13] such uh that has been provided but the
+[93:16] financial penalties that are being put
+[93:18] on the uh uh people who are not uh
+[93:23] complying under this act is is quite
+[93:26] large. So in case of failure to take
+[93:29] reasonable security safeguards to
+[93:31] prevent breach, this uh is with response
+[93:36] to anyone handling personal data uh
+[93:39] under the DPDP act. uh if they fail to
+[93:43] put in place reasonable security
+[93:46] safeguards.
+[93:48] Uh which you know we mentioned earlier
+[93:50] when it comes to um um
+[93:55] cyber security or um oxification or or
+[93:59] uh you know things like that and putting
+[94:01] in place systems and processes um uh
+[94:06] encryption etc. um that um is up to the
+[94:12] that can be called reasonable security
+[94:14] safeguards. Um if they fail to do so
+[94:18] then there is a penalty of up to 250
+[94:20] crores.
+[94:22] Then when it comes to failure to notify
+[94:24] board or user when is when there is a
+[94:26] breach of data then there is uh a
+[94:31] penalty of up to 200 crores. Then when
+[94:34] it comes to breach of children's data
+[94:37] obligation then the penalty goes up to
+[94:40] 200 crores and in case of breach of
+[94:42] significant data fiduciary obligations
+[94:46] then the penalty goes up to 150 crores.
+[94:50] Now
+[94:52] if if a data principal fails to perform
+[94:54] the legal duties now we're talking about
+[94:57] the data principle the the data the
+[95:00] person to whom the data belongs. uh if
+[95:03] uh they fail to perform their duties
+[95:06] such as you know if they are
+[95:07] impersonating some someone else filing
+[95:09] frivolous complaints they may also be
+[95:12] fined up to 10,000 rupees then uh breach
+[95:16] of any other provision under the act or
+[95:18] its rules can lead to a penalty of up to
+[95:21] 50 crores rupees. So any other breach
+[95:24] apart from any of this can lead to a
+[95:26] penalty of 50 cr rupees.
+[95:29] Then then the uh the board does not
+[95:32] automatically apply the maximum fine.
+[95:35] Instead, it must consider several
+[95:36] factors to determine the proportionate
+[95:38] and effective amount. Uh so they will
+[95:41] consider nature, gravity and duration of
+[95:44] the breach. They will also uh take into
+[95:47] account time and sensitivity of personal
+[95:50] data that is being affected. uh whether
+[95:52] the breach is repetitive in nature and
+[95:54] if any financial gain realized or loss
+[95:57] avoided as a result of the breach. It
+[96:01] will also look at the mitigation efforts
+[96:03] taken by the person and how timely
+[96:05] effective those actions were. And they
+[96:08] will also look at the overall impact on
+[96:10] the person and the need to secure future
+[96:13] observance of law. So if they think they
+[96:16] need to make an example
+[96:18] um uh you know when it comes to handling
+[96:20] of data then you then you might just get
+[96:22] a maximum fine. So considering all of
+[96:25] these different criterias um the the
+[96:29] data protection board can levy penalties
+[96:32] uh when it comes to different
+[96:33] fiduciaries.
+[96:35] Uh then there is one more uh
+[96:38] uh you know consequence for a repeat
+[96:40] violator. So the act introduces a
+[96:44] blocking mechanism for repeat offenders.
+[96:46] So if a data fiduciary has been
+[96:48] penalized by the board in two or more
+[96:50] instances then the board may advise
+[96:52] central government to block public
+[96:55] access to information that enables a
+[96:58] fiduciary to offer goods and services in
+[97:00] India. So in case there are repeated
+[97:03] multiple breaches and uh instances of
+[97:06] non-compliance under the act then the
+[97:09] board can um directly ask uh and block
+[97:14] public access to information that allows
+[97:17] them to offer goods and services in
+[97:18] India.
+[97:20] it can it'll give the fiduciary an
+[97:22] opportunity of being heard and um if
+[97:26] still you know it's not convinced then
+[97:27] they'll block access to fiduciary's
+[97:29] platform in the interest of general
+[97:31] public. So uh coming to our compliance
+[97:36] roadmap and the way forward when it
+[97:38] comes to the DPDP act in India and the
+[97:41] concept of data protection in India and
+[97:44] how companies can go about um uh
+[97:48] adapting to various requirements uh
+[97:51] under the act. So um under the act uh it
+[97:56] is essential that uh a DPP governance
+[97:59] structure is firstly established
+[98:02] um and embed data protection into
+[98:05] corporate governance practices and not
+[98:07] IT operations alone. Um it it must
+[98:11] identify roles of a of a data fiduciary,
+[98:14] data processor, significant data
+[98:16] fiduciary wherever applicable
+[98:19] um and um uh codify it in in various
+[98:25] policies um uh you know of the
+[98:27] organization. They must con they could
+[98:30] constitute a DPDP compliance steering
+[98:32] committee uh you know with having
+[98:35] different functional heads such as legal
+[98:37] compliance, IT, cyber security, HR,
+[98:40] product operation, risk, internal audit
+[98:43] etc. that helps uh you know the company
+[98:47] kind of come up with a framework on how
+[98:50] they can comply with this particular
+[98:52] act. It can
+[98:55] >> Iraim coming to this compliance road map
+[98:59] all okay everything is fine but before
+[99:02] all those thing don't face with all the
+[99:04] departments in the company including the
+[99:07] top person of the company chairman
+[99:08] director other directors etc other thing
+[99:10] and all since you are in the field have
+[99:13] you conducted any sort of the awareness
+[99:15] program bringing to the notice with the
+[99:17] interface with the different department
+[99:18] people etc. Yes, absolutely. So,
+[99:21] basically the first step that we do is
+[99:22] that data protection officer, he's only
+[99:25] there to uh operationalize the program.
+[99:28] So the first step that we always do is
+[99:30] that we have like you know the CISO make
+[99:33] a data governance committee right and
+[99:35] data governance committee will have
+[99:36] people from all different departments
+[99:38] and obviously the ultimately they'll be
+[99:40] responsible the chief human resource
+[99:42] officer or the chief financial officer
+[99:44] HR chief HR officer they will have a
+[99:48] privacy champion that they will assign
+[99:50] because the initial one thing that she
+[99:52] has written right map the data landscape
+[99:56] create a personal data inventory which
+[99:57] is the at most right first thing first
+[100:00] blob right map data personal data this
+[100:03] usually is a very tedious exercise and
+[100:07] process owners themselves will be able
+[100:09] to only document that process the DPO
+[100:12] will kind of manage it so take for
+[100:14] example what is the new hiring process
+[100:16] right from a PI perspective so you will
+[100:20] you know have to understand the process
+[100:21] and document the process also have
+[100:24] related applications that are associated
+[100:26] with it um you know what data have you
+[100:29] collected has consent been there it's a
+[100:31] very detailed sheet called ROPA record
+[100:34] of processing activities it's a GDPR
+[100:37] term but each and every element from
+[100:39] that is required by our law so you need
+[100:42] what I'm trying to say is that you need
+[100:44] buyin from each and every department
+[100:46] head uh and the process owner to help
+[100:49] complete that thing so we do that with
+[100:50] the help of workshops first
+[100:53] >> I won't be surprised tomorrow there'll
+[100:54] be insurance policy on this for the data
+[100:56] protection et compensation
+[100:58] >> they already started. Are you talking
+[101:00] about cyber insurance?
+[101:02] >> Not cyber insurance. DPTVA any data
+[101:05] leakage etc out of
+[101:07] >> DP started DPDP insurance by 250 K is
+[101:10] the only driver why organizations want
+[101:12] to secure themselves otherwise I don't
+[101:14] think
+[101:15] >> yeah by looking at the fees the 200
+[101:18] crores penalty I thought immediately
+[101:20] there is insurance company will frame is
+[101:22] a suitable insurance policy at the
+[101:24] various levels like a DNO insurance
+[101:26] policy. Yeah,
+[101:27] >> but insurance companies are also doing a
+[101:29] DPDP assessment uh to to basically
+[101:32] underwrite the policy. So they also
+[101:35] underwriting it deeply. They're doing
+[101:37] vulnerability assessment, penetration
+[101:39] testing also on these organizations to
+[101:40] see how secured they are
+[101:44] by hiring third parties. Like
+[101:45] >> I can see here there are lot of scores
+[101:49] for the various professional
+[101:52] starting from insurance companies,
+[101:54] practicing professional even employee
+[101:57] people even interdep departmental faces
+[102:00] everybody
+[102:02] has got a greater role to play in this.
+[102:04] That's what it looks like. Not only that
+[102:06] for the practicing people also there is
+[102:08] a very good opport there is a very good
+[102:10] opportunity for the people because when
+[102:12] it come to the company secretaries they
+[102:14] have a duty to ensure the compliance
+[102:16] under all the applicable laws
+[102:17] automatically that will be one of the
+[102:19] things which will be coming it will be
+[102:20] good for the employee and as well as the
+[102:21] practicing company secretary same thing
+[102:23] with the chartered accountant because
+[102:25] when they're doing the auditing etc they
+[102:26] have the obligation to report the things
+[102:28] in the car report etc they have a
+[102:30] greater role to play similarly when it
+[102:32] come to the cost data again it's a
+[102:34] privacy data maintenance shade they
+[102:37] themselves should become a data
+[102:39] processor and again they are actually
+[102:41] perform themselves and they let also
+[102:42] ensure other things also performed all
+[102:44] those things are there I think
+[102:45] >> I mean a lot of things
+[102:46] >> yeah the economic times recently just
+[102:48] said that the immediate opportunity in
+[102:50] the next 18 months is about 20,000
+[102:52] crores right encompass encompassing
+[102:54] everybody like see there's a pie for
+[102:56] everybody a new industry right so
+[102:58] >> correct correct correct
+[102:59] >> there's a pie the chartered accountants
+[103:01] will come I think from next year where
+[103:02] they have to appoint independent
+[103:03] auditors right now organizations have
+[103:05] nothing. So even when we do gap
+[103:07] assessments, it's all basically you know
+[103:09] implementing the framework from next
+[103:11] year when the law comes into effect then
+[103:13] the DPI is independent auditors that
+[103:15] will come into effect right
+[103:18] >> again probably when you are talking
+[103:19] about the auditor again there will be
+[103:21] auditor eligibility qualification and
+[103:23] other things and also will come into
+[103:24] place. Yeah.
+[103:26] >> Yeah. But the first two points right
+[103:28] what what Kinjel has on a slide first
+[103:31] two data landscape and the high risk
+[103:33] processing activities these are this is
+[103:35] where the maximum amount of opportunity
+[103:37] also will lie making that data inventory
+[103:40] writing what is the legal purpose you
+[103:43] know it's a very detailed very
+[103:47] granular uh spreadsheet that you have to
+[103:49] basically map even like your vendor's
+[103:52] name nothing is automated it can be
+[103:53] automated slowly slowly but
+[103:56] >> you have to understand the process by
+[103:57] sitting with the business processes
+[103:59] business process owners you know and
+[104:01] every year they need to complete the
+[104:03] business owners need to complete the
+[104:04] data protection impact assessment the
+[104:06] DPO will just approve it but a lot of
+[104:09] work is is is shed down to the to the
+[104:12] business head owners who understand the
+[104:14] process really well
+[104:15] >> yeah that's right
+[104:17] >> and also obviously the IT how it
+[104:20] supports all those business processes
+[104:22] are extremely important as well where
+[104:24] privacy impact assessment on
+[104:25] applications become come very important
+[104:27] as well.
+[104:29] >> Only thing is I have a great concern
+[104:32] about the smaller companies you know
+[104:34] startup companies medium and enterprises
+[104:37] companies etc. how they will actually
+[104:40] cope they have how they will get
+[104:42] equipped to this sort of the level they
+[104:45] upgrade the IT services support etc and
+[104:48] other things. So now that now I think
+[104:50] that's a very very good question
+[104:51] professor Bala and I think that the the
+[104:54] if we need to define the the
+[104:58] definition of startup right so Lenskart
+[105:00] is also a startup right and we are also
+[105:03] a startup right so the the government
+[105:05] does not want to like really stiffil the
+[105:07] innovation also of startup so they are
+[105:10] they are actually going behind the
+[105:12] they're going to go behind the big guys
+[105:13] first not saying that they won't come
+[105:15] for the startups they will come come to
+[105:17] them but Um they don't want to stifle
+[105:20] innovation of startups either right now.
+[105:23] >> Perfect.
+[105:23] >> Yeah.
+[105:24] >> Kind slides more
+[105:27] >> since the last one
+[105:28] >> so that we can
+[105:29] >> I only wanted to cover that the largest
+[105:31] opportunity is in the data protection
+[105:33] framework defining.
+[105:35] >> No no just to say that because we have
+[105:38] lot many questions so I just want to
+[105:40] clarify. Yeah please go ahead.
+[105:41] >> No defining no a lot of lot of a lot of
+[105:44] lot of thing he has actually answered
+[105:46] the questions also. So we can take it.
+[105:49] Yeah.
+[105:51] >> Yeah.
+[105:51] >> Yeah. Mr. Ibra go ahead. You want?
+[105:53] >> So the first two part right the mapping
+[105:55] the data landscape and identify high
+[105:57] risk processing activity and doing a
+[105:59] DPIA. This is where the risk come out
+[106:02] like what is the risk then you can keep
+[106:04] monitoring the risk either accept the
+[106:05] risk or transfer the risk by taking
+[106:07] insurance or applying a control
+[106:09] framework. But the identification of the
+[106:11] risk will only happen with the DPIA
+[106:14] which needs to be done on an annual
+[106:15] basis. So that's a huge serviceoriented
+[106:18] heavy engagement project if you if I may
+[106:21] call it uh which starts after the
+[106:24] mapping the data landscape right the
+[106:26] ropar I mean anybody can see a ropar
+[106:28] template online you can see it or you
+[106:30] can share it at a later time to see what
+[106:32] actually goes in collecting that
+[106:34] personal data yeah I think I'm you can
+[106:37] move ahead
+[106:38] >> so after you know the a committee is
+[106:41] established uh where governance
+[106:45] uh where data protection is taken in as
+[106:48] a governance uh function
+[106:51] um and um various u functional heads
+[106:56] such as legal compliance, IT, HR,
+[106:58] product, risk, internal audit etc are
+[107:02] part of this particular committee that
+[107:04] helps kind of put in place this
+[107:07] particular framework uh in the
+[107:09] organization. Uh the organization must
+[107:12] appoint key roles also. So they must
+[107:15] appoint a data protection officer uh
+[107:17] which is mandatory for significant data
+[107:19] fiduciaries, a grievance officer
+[107:21] mandatory for all data fiduciaries and
+[107:25] uh they must designate a single point of
+[107:26] contact for data protection board any
+[107:29] kind of um uh communication with the
+[107:33] data protection board.
+[107:35] Then they must do data discovery and
+[107:38] risk mapping as um Mr. Brian mentioned
+[107:42] that this is one of the most important
+[107:44] steps. Uh it it creates a defensible
+[107:48] living record of personal data
+[107:50] processing. It uh you know it identifies
+[107:54] category of personal data collected,
+[107:56] sources, purpose of processing, legal
+[107:59] basis, uh if there is consent or
+[108:01] permitted use, storage locations,
+[108:04] retention periods, data processors,
+[108:05] vendors etc. It must be mapped in data
+[108:09] flows in when it comes to collection,
+[108:11] processing, sharing, storage, deletion.
+[108:15] And um this allows for this creates a
+[108:19] personal data inventory identifying
+[108:22] categories
+[108:24] um and risks associated with all of
+[108:27] these data processes. Now um once this
+[108:30] data has been mapped uh it it must the
+[108:34] company must identify and uh tag it with
+[108:37] the um the level of risk associated with
+[108:40] this data. So for example, children's
+[108:42] data is a high-risisk data. Large scale
+[108:45] profiling, behavioral tracking,
+[108:47] automated decision- making, crossber
+[108:49] data flows, etc. are high-risk
+[108:51] processing datas must which must be
+[108:53] treated with more care and attention.
+[108:57] Um and more controls must be put in
+[108:59] place for such kind of data. Then um
+[109:02] they must also have uh legal basis and
+[109:05] consent architecture. So for uh to
+[109:08] ensure that every processing activity
+[109:10] has a valid legal ground and you're not
+[109:13] just collecting data and you know
+[109:16] dealing with the obligations that come
+[109:18] with this additional data and you're
+[109:20] limiting your collection of data to uh
+[109:23] you know the processing activity that is
+[109:25] a valid legal ground. So for each
+[109:28] processing activity it must confirm
+[109:30] whether it is based on consent or
+[109:32] permitted legitimate use and if there is
+[109:35] any legacy if there is any old data that
+[109:37] has already been collected um is there
+[109:40] any unjustified purpose if not then you
+[109:43] can just go uh you know go about
+[109:45] deleting the same and not continue
+[109:47] maintaining this particular data. Then
+[109:50] coming to notice design and transparency
+[109:52] as I mentioned notice is one of the
+[109:54] requirements under uh the act when
+[109:57] you're before or when you're collecting
+[109:59] data.
+[110:01] Um so the company must ensure and draft
+[110:04] a layered purpose specific notices
+[110:06] covering data categories purpose
+[110:08] retention sharing rights grievance
+[110:10] mechanism etc as required under the law.
+[110:12] It must be clear accessible etc.
+[110:16] Then they must have consent management
+[110:18] system. Um they must uh make consent
+[110:22] provable uh uh if you know questioned in
+[110:26] law granular gran granular which means
+[110:30] for individual categories you know the
+[110:32] consent can be it's not a blanket
+[110:34] consent and withdrawable.
+[110:37] So they must implement affirmative
+[110:39] consent capture uh purpose-wise content
+[110:43] uh consent uh which is easily an easy
+[110:46] withdrawal mechanism. They must ensure
+[110:49] that there are back-end systems that uh
+[110:52] log these consents that timestamp
+[110:55] actions. They link consents to
+[110:57] processing and prepare for consent
+[111:01] manager interopability if any. Then um
+[111:05] they must also companies must also look
+[111:08] at data principle rights and enable
+[111:10] those. So for example um you know um
+[111:16] enable rights for data principles to
+[111:19] contact the fiduciary when it comes to
+[111:21] access correction erasia grievance
+[111:25] nomination etc. Uh so they can build
+[111:29] standardized request intake channels. uh
+[111:32] when it comes to data principles
+[111:34] um automate wherever feasible train
+[111:37] teams to handle rights and requests
+[111:40] sensitively when it comes to data
+[111:41] principles
+[111:43] and put in place these kind of SOPs.
+[111:46] Then coming to processors and data
+[111:49] processors and vendor compliances.
+[111:52] Um the fiduciaries remain the ultimate
+[111:55] ultimately responsible even when they
+[111:57] are outsourcing certain uh uh data
+[112:00] processing. When it comes to data
+[112:01] processes, they must update contracts to
+[112:05] include purpose limitation,
+[112:09] security obligations, breach reporting
+[112:12] timelines, deletion on termination,
+[112:15] closes in their contract. They must
+[112:18] conduct vendor risk assessments and
+[112:20] monitor processor compliance
+[112:22] periodically.
+[112:25] When it comes to security, breach and
+[112:27] life cycle controls um they must company
+[112:31] must ensure that there is reasonable
+[112:33] security safeguards. So they must align
+[112:36] cyber security measures with data
+[112:38] sensitivity. They must implement access
+[112:41] controls, encryption, logging, incident
+[112:44] response plans etc.
+[112:48] In case of personal data breach, the
+[112:51] response must be speedy, transparent and
+[112:54] evidence-based.
+[112:56] They they must define breach
+[112:58] classification thresholds. So uh if
+[113:02] there are if you know say a breach of
+[113:04] say one line item is probably gone out
+[113:07] then that might not uh you know require
+[113:10] uh this thing. So the defining of
+[113:13] thresholds that uh that are classified
+[113:17] as a breach, establishing reporting
+[113:20] protocol to the data protection board
+[113:23] and affected data principles as required
+[113:25] under the act
+[113:27] uh and um so putting in place breach
+[113:30] response SOPs when it comes to retention
+[113:34] and erasure controls. So um the the the
+[113:38] company must define retention schedules
+[113:41] as per purpose. So once the purpose uh
+[113:44] has been achieved then the
+[113:47] they there they can be systems in place
+[113:49] where the data relating to that
+[113:51] particular purpose is deleted and
+[113:54] erased. Um and that automate this can be
+[113:57] automated um and um
+[114:01] it must also ensure that the data pro
+[114:03] processor side data is also deleted. Uh
+[114:07] indefinite retention is a direct
+[114:09] statutory violation under the act. Then
+[114:12] there must be training audit and
+[114:14] continuous compliance under the act. So
+[114:17] um there must be organizationwide
+[114:19] training role based training when it
+[114:22] comes to HR, sales, IT, customer support
+[114:25] etc. Regular refreshers when it comes to
+[114:27] this training awareness for uh people
+[114:30] that are collecting so such kind of
+[114:32] datas. There must be internal audit and
+[114:34] assurance um to ensure and test that
+[114:37] there is consent validity um rights of
+[114:40] data principles have been handled
+[114:42] correctly and breach readiness in the
+[114:45] organization.
+[114:47] There must be um uh regulatory
+[114:50] engagement and documentation
+[114:52] uh to ensure that the the organization
+[114:55] is inspection ready. So they must
+[114:58] maintain policies, logs, decisions, risk
+[115:01] assessments to to prepare the
+[115:04] organization in case the data protection
+[115:06] board inquires for anything. So um
+[115:11] taking into account all of these you
+[115:13] know action actionable steps uh DPDP act
+[115:18] is not just a privacy policy law. It's a
+[115:22] governance accountability and power
+[115:24] rebalancing statute and um this this I
+[115:30] mean going forward it'll be very
+[115:31] interesting to see how this takes shape
+[115:35] as the time goes by and how everyone in
+[115:38] the country is impacted when it comes to
+[115:40] data protection in India.
+[115:42] >> Great KJ very nicely you have put it
+[115:44] everything encapsulated in a possible
+[115:47] things. Very great. Now let us quickly
+[115:50] go through the various questions. DBTA
+[115:52] is saying about the data protection
+[115:54] board appointed the concern manager as a
+[115:56] significant data. Can you actually go
+[115:59] aspect on the data subject right
+[116:01] application? I think this she has
+[116:02] covered enough. So we don't have to see
+[116:04] this.
+[116:06] Do it cover the accessing of the
+[116:08] location and contact access as many
+[116:10] application do not go ahead without
+[116:12] access of the location contact. He has
+[116:14] given the Uber
+[116:17] because again it is a need base. I think
+[116:19] if I'm not mistaken if I go by what our
+[116:21] panelist said it is a need base because
+[116:23] you want to be picked up at your place
+[116:25] unless you provide your information
+[116:26] where you are located you cannot be
+[116:27] picked up. So it is a need base only
+[116:29] thing is the sharing of the information
+[116:31] etc will be restricted that is the only
+[116:32] thing am I correct. Yeah. And recently,
+[116:36] I mean, I was also surprised, you know,
+[116:37] just drawing a parallel. I was recently
+[116:39] sitting in a Uber and then I was
+[116:41] speaking to the driver and it
+[116:42] automatically said that they're going to
+[116:44] be recording my conversation without my
+[116:46] consent. Right? For for purpose of my
+[116:49] security, right? So that's a purpose
+[116:52] that is again can be argued they don't
+[116:54] need my consent because they are worried
+[116:56] about my safety and that is a business
+[116:59] purpose. They started recording my voice
+[117:01] without my consent. Right? So there are
+[117:03] caveats and and nuances to that as well.
+[117:06] But most of the location is would be
+[117:08] considered a kind of a sensitive data.
+[117:10] Those organizations could be considered
+[117:12] significant data ficiaries.
+[117:14] >> Somebody has actually shared the
+[117:15] information some of the countries even
+[117:16] asking your nationality and the place
+[117:18] thing there etc and all the same will be
+[117:20] also considered. That's what he is
+[117:21] sharing it actually for information. It
+[117:23] is a different practice in the other
+[117:25] countries. and then uh 18 months after
+[117:29] should the May 13, 2026 or May 15, 2027.
+[117:33] >> I think as of today it is May 26 I think
+[117:37] that is what the law says actually. No,
+[117:39] no, no. It's it's basically the first is
+[117:41] um uh is in November 2026 and then is
+[117:44] May 2027 60.
+[117:46] >> It was in PP there was a mistake instead
+[117:49] of 26. I have corrected I said that it
+[117:52] was typo error.
+[117:53] >> Okay. Okay.
+[117:54] >> I answered that it should be
+[117:56] >> just a fun fact is I don't know if you
+[117:59] guys have been reading the newspapers
+[118:01] it's been there that the media is trying
+[118:02] to basically shrink the deadline further
+[118:04] from 18 to 12 months right now. Right.
+[118:06] And industry body is saying that anyways
+[118:08] 80 months is a lot of time you know we
+[118:10] will it could be wrong workflows and
+[118:13] which can cause more breach right
+[118:16] because pushing to technology has a big
+[118:18] risk
+[118:19] >> somebody is sharing the I think recently
+[118:21] India decide or broadly drawn
+[118:24] conferences and then it says collocation
+[118:26] of the data are closed away giving the
+[118:29] location and metal etc and doesn't logic
+[118:32] okay so my location is a personal data
+[118:35] so if I vacation
+[118:36] in Mumbai. I am recruiting to my
+[118:38] location access by the Oware is actually
+[118:41] under the protection granted by the data
+[118:44] protection act.
+[118:46] >> Many time people give concern for so
+[118:48] many prints hidden in the law that I
+[118:50] think you explained actually you talked
+[118:52] about cookies and other thing and all
+[118:54] you talked about it even the collection
+[118:56] information through the chatboard and
+[118:59] the cookies are also considered. Yeah,
+[119:00] that you also said actually can a
+[119:02] employee ID or medical claim ID is cons
+[119:06] personally identified data person that
+[119:08] also we asked you talked about the
+[119:10] insurance company and gave the example
+[119:11] etc and other thing and all so what is
+[119:14] the extent of the compliances to be
+[119:15] followed that she has put already she
+[119:17] has given the road map also
+[119:20] which organization will be
+[119:21] >> no they are telling say a small firm
+[119:24] which Mr. Iban said that they have to
+[119:26] work out on the definition of small and
+[119:28] all that we have covered actually I
+[119:30] >> everyone is talking as of today.
+[119:33] >> Yeah I read the basic question in fact
+[119:34] he answered initially it will be for the
+[119:36] big four but it will travel down to
+[119:38] small. Yeah.
+[119:38] >> Yeah. Because as I as I said very
+[119:40] clearly it will be difficult for the
+[119:42] smaller home and medium size companies
+[119:45] and other thing and all to put because
+[119:46] they need to the IT support they have to
+[119:48] put lot of things all those thing it is
+[119:49] going to be tough job actually for them
+[119:52] especially whether they will concentrate
+[119:53] on the business they will concentate all
+[119:56] these things that will be the larger
+[119:57] question okay which is the organization
+[120:00] will be covered with the significant
+[120:01] data industry
+[120:03] >> data ficiary which organizations will be
+[120:06] covered in significant data
+[120:07] >> data ficiary that will be only reported
+[120:10] by the data protection board only. They
+[120:11] will notify. Right now what we know is
+[120:13] that organizations that have large
+[120:15] volume of data and the breach of such
+[120:19] data could cause grievance to the data
+[120:23] principle right which could be your
+[120:24] health, medical, financial information.
+[120:27] So the the it's pretty broad. We have to
+[120:29] wait for the notification. But most of
+[120:31] the NBFCs sorry BFSI would be considered
+[120:35] um and even healthcare right hospitals
+[120:37] would be considered significant data
+[120:38] ficiaries.
+[120:40] >> I think next question is putting the
+[120:41] legal form professional etc that we
+[120:43] discussed actually they all will come
+[120:45] under that then further considering that
+[120:47] such firms
+[120:49] routinely collecting a processes and
+[120:51] harder effects personal and confidential
+[120:53] information in the course of
+[120:54] professional engagement. what internal
+[120:57] compliances, measures and the stratey
+[121:00] obligations are required to be
+[121:02] implemented to ensure adherence of the
+[121:04] DBTA act.
+[121:05] >> A lot of things are required. I mean
+[121:07] it's a that's a very broad question. Uh
+[121:10] are they is the question more around the
+[121:12] road map like what should they do when
+[121:14] >> correct correct that's what it looks
+[121:15] like because when the professional when
+[121:17] they are collecting lot of data etc for
+[121:19] the various purposes what should be
+[121:21] that's what he's asking she has put the
+[121:23] road map actually we have to as we go
+[121:25] along we have to take because only thing
+[121:27] is you have to ultimately protect the
+[121:29] confidence information but not doing
+[121:31] anything which is not warranted that's
+[121:33] what I think
+[121:34] >> basically silp is asking what all CACs
+[121:37] and the professor has to take care uh
+[121:40] simply I think that will require a
+[121:42] further guidance from our institute also
+[121:45] and also that because we but basic thing
+[121:49] Mr. Ibrahim that all this professional
+[121:52] you can give the guidance the basic idea
+[121:54] as such when collecting data
+[121:57] >> for from the clients uh for doing their
+[122:00] statutory obligations
+[122:02] what
+[122:02] >> I think all all the professional bodies
+[122:05] will come up with the guidance note
+[122:06] actually C
+[122:09] >> this is my opinion this is my opinion
+[122:11] right it's kind of part of like like you
+[122:14] know in the US they had sabain oxy which
+[122:17] was processoriented and they had one
+[122:19] part of it which was IT related testing
+[122:22] right that organizations basically need
+[122:24] to do like access control or change
+[122:26] management or
+[122:30] disaster recovery business continuity
+[122:32] all that you know it'll become as part
+[122:34] of like a checklist which organizations
+[122:36] will also need to do on an annual basis
+[122:38] right and I think that's the biggest
+[122:40] opportunity for CA firms right would be
+[122:43] there uh to do those annual audits
+[122:47] >> yeah yeah next year round it is going to
+[122:48] be one the more audit ones you'll be a
+[122:50] lot of opportunities will be there for
+[122:52] the people.
+[122:53] >> Yeah.
+[122:53] >> But right now right now see how they
+[122:55] basically the the design of control and
+[122:56] then testing of control. Right now
+[122:58] there's no control only. So most of the
+[123:00] attention is going into designing the
+[123:02] systems and the people and the processes
+[123:04] right pre-engineering them.
+[123:06] >> Yeah. Right.
+[123:08] >> What about the existing law? What about
+[123:10] the existing law regarding data? Will it
+[123:12] be overruled by this or it will remain?
+[123:18] legal
+[123:20] >> DPD will supersede most of them. But if
+[123:22] the industrial reg if the sectoral
+[123:24] regulation is there you know for example
+[123:27] like banking wants you to store data for
+[123:29] 10 years the other you know so and if a
+[123:33] data principle says that come and delete
+[123:35] my data you cannot delete it you have to
+[123:37] basically you know go with the
+[123:41] financial regulation
+[123:42] >> I think probably
+[123:44] >> one rule of interpretation is there that
+[123:46] whenever there are two law you have
+[123:48] common law and you have sector specific
+[123:50] law or a regulatory bodies these
+[123:52] regulations and as such you have to
+[123:54] follow the strict rule of law.
+[123:56] >> Simple thing
+[123:58] law that is compliance
+[124:01] interpretation.
+[124:02] >> Correct.
+[124:02] >> Not only that any organization there are
+[124:04] permanent records and there are records
+[124:07] which are periodical. So permanent
+[124:09] records cannot be erased at all. For
+[124:10] example, you know any organization
+[124:12] whatever you talk about the minutes
+[124:14] rating minutes rating should be there
+[124:16] from the right from the beginning till
+[124:17] the end. So those sort of the things
+[124:19] should be recognized and again sector
+[124:21] regulation will
+[124:23] follow for individual cases whether the
+[124:25] entities within the group or related
+[124:27] concerns can share this data or even no
+[124:31] it cannot be because he said very
+[124:32] clearly specific concern is required for
+[124:34] sharing the data he gave the example
+[124:36] sorry I didn't get that question
+[124:37] >> the question is whether the entities
+[124:39] within the group or related concerns can
+[124:42] share those data or even meta
+[124:44] >> they need explicit consent like I I give
+[124:47] the example of HD DFC bank right you
+[124:49] cannot
+[124:50] >> yeah that's what he said actually
+[124:52] >> he said explicit concern will be
+[124:54] required what are the steps of the
+[124:56] company data industry should implement
+[124:58] that she has already given the road map
+[125:00] actually
+[125:02] where are some free groups of the
+[125:03] WhatsApp and telegrams like blood
+[125:05] donations matrimonial uh matrimonial job
+[125:10] seekers etc please narrate the liability
+[125:13] of this group administrators and the
+[125:15] group founder under the DPD act and
+[125:17] whether they can be continued to operate
+[125:19] as usual.
+[125:21] >> Um if if they're collecting it then I
+[125:24] mean most of these communities are very
+[125:26] very small mom and pop shops right we're
+[125:28] talking about. So if they are taking
+[125:30] that personal data over WhatsApp and
+[125:31] everything then they need to then they
+[125:33] are responsible in a certain way but
+[125:34] they're too small I need to understand
+[125:35] the magnitude volume of these if it's a
+[125:38] large community right like uh the go
+[125:41] personal information uh so I need more
+[125:44] information right if you're sharing
+[125:45] personal data you're collecting it are
+[125:47] you giving them a data privacy policy
+[125:49] are you telling them why this is being
+[125:51] collected so I need to understand that
+[125:53] nature more but it's interesting u
+[125:57] standpoint they would considered as
+[126:00] >> data fictionary though.
+[126:01] >> Yeah. But we can say since you are
+[126:04] collecting it is considered you have at
+[126:07] least that we have to create a uh
+[126:09] understanding if we are collecting data
+[126:12] we are responsible
+[126:13] >> by depression that is falling under the
+[126:15] processing
+[126:16] >> at least that we have to develop the
+[126:18] responsibility.
+[126:19] >> Yeah. Amazing.
+[126:20] >> Next, next question is actually
+[126:22] provision of the act and rule which is
+[126:23] applicable that you get it is actually
+[126:25] introduced in the phase manner because
+[126:27] November
+[126:29] 25 and May 26 and May 27 that is the
+[126:32] case. If data are graded based on casual
+[126:37] datas, personal data and lengthy
+[126:40] sensitive data what are the provision
+[126:42] related to the protection each class
+[126:44] category or classes those sensitive
+[126:47] >> it's a saying Mr. Say Brian that is data
+[126:50] graded based on casual data, personal
+[126:53] data and highly sensitive data. What are
+[126:55] the provisions related to protection of
+[126:57] each class category whether means there
+[126:59] is a different level of protection to
+[127:01] different level of data? That is kind of
+[127:03] a question.
+[127:04] >> The DPDP only talks about personal data
+[127:06] right now. There is nothing like um
+[127:08] sensitive personal data and what have
+[127:10] you.
+[127:11] >> No,
+[127:13] >> the DPDIA act never talks about
+[127:15] sensitivity. It only talk about the
+[127:17] personal data. The only yeah the only
+[127:19] place where it talks about sensitivity
+[127:20] is that if a organization could be a
+[127:23] significant data fiduciary if they are
+[127:25] processing large volume of sensitive
+[127:27] data something on those lines right
+[127:30] >> but there is only personal data and
+[127:31] non-personal data
+[127:34] >> then the concern manager represents who
+[127:37] data processes or it's a independent of
+[127:41] the anyone
+[127:42] >> I think
+[127:44] yeah supposed to be independent right
+[127:46] data
+[127:47] All those things that she had covered
+[127:48] being data blind and
+[127:50] >> uh on acting on behalf of the fiduciary
+[127:53] for the data principle
+[127:55] >> company started following the act
+[127:57] because the act is under implementation
+[127:59] will to start following it that's the
+[128:00] thing it has already been notified in
+[128:02] November 25
+[128:04] does a third party payment processor
+[128:06] have to give me a privacy notice and get
+[128:10] my concern if they are collecting my
+[128:12] data through the platform of a sugment
+[128:16] while cor while making a transaction
+[128:18] with a third party are they storing your
+[128:20] data or not right but I think has
+[128:22] started like telling you that uh are we
+[128:26] talking about like a payment processor
+[128:27] like a lazy pay or something
+[128:29] >> that's what he's asking actually while
+[128:31] making the payment he
+[128:34] >> so they they actually take your consent
+[128:36] very clearly or they must have taken it
+[128:37] initially um I've seen their consent
+[128:40] languages especially for Sigi and the
+[128:41] third party processors right they have a
+[128:44] they they do start They've actually
+[128:46] started taking those kind of consents
+[128:49] but they but they're not supposed to
+[128:51] share they're not supposed to keep the
+[128:54] data for with them for a long amount of
+[128:56] time right only supposed to do it for a
+[128:58] transactional basis because they don't
+[129:00] have any legal basis for keep the data
+[129:03] >> is concern manager is a separate
+[129:04] professional or it will be a digital
+[129:07] assistant
+[129:07] >> it's like account aggregator right most
+[129:09] think of it as account aggregator that
+[129:11] is registered by the DPDP board
+[129:14] >> I have a question it relates to the CFM.
+[129:16] A CFM will be a data ficiary as far as
+[129:18] that employee are concerned. But a data
+[129:22] processor for the audit has collected
+[129:25] from the client also. Let us say CFO
+[129:28] uses the AWS to store this data. So CFO
+[129:32] and AWS together are the joint processor
+[129:35] for the company whose data has been
+[129:37] collected or will AWS is a downstream
+[129:42] processor.
+[129:44] They they both be joint processors with
+[129:46] you.
+[129:47] >> Okay.
+[129:48] >> Processor or a fiduciary? Processor.
+[129:51] >> Processor. You're asking about the
+[129:52] processor.
+[129:53] >> Processor. Processor.
+[129:56] There's a recent Supreme Court judgment
+[129:58] on the meta. What about? Yeah. This
+[130:01] information.
+[130:04] >> Yeah. Yeah. That is talked also.
+[130:07] >> There is a there's a whole concept
+[130:08] right. I mean of like fourth party,
+[130:09] fifth party, fifth party when people are
+[130:12] you know outsourcing the data. So all
+[130:14] those maps need to be labeled out very
+[130:18] clearly.
+[130:19] Not only
+[130:21] >> not only third party like fifth party,
+[130:22] sixth party as well.
+[130:25] >> Even when incorporating a company on MCA
+[130:28] the moment the company is actually
+[130:30] registered directors are bombarded with
+[130:33] a
+[130:33] >> yeah that should stop that should stop
+[130:36] >> phone call whatever what do you believe
+[130:38] DBTA will have the impact.
+[130:39] >> Yeah it will impact
+[130:40] >> it will impact them. We'll definitely
+[130:41] see
+[130:42] >> a change.
+[130:43] >> Next question is thanks a lot. Next is
+[130:46] there's there's a concept called the
+[130:48] social listening where companies do know
+[130:51] what we are
+[130:53] actually searching on it. Yeah, that is
+[130:56] there actually
+[130:57] >> depends on the cookies. I mean the
+[130:58] cookie browser
+[131:00] >> right obviously they know what you're
+[131:01] what you're what you're browsing
+[131:03] accordingly they will
+[131:04] >> start showing you ads right
+[131:07] >> such a facility is unconcerned or
+[131:09] practically done because you we only
+[131:11] give the concern no because you say
+[131:13] whether this time or all the time every
+[131:15] time when I use or you using the
+[131:16] application all those things are there
+[131:18] but unknowingly something goes yeah
+[131:20] >> but now very soon you on every web page
+[131:23] you'll see that you should see very
+[131:24] clearly a a pop-up banner you You can go
+[131:27] to Tata Voltage website and see how
+[131:29] nicely they have a privacy policy. They
+[131:32] have different regional languages. You
+[131:35] can they will explain you what every
+[131:36] cookie is, what it does, which is like
+[131:39] important, mandatory, which is like non
+[131:41] non-mandatory and a very easy toggle
+[131:44] button what each of the cookie does. You
+[131:46] know they have to explain each website
+[131:49] will have to do it. Now very few
+[131:50] websites in India including HDFC, Tata,
+[131:53] Volultas are doing it as of right now.
+[131:56] There is one question Mr. Bala uh that
+[131:58] with respect to consent what are the
+[132:00] acceptable modes of obtaining explicit
+[132:02] consent as for this act
+[132:04] >> the mechanisms you mean?
+[132:06] >> Yeah. What are the acceptable modes of
+[132:09] obtaining the explicit consent as
+[132:13] >> I mean it has to be like you have to
+[132:16] give a portal. Most of the organizations
+[132:18] will give them a send them a text
+[132:19] message with like a with a link right
+[132:22] which will be very individualized to
+[132:24] them when they go into that link it will
+[132:26] tell them what are the consents what
+[132:28] data they already have and do they want
+[132:31] to opt out of that as well so usually
+[132:34] it's that uh it could be call that's the
+[132:36] most efficient way right
+[132:39] >> uh I mean you can do call calls also but
+[132:41] who who listens to calls right you don't
+[132:43] want to listen to a call consent
+[132:45] >> uh yeah So either a text message with a
+[132:48] link is best because text message also
+[132:50] has a you know but all these things are
+[132:52] not prescribed by the regulation these
+[132:54] are
+[132:54] >> not regulation it's a act he's asking it
+[132:56] is not still to clarify yeah
+[133:00] >> we are a dental lab who manufacture
+[133:02] artificial dental process based doctor
+[133:06] specification. So what should we do to
+[133:08] lies with the concern manager? The
+[133:11] consent managers have not been uh
+[133:13] registered by the this thing right now
+[133:15] but there lot of organizations who want
+[133:17] to be a consent manager. They've just
+[133:19] described what are the eligibility
+[133:21] criteria for a consent manager but the
+[133:23] government has not made anybody a
+[133:25] consent manager yet. Not even the
+[133:26] applications are started yet. Right. Uh
+[133:30] yeah. So but you can take but you don't
+[133:32] have to take a consent manager that is
+[133:35] registered by the uh by the board. You
+[133:38] can take a normal consent manager as
+[133:40] well as long as you can. The law does
+[133:43] not tell you that you have to take a
+[133:44] registered consent manager but most of
+[133:46] the organizations prefer a registered
+[133:48] consent manager because they feel that
+[133:49] it will be less uh exposing them to
+[133:52] risk.
+[133:53] >> Recently TCS also onboard consent
+[133:55] managers as they have recently recently
+[133:58] they have come into the space as well.
+[134:00] >> In your opinion would you take the
+[134:02] concern from the nominee under MF and
+[134:06] mutual fund and insurance? Yeah, mutual
+[134:08] fund insurance.
+[134:10] >> This is from nominee nominees.
+[134:13] >> Nominees is totally not for
+[134:17] >> No, you take the topic. It is about
+[134:19] mutual fund and insurance nomination
+[134:21] process. It's not for this data
+[134:24] protection or data privacy or kind of
+[134:26] thing.
+[134:26] >> No, no. He is talking about a concern.
+[134:29] Will you take a concern from my nominee?
+[134:32] Because you to give the concern, not
+[134:33] your nominee. That is what I understand
+[134:35] the question. Like a like a you mean
+[134:37] like a father putting the name of the
+[134:38] children to the nominee the children if
+[134:42] the children data is given for for the
+[134:44] betterment of them the service is
+[134:46] provided for the betterment of them. If
+[134:48] you're putting buying a mutual fund for
+[134:50] them or you're you know buying an
+[134:52] insurance policy for them then if it's
+[134:55] the for the betterment of them then you
+[134:57] don't explicitly need that.
+[135:00] >> Yeah. Next thing is he's talking about
+[135:01] the emergency treatment that you already
+[135:03] addressed it. Companies file from MSME
+[135:08] MSB one containing the point card
+[135:10] details of the vendors whether this
+[135:13] particular act complaints triggered of
+[135:15] such things with the MCA any action
+[135:17] required in this record such as taking
+[135:19] concern of the vendors
+[135:21] >> means basically what it is telling that
+[135:23] you are under companies act we are
+[135:25] filing the form for MSME MSME
+[135:30] containing P details of vendors
+[135:32] >> so whether
+[135:34] any action required in this regard
+[135:36] taking consent of such vendors.
+[135:39] >> Yeah.
+[135:39] >> That we are following.
+[135:40] >> Yeah.
+[135:42] >> Because their pen details are also
+[135:44] there. But if I say that way that means
+[135:46] that when they are giving us the
+[135:50] right no
+[135:51] >> and direction to file MSME form.
+[135:55] One thing is there Abraham said
+[135:57] initially the companies have to redrop
+[136:00] their agreement with the vendors because
+[136:03] once you are entering because when they
+[136:04] are proving the detail you know you know
+[136:06] MSB form is to be filed so you should
+[136:09] actually put ament in such a way this
+[136:11] also will be used wherever it is
+[136:13] regulatory requirement there they have
+[136:14] to reward it you have to take the
+[136:16] concerns and the compliances yeah expect
+[136:19] the specific concern that has to be
+[136:21] built in in the agreement
+[136:25] If the consent form is sent but they do
+[136:27] not respond and the companies from the
+[136:29] company sent what should be done
+[136:32] >> I mean that's a more of I would let a
+[136:34] legal person answer that question but
+[136:35] there are different different thoughts
+[136:37] that people say they say that you know
+[136:39] some people are saying send a couple of
+[136:41] uh do your best by sending a couple you
+[136:44] know sending follow-ups and probably
+[136:46] some some of them are saying that uh
+[136:49] after three tries send them a message
+[136:51] saying that you We we considering this
+[136:53] as deemed consent but that is not
+[136:56] something that's very this thing some
+[136:57] people are saying you should put in a
+[136:58] newspaper also right but you have to
+[137:02] basically show the this whole this whole
+[137:04] law is about a intent that a
+[137:06] organization has made a real intent send
+[137:08] them couple of you know
+[137:12] nudges to update their consent but they
+[137:14] haven't updated it that's not the onus
+[137:17] of the organization itself
+[137:19] >> either a recommended maximum retention
+[137:21] period prescribed for the SDF's
+[137:24] categories
+[137:26] >> you should not have data for more than
+[137:30] the rule of principle is for principle
+[137:32] of data privacy is a rule of data
+[137:34] minimization right so not have first of
+[137:37] all having data that um you don't have a
+[137:40] purpose if you don't have a purpose for
+[137:42] that data then you should not have it
+[137:43] right for example take a uh intern or
+[137:46] people who have applied for a job you
+[137:48] haven't given them a job and you don't
+[137:50] intend to give them a job then you
+[137:51] should delete that data immediately.
+[137:52] Right? So that data minimization policy
+[137:55] has to be applied to every process
+[137:56] logically
+[137:58] accordingly.
+[138:00] Third party audit is necessary of the
+[138:02] vendor processor.
+[138:09] >> Third party audit
+[138:11] >> necessary.
+[138:12] >> It is it is not mentioned no in the act.
+[138:16] Third party audit offer
+[138:18] >> audit like data processor it is it is
+[138:20] mentioned that data the data futition
+[138:24] responsible
+[138:25] >> data will be will be responsible if
+[138:28] there's a you know um
+[138:31] >> if there's a breach at the data
+[138:32] processors
+[138:33] >> processor
+[138:34] >> he is responsible
+[138:36] >> data fic is responsible because he's
+[138:38] taken the data from the customers he's
+[138:40] decided the means and purpose he's taken
+[138:42] the consent he's giving it to the data
+[138:44] processor so the data judiciary needs to
+[138:46] basically make sure that uh
+[138:49] >> it's his prerogative or you can say the
+[138:52] liability or decision whether he wants
+[138:54] to do audit or not or rely on the
+[138:57] document provided
+[138:59] >> we are closer to 130
+[139:00] >> yeah that's why we are too little fast
+[139:03] >> technically making it to the principal
+[139:04] reception
+[139:06] >> uh technically marking CC to an
+[139:09] reception is also a breach yes you have
+[139:12] to take all the care Yeah
+[139:16] website Mr. Ibrahim has mentioned but we
+[139:19] don't have time to try you have to try
+[139:21] yourself
+[139:23] >> please mention who are consider the
+[139:24] children's and the DPT children is there
+[139:26] any definition is there who are
+[139:29] considers the children
+[139:30] >> I think 16 or below
+[139:32] >> okay what processor can be predically
+[139:35] set up to have the verifiable cons that
+[139:37] we are talking about
+[139:38] >> sorry what kel you want to say
+[139:40] >> yeah no children is 18 or more
+[139:43] >> 18 or less
+[139:45] >> I don't think government will respect
+[139:46] the dual Dual responsibility. Yeah,
+[139:48] that's it. Dual responsibility. Today it
+[139:50] is possible that is there. We discussed
+[139:52] that. Do the chairman and the members of
+[139:55] the data protection board need to
+[139:57] possess certain qualification and
+[140:00] experience so that they can properly
+[140:02] perform the duties of the DPDA act.
+[140:04] >> I think pro probably the government will
+[140:06] notify all these things. I think so.
+[140:08] >> Yeah.
+[140:08] >> In case of someone fail to pay the
+[140:10] penalty amount, what is the records
+[140:12] available if there is no imprisonment?
+[140:16] Not the question.
+[140:17] >> No, it is not the question. Already
+[140:19] there is a rule is there. If the amount
+[140:21] is not paid, it will be treated as a you
+[140:23] know land revenue in the revenue
+[140:25] collector will be empowered to access
+[140:27] all the properties etc. That is already
+[140:29] there actually all the acts it is
+[140:31] applicable that will apply
+[140:32] automatically.
+[140:34] Is there any provision of the DP act for
+[140:36] a training of the chairman and the
+[140:38] members of the board of the Yeah, that
+[140:40] we talked about it
+[140:42] >> Kyle. Okay. DP recording recording The
+[140:46] liability of 200 cr. Yeah,
+[140:48] >> that also we talked about it. No, we
+[140:50] talked about the liability of the 200
+[140:51] crores, insurance, all those thing we
+[140:52] talked about it. Interesting to note
+[140:54] that there is no compensation that can
+[140:56] be awarded to the agreed data principle.
+[140:59] >> Data principles anything is there? No.
+[141:02] >> What
+[141:04] compensation?
+[141:05] >> Yeah.
+[141:07] >> Interesting to note that there is no
+[141:10] compensation that can be awarded to the
+[141:12] agreved data principles.
+[141:14] >> Yeah. In fact, there's a fine of 10,000
+[141:16] rupees if they do a mischief which is
+[141:19] not there anywhere in the world. This is
+[141:21] only in India because they think that
+[141:23] you know in India they they expecting
+[141:25] trouble because
+[141:26] >> so to deter that they have put a 10,000
+[141:28] rupee fine. No other privacy regulation
+[141:30] in the world has that
+[141:32] >> but no compensation
+[141:35] >> no provision.
+[141:36] >> Oh my god. to cover the non what is the
+[141:40] this is very interesting cha has pointed
+[141:42] out because data principle you are
+[141:44] protecting data principle and there is
+[141:46] no compensation on the entire act for
+[141:50] that correct
+[141:50] >> data protection
+[141:52] >> yeah I think India
+[141:55] >> in India we don't have class action
+[141:57] lawsuit also know in that case similar
+[142:00] that people can sue a company and get
+[142:01] some benefit out of it so I think
+[142:04] similar similarly I think there's no
+[142:06] benefit benefit to the this thing data
+[142:10] >> and the company is a class action suit
+[142:12] is allowed and we sent yesterday two
+[142:14] days back on see NCT has admitted first
+[142:17] class action suit against
+[142:20] >> yes in India
+[142:22] >> next is the insurance somebody talked we
+[142:24] talked about it about the insurance
+[142:27] the penalties consider more than the
+[142:30] more than the worth net worth of the
+[142:31] entire yeah that is great actually
+[142:35] >> yeah yeah more and networks of the
+[142:37] company.
+[142:38] >> Yeah.
+[142:38] >> Okay.
+[142:38] >> That that's why we have to be serious in
+[142:40] discussing all this.
+[142:43] >> Okay. Join the WhatsApp channel.
+[142:46] Excellent information. Yeah. Okay.
+[142:48] >> What you shared Mr. Ibrahim that?
+[142:50] >> Yeah. Yeah. Data breach addressing
+[142:53] response pro procedure should ideally
+[142:57] form part of the business continuity
+[142:59] plan for organization. There's somebody
+[143:00] >> no no not really right. This is a more
+[143:02] of a incident privacy incident. This is
+[143:05] different from your cyber security
+[143:07] reporting also.
+[143:09] This is mostly to do with personal data
+[143:12] breach where disaster recovery mostly
+[143:14] looks at your you know backups being
+[143:17] lost or you know DCDR site being down or
+[143:22] some of that kind of issue right
+[143:25] replication issue where you have a RTO
+[143:27] RPO time. This is mostly around data
+[143:30] protection breaches, right? Because
+[143:33] certain things needs to be done when a
+[143:34] data uh uh data personal data breach
+[143:38] happens. You need to get a independent
+[143:40] foreign auditor also to basically see
+[143:42] what is the recourse that needs to be
+[143:44] done. Then the communication
+[143:47] you know to the data principles needs to
+[143:49] go out by the communication team. How to
+[143:52] manage the press. There's a whole kind
+[143:53] of we do a tabletop exercise with every
+[143:56] different individual uh which has to be
+[143:59] incorporated into the data breach
+[144:00] policy. So not disaster recovery BCPDR
+[144:04] is is separate than this.
+[144:06] >> Mr. Bala there are two three question
+[144:08] they are asking NBFC cooperative. So
+[144:10] we'll take one question which is general
+[144:12] that covered Mr. Subam. Does the digital
+[144:15] personal data protection act apply
+[144:17] uniformly to all entities regardless of
+[144:20] size and scale or is a proportional risk
+[144:22] based compliance approach expected for
+[144:24] smaller organization handling limited
+[144:26] personal data? I mean we have the
+[144:29] concept of significant data fiduciaries
+[144:30] and data fiduciaries right uh and it
+[144:34] basically it is a risk based approach
+[144:36] compliance approach
+[144:38] >> and it is uniformly applicable to
+[144:40] everyone all organization whether it is
+[144:42] that right
+[144:44] >> yeah so there was a separate question
+[144:46] for NPFC and other thing that is
+[144:47] answered if I'm NBFC and all that yeah
+[144:52] Mr. B because
+[144:53] >> what is what is what is the complaint
+[144:55] burden the NPSC having no clear
+[144:57] interface
+[144:58] >> the same thing I'm telling now we have
+[144:59] covered it is applicable to everyone and
+[145:01] as regards the data the difference we
+[145:04] have mentioned there is no
+[145:05] >> there's the there's the digital personal
+[145:07] data protection act 2023 apply unifi
+[145:10] that you talked about it
+[145:12] >> WhatsApp listed company that you talked
+[145:13] about it what is the role of the third
+[145:15] party that also we discussed does dpax
+[145:18] apply processing for all the PII within
+[145:21] India How will the CCC centers
+[145:23] processing data bank office operation be
+[145:26] affected with this legislation?
+[145:28] >> Sorry, can you is he says does DBT DPA
+[145:33] apply to processing of all PII within
+[145:36] India? How will the GCC
+[145:40] centers processing the data back office
+[145:42] operation be affected with this
+[145:45] legislation?
+[145:45] >> Yes. So it's mostly if you're talking
+[145:47] about GCC then you are processing
+[145:50] usually outside countries uh data
+[145:53] principles uh data subject uh data right
+[145:57] so then you will have to we have to be
+[145:59] governed by those regulations as well
+[146:01] but GDPR and all those regulations have
+[146:03] intercomp transfer you know uh it it
+[146:06] really depends on the type of GCC we are
+[146:09] talking about also so there's something
+[146:11] called as intercomp transfer which which
+[146:13] makes it okay for organizations to share
+[146:15] data between uh the the entities which
+[146:17] are you know in different parts of the
+[146:20] world.
+[146:21] >> I think Mr. Tala all the question I said
+[146:23] almost we have covered it's almost 1:40
+[146:26] now
+[146:26] >> 140 yeah it's been a very long session
+[146:29] >> only one only one question I'll take now
+[146:32] going by MSME question that we discussed
+[146:35] companies have to make a lot of filing
+[146:38] with the MCA se etc which requires P
+[146:42] number of the director shareholder etc
+[146:44] in relation to filing yeah
+[146:46] >> same thing pan number and all that I
+[146:48] said that now everything we have covered
+[146:49] now
+[146:50] >> yeah that's I I think so. Yeah,
+[146:52] >> I have seen that. Okay. 1:40
+[146:55] >> people want to have lunch. Mr. Abra will
+[146:58] skip the lunch now.
+[146:58] >> I guess I guess it's interesting topic,
+[147:00] right?
+[147:02] >> Interesting.
+[147:03] >> Iraim closer to 155 people are still
+[147:07] there in the session at 140. That shows
+[147:09] the importance of the topic.
+[147:11] >> I'm glad it's the awareness is building
+[147:13] up.
+[147:14] >> Yeah.
+[147:16] >> Thanks a lot.
+[147:17] >> Thanks a lot.
+[147:18] >> Thank you for Thank you for having me
+[147:20] here. This did help it was wonderful
+[147:23] your sharing knowledge experience.
+[147:26] We may have similar kind of webinar on
+[147:29] the similar topic as more clarity will
+[147:31] come more thing and we will surely
+[147:33] invite you and connect you for further
+[147:35] your guidance and you know sharing your
+[147:37] knowledge with our participants.
+[147:39] >> Thank you so much. Thank you so much for
+[147:41] having me here. Thank you Kel. Thank you
+[147:43] professor Bala. Thank you everybody.
+[147:46] >> Ibrahim thanks a lot today. lot of
+[147:48] things I could learn actually from your
+[147:50] sharing. It's very interesting session.
+[147:52] I personally enjoyed. I very sure
+[147:55] participants also I'm glad I'm glad it
+[147:57] resonated. Thank you so much for having
+[147:59] me here. Thank you.
+[148:00] >> Thank you. Bye. Thanks everyone. Thank
+[148:02] you.

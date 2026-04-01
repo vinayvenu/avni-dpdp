@@ -1,0 +1,77 @@
+[Company Letterhead/Logo]
+
+NOTICE OF DATA BREACH
+
+[Date]
+
+Subject: Notification of Data Security Breach
+Dear [Recipient Name],
+We are writing to inform you about a data security breach that occurred on [date of breach],
+which may have impacted your personal data. Safeguarding your information is of utmost
+importance to us, and we deeply regret any inconvenience caused by this incident.
+
+Circumstances of the Data Breach
+On [specific date], a security incident was identified that resulted in unauthorized access to
+specific systems. Immediate remedial actions were undertaken to contain the breach, and an
+exhaustive investigation was initiated to ascertain its scope and impact.
+
+Nature of Compromised Information
+Our investigation indicates that the following categories of personal data may have been
+affected:
+•
+•
+
+[Type of information, e.g., name, email address, phone number, etc.]
+[Type of sensitive information, if applicable, e.g., financial details, identification
+numbers, etc.]
+
+We confirm that [specific sensitive data, e.g., credit card information] was not compromised
+[if applicable].
+
+Downloaded from www.dpdpa.com
+
+Remedial Measures Undertaken
+To address this incident, we have implemented the following corrective actions:
+1. Containment and Remediation: Immediate steps were taken to secure affected systems
+and prevent further unauthorized access.
+2. Notification to Authorities: The breach has been reported to the Data Protection Board
+of India, as mandated by the Digital Personal Data Protection Act, 2023 ("DPDPA").
+3. Enhanced Security Measures: Additional protocols have been implemented, including:
+o [System updates and patches]
+o [Increased system monitoring]
+o [Enhanced employee training on data security]
+
+Recommended Actions for Affected Individuals
+To minimize any potential risk, we strongly recommend the following steps:
+1. Change Your Passwords: Update passwords for any accounts associated with this
+breach.
+2. Monitor Financial Accounts: Regularly check your financial accounts for any unusual
+activity.
+3. Beware of Phishing Attempts: Be cautious of unsolicited communications requesting
+personal or financial information.
+
+Contact Details for Assistance
+If you have any questions or require support, please contact us using the details below:
+•
+•
+•
+
+Email: [Insert contact email]
+Phone: [Insert contact number]
+Address: [Insert company address]
+
+Additionally, if you believe your data protection rights have been infringed, you are entitled to
+lodge a complaint with the Data Protection Board of India.
+
+Assurance of Compliance and Future Actions
+We take this incident very seriously and are committed to safeguarding your data. Rest assured
+that we are implementing additional measures to strengthen our security framework and prevent
+similar occurrences in the future.
+We sincerely apologize for any inconvenience this may have caused and appreciate your
+understanding.
+Sincerely,
+[Your Name]
+[Your Title]
+[Company Name]
+
+

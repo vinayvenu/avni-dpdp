@@ -1,0 +1,407 @@
+#20 T P Venugopal Layout, Anand Nagar, Bengaluru - 560024, Karnataka, India CIN: U72900KA2021PTC150567
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+## **Service & Support Contract for**
+
+Title
+
+| BETWEEN |  |
+|---------|--|
+|---------|--|
+
+Customer Name Customer Address
+
+#### **AND**
+
+Samanvay Technologies Private Limited, #20, T.P. Venugopal Layout, Anand Nagar, Bangalore - 560024
+
+**Description** Project Description
+
+Start and End date: - Start Date End Date
+
+Recipient: Customer Name
+
+Samanvay Technologies Private Limited has agreed to provide the software services on the terms set out in this contract.
+
+………………………………………. ………………………………………….
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+Customer Signing Authority
+
+Customer Signing Authority Designation
+
+Customer Signing Authority Phone
+
+Customer Signing Authority email
+
+Arjun Khandelwal ) (Director, Samanvay Technologies)
+
+*Mobile: +91 9923139403*
+
+*Email:*[arjunk@samanvayfoundation.org](http://pradiptak@arjunk@samanvayfoundation.orgsamanvayfoundation.org)
+
+#20 T P Venugopal Layout, Anand Nagar, Bengaluru - 560024, Karnataka, India CIN: U72900KA2021PTC150567
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+## Terms of Reference
+
+## Project Objective
+
+## Scope of Work
+
+- 1. This contract only includes the development of ….
+- 2. Build a custom application using Avni platform with forms listed in the table below and the following features
+  - a. Forms -
+  - b. Visit schedules -
+  - c. Mobile dashboard -
+  - d. Summary -
+  - e. Make app ready to rollout Upload initial users, locations and catchments, translations
+- 3. App available in English and …
+- 4. Create operational reports to monitor the adoption of the system (Activities, Sync Telemetry)
+- 5. Online training to
+  - a. Use the app
+  - b. Manage users and locations
+  - c. Do data uploads
+  - d. Translations upload
+  - e. Access support
+- 6. Provide hosting and support on the Avni cloud for up to users **Number of Users**
+- 7. BI Reports -
+- 8. Data Upload Support -
+
+#20 T P Venugopal Layout, Anand Nagar, Bengaluru - 560024, Karnataka, India CIN: U72900KA2021PTC150567
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+#### Cost
+
+| Head                                                           | Cost |
+|----------------------------------------------------------------|------|
+| App<br>Development                                             |      |
+| Requirements<br>&<br>Solution<br>Finalisation                  |      |
+| Development<br>of<br>forms,<br>basic<br>operational<br>reports |      |
+| Development<br>of<br>dashboard                                 |      |
+| Training<br>and<br>Documentation                               |      |
+| Total<br>Development<br>Cost                                   |      |
+|                                                                |      |
+| Support<br>and<br>Maintenance<br>(AMC)                         |      |
+| Hosting<br>charges<br>for<br>1<br>year                         |      |
+| L2<br>Support<br>for<br>1<br>year                              |      |
+| Total<br>AMC<br>cost                                           |      |
+|                                                                |      |
+| Total<br>cost                                                  |      |
+| Total<br>cost<br>with<br>GST                                   |      |
+
+#### **Notes and Assumptions about Cost**
+
+- 1. App Development
+  - a. Excludes development of features already part of Avni roadmap or any new features identified during the course of the project and not part of the roadmap or already included in the proposal.
+  - b. Covers warranty period
+  - c. The requirements finalised during requirements gathering phase will be considered final and any significant change will be charged at INR 10,200 per
+
+#20 T P Venugopal Layout, Anand Nagar, Bengaluru - 560024, Karnataka, India CIN: U72900KA2021PTC150567
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+day for implementation and INR 20,000 per day for platform work, excluding taxes.
+
+- 2. Support and Maintenance
+  - a. Hosting expenditure
+    - i. Assumes hosting on shared Samanvay cloud for one year
+    - ii. Covers regular upgrades and feature enhancements to the app part of the Avni roadmap
+- 3. The hosting expenditure in shared hosting depends on the number of users and form submissions. **The quote assumes up to users**. If this increases, the hosting expenditure will have to be revised as per the below table **Number of Users**
+
+| Users                | Form<br>submission<br>per<br>month | Storage   | Price<br>per<br>month | Approx<br>price<br>per<br>user<br>per<br>month |
+|----------------------|------------------------------------|-----------|-----------------------|------------------------------------------------|
+| Upto<br>20<br>users  | 5,000                              | 500<br>GB | 7,000                 | 350                                            |
+| Upto<br>100<br>users | 10,000                             | 1<br>TB   | 10,000                | 100                                            |
+| Upto<br>200<br>users | 20,000                             | 2<br>TB   | 20,000                | 100                                            |
+
+Additional forms will be charged at ₹2000 per 10,000 form submissions
+
+- a. Support
+  - i. Covers L2 Support from end of warranty period for a period of 1 year
+  - ii. An online ticketing system will be available for users to report issues which will be tracked and solved based on priority.
+- b. Travel
+  - i. No travel is considered for this estimation. But Samanvay is open and happy to undertake any travel to the field as and when required. Personnel cost for travel will be 17500 per day and expenses for travel and accommodation on actual basis.
+
+#20 T P Venugopal Layout, Anand Nagar, Bengaluru - 560024, Karnataka, India CIN: U72900KA2021PTC150567
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+## Payment Terms
+
+| Payment<br>Milestones | Amount | Tentative<br>Timelines | Dates |
+|-----------------------|--------|------------------------|-------|
+|                       |        |                        |       |
+|                       |        |                        |       |
+|                       |        |                        |       |
+|                       |        |                        |       |
+|                       |        |                        |       |
+|                       |        |                        |       |
+
+- Payment will be done within 10 days from raising the invoice
+- Payment will be using NEFT
+
+#### **Bank Details:**
+
+Name: SAMANVAY TECHNOLOGIES PVT LTD
+
+Bank Name: HDFC Bank
+
+Account Number: 50200060858989
+
+Account Type : Current IFSC Code: HDFC0000076
+
+Branch: M.G.Road, Raheja Towers, Bangalore - 1
+
+#20 T P Venugopal Layout, Anand Nagar, Bengaluru - 560024, Karnataka, India CIN: U72900KA2021PTC150567
+
+### **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+## Solution Details
+
+## A. Technical Approach
+
+The system will be developed and provided by customizing open-source fieldwork platform [Avni](https://avniproject.org/). The system will be deployed and hosted on the Avni cloud - a shared hosting for Avni hosted by Samanvay Technologies Private Limited.
+
+Avni platform provides most of the features required to facilitate the customisation required. Key components of Avni include
+
+- 1. Android app downloadable from Google play store
+- 2. Web Data entry Application
+- 3. Web Reporting and Dashboard application
+- 4. Web Admin Application
+- 5. Integration with a user friendly and popular web based translation system [Lokalise.](https://lokalise.co/)
+- 6. REST APIs to integrate with external systems
+
+#20 T P Venugopal Layout, Anand Nagar, Bengaluru - 560024, Karnataka, India CIN: U72900KA2021PTC150567 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+Key features that Avni provides relevant to this solution are
+
+- 1. **Offline**: The android application works completely offline with two-way sync support. When in -network, the users can sync - which pulls configuration and data from the server on cloud and pushes data captured locally.
+- 2. **Rich Case Modelling**: Avni supports creating a custom data model for case management and longitudinal tracking using entities like subject types, programs and encounters. This will help in easily creating the required framework for setting a reporting tool.
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+3. **Powerful forms**: The data is collected using easily configurable forms. The forms support all standard data types including GPS location, image, video and audio.
+
+*Samanvay Technologies Private Limited Ph #: +91 9923139403*
+
+#20 T P Venugopal Layout, Anand Nagar, Bengaluru - 560024, Karnataka, India CIN: U72900KA2021PTC150567
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+- 4. **Multilingual**: The app can be developed in English and then easily converted into local languages like Assamese by uploading translations. Both android and the web based data entry application support entering and viewing data in regional language. User settings are provided to set the default language.
+- 5. **Location Hierarchy**: We can easily setup location hierarchy and record data against this. E.g. State -> District -> Village -> Household
+- 6. **Users and Catchment**: Users can be easily created in the system and mapped to different geographical regions so that data only limited to that geographical region is available in the android application. E.g. A frontline worker can be mapped to a single village and supervisors can be mapped to block or district.
+- 7. **Reports and Dashboard**: The reports and dashboard provide instant reports on top of data available on the server. The data can be drilled down by location hierarchy. It supports both pre-defined and ad-hoc self-serviceable reports. The web based dashboard is usually set up in English but certain reports can also be set up in the local language.
+- 8. **Bulk data upload and export**: Avni supports downloading data in longitudinal format. This allows the users to extract raw data to perform analysis using tools like Excel, SPSS, Strata or R. Avni also has an ability to upload bulk data using CSV files.
+- 9. **Security**: All the access is behind login screens. All the data is stored on encrypted disks. Users can be set up with Roles and Permissions.
+- 10. **Features for better coordination and engagement with Users:** Avni provides features like Approval Workflow, News broadcast and an issue resolution framework to better engagement with users, coordinate the work and ensure data quality.
+- 11. **Health Specific Features** like Vaccination Tracking and Growth Chart plotting in the health worker mobile application.
+
+#### Dashboard and Reports
+
+Dashboard and Reports will work off Avni database. This will be setup in an open-source tool already deployed on Avni cloud. Hence will be dependent on what is possible in the tool. Exact reports and dashboards will be finalized in the first week of the project.
+
+#20 T P Venugopal Layout, Anand Nagar, Bengaluru - 560024, Karnataka, India CIN: U72900KA2021PTC150567
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+# B. Benefits of this Approach
+
+- 1. All the functionality is already tried and tested in the field.
+- 2. Reuse of a lot of features already available on the platform.
+- 3. Regular availability of bug fixes and enhancements part of the roadmap, without any additional cost.
+- 4. Reliably meeting all the requirements.
+
+## C. Samanvay Service Details and Methodology
+
+![](images/Contract Template - (Samanvay Tech)/_page_8_Figure_8.jpeg)
+
+#20 T P Venugopal Layout, Anand Nagar, Bengaluru - 560024, Karnataka, India CIN: U72900KA2021PTC150567
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+#### ● Custom MIS Development
+
+- This will consist of development of applications and reports and dashboards as identified and finalised at the beginning of the project.
+- Changes identified during the UAT phase will go through a change management process. Depending on the scope of changes identified during the UAT phase, the change request will include additional budgets as well. It is suggested to provide requirements as complete as possible during the requirements analysis phase to avoid rework during the UAT phase.
+- All changes post the UAT phase, will also go through the change management process.
+- Training of master trainers
+  - Usage of the Application
+  - Administration of the application for minor changes, and for installation/maintenance
+  - The training will be conducted online
+- Warranty
+  - This period will cover minor changes and bug fixes
+
+#20 T P Venugopal Layout, Anand Nagar, Bengaluru - 560024, Karnataka, India CIN: U72900KA2021PTC150567
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+#### ● User Support L2
+
+- Once the App Development is complete it enters into the support phase.
+- Covers Bug fixes, Priority response to answering queries from point of contact and fixes for any data mistakes that cannot be rectified from the admin app
+- A ticketing system will be established to report issues and will be resolved based on priority/severity marked.
+- Changes leading to fresh development will be charged as per requirements
+- Samanvay Cloud Hosting
+  - The developed application will be deployed on Samanvay shared cloud hosting
+  - Ensuring the availability of service
+  - Data backups
+  - Regular upgrades with product enhancements and defect fixes
+
+## D. Client Responsibilities
+
+- 1. Client will provide the requirements and data files in the provided formats
+- 2. Client will approve the User Interfaces, Functional Flows, requirement documents prior to development and in testing the applications in a timely manner.
+- 3. Related content, images, videos, translations, etc. will be provided by the client
+- 4. Apart from the ones already included in the proposal, any additional onsite visit, or 3rd party expenses, will be taken care of by the client covering travelling, food, lodging expenses.
+
+## E. Confidentiality and Non-Disclosure
+
+Samanvay will sign a confidentiality and non-disclosure agreement provided in the Appendix A of this document.
+
+## F. Data Privacy
+
+undertakes to comply with the requirements of the roles of Data Fiduciary and Consent Manager as provided in the Digital Personal Data Protection Act, 2023 while Customer Name
+
+#20 T P Venugopal Layout, Anand Nagar, Bengaluru - 560024, Karnataka, India CIN: U72900KA2021PTC150567
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+Samanvay undertakes to comply with the requirements of a Data Processor as defined in the act.
+
+## G. Data Security
+
+- 1. Samanvay will ensure that
+  - a. All data will be stored encrypted on disk
+  - b. All data in transit outside the data centre will be encrypted (via TLS for all APIs)
+  - c. Only authorised users will be allowed access to data based on login and access controls provided by the Avni application
+  - d. Audit details including created date, created time, last modified date and last modified time will be stored for all entities that are created in the database
+- 2. will ensure that Customer Name
+  - a. User ids are not shared
+  - b. Passwords are complex
+  - c. Mobile devices are not shared
+  - d. Phones on which work is happening are not rooted
+  - e. PII Data downloaded from reports are shared only with authorised people and removed from personal devices as soon as they are not required anymore
+  - f. No data is hosted, displayed, uploaded, modified, published, transmitted, or shared that
+    - i. belongs to another person and to which the user does not have any right;
+    - ii. is defamatory, obscene, pornographic, pedophilic, invasive of another's privacy, including bodily privacy, insulting or harassing on the basis of gender, libelous, racially or ethnically objectionable, relating or encouraging money laundering or gambling, or otherwise inconsistent with or contrary to the laws in force;
+    - iii. is harmful to child;
+    - iv. infringes any patent, trademark, copyright or other proprietary rights;
+
+- v. violates any law for the time being in force;
+- vi. deceives or misleads the addressee about the origin of the message or knowingly and intentionally communicates any information which is patently false or misleading in nature but may reasonably be perceived as a fact;
+- vii. impersonates another person;
+
+#20 T P Venugopal Layout, Anand Nagar, Bengaluru - 560024, Karnataka, India CIN: U72900KA2021PTC150567
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+- viii. threatens the unity, integrity, defence, security or sovereignty of India, friendly relations with foreign States, or public order, or causes incitement to the commission of any cognizable offence or prevents investigation of any offence or is insulting other nation;
+- ix. contains software virus or any other computer code, file or program designed to interrupt, destroy or limit the functionality of any computer resource;
+- x. is patently false and untrue, and is written or published in any form, with the intent to mislead or harass a person, entity or agency for financial gain or to cause any injury to any person;
+- 3. In case of non-compliance with the above, Avni has the right to terminate the access or usage rights of the users to the computer resource immediately or remove non-compliant information or both, as the case may be.
+- 4. Any victim of a cyber security incident can make a complaint either through the Contact Us option on the Samanvay website (https://www.samanvayfoundation.org/about-us#contact-us-1) or through the email linked in the privacy policy of Avni app (hello@samanvayfoundation.org). This will reach the Grievance Officer at Samanvay who will take necessary action within the time stipulated by the IT Guidelines.
+
+#20 T P Venugopal Layout, Anand Nagar, Bengaluru - 560024, Karnataka, India CIN: U72900KA2021PTC150567
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+## Appendix A
+
+Confidentiality and Non-Disclosure Agreement
+
+This Agreement is made on by and between: Start Date
+
+, (hereinafter referred to as "disclosing party", which expression shall unless repugnant to the context or meaning thereof, include its successors in interests and assigns) of the one part; Customer Name
+
+#### AND
+
+Samanvay Technologies Private Limited (hereinafter referred to as "the receiving party" which expression shall, unless repugnant to the context or meaning thereof, be deemed to include, its representatives and permitted assigns) of the other part;
+
+#### WHEREAS
+
+- 1. The Disclosing Party possesses certain confidential, proprietary information such as personal details of individuals/children (hereinafter collectively referred to as "Confidential Information")
+- 2. The Disclosing Party may share/disclose the confidential information with the Receiving Party for the sole purpose of hosting and maintenance of data related to the Project as defined in the MOU between the parties (hereinafter referred to as the "Project")
+- 3. The Disclosing Party desires to prevent the unauthorized use and disclosure of its confidential information.
+- 4. The disclosing party as well as the receiving party have entered into this Agreement in order to assure the confidentiality of such trade secrets and confidential or proprietary information in accordance with the terms of this Agreement.
+
+IN CONNECTION WITH THE ABOVE, THE PARTIES HEREBY AGREE AS FOLLOWS:
+
+#### Confidential Information:
+
+For purposes of this Agreement, Confidential Information shall mean all data, including but not limited to, personal details of individuals, methodologies, know-hows, records, notes, written, printed, or tangible materials or any other information that the receiving party obtains or is likely to obtain knowledge or possession of either directly or indirectly, in writing, orally or visually, during or arising out of their association with the Disclosing Party in accordance with this Agreement, which is not generally available to the public.
+
+#20 T P Venugopal Layout, Anand Nagar, Bengaluru - 560024, Karnataka, India CIN: U72900KA2021PTC150567
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+### Non‐disclosure Obligations:
+
+The Receiving Party promises and agrees to receive and hold the Confidential Information in confidence. Without limiting the generality of the foregoing, the Receiving Party further promises and agrees:
+
+- 1. To protect and safeguard the Confidential Information against unauthorized use, publication or disclosure;
+- 2. Not to use any of the Confidential Information except for the abovementioned Purpose/s.
+- 3. Not to, directly or indirectly, in any way, share, reveal, report, publish, disclose, transfer or otherwise use any of the Confidential Information except as specifically authorized in writing by the Disclosing Party in accordance with this Non-Disclosure Agreement. It is agreed that the Receiving party may share aggregate data with its affiliates or other party for the sole purpose of analysis and research as laid down in the purpose of this Agreement. The said aggregate data shall not be personally identifiable in any manner.
+- 4. Not to use any Confidential Information to unfairly compete or obtain unfair advantage vis-a-vis the Disclosing Party.
+- 5. To restrict access to the Confidential Information to those of its officers, directors, and employees who clearly need such access to carry out the Purpose/s.
+- 6. To advise each of the persons to whom it provides access to any of the Confidential Information, that such persons are strictly prohibited from making any use, publishing or otherwise disclosing to others, or permitting others to use for their benefit or to the detriment of the Disclosing Party, any of the Confidential Information, and, upon Request of the Disclosing Party, to provide the Disclosing Party with a copy of a written agreement to that effect signed by such persons.
+- 7. To comply with any other reasonable security measures requested in writing by the Disclosing Party.
+- 8. To refrain from directly contacting or communicating by whatsoever means to the Source(s) of Information (students or their parents) without written consent of the Disclosing Party.
+- 9. To undertake not to disclose any names and their particulars to third parties without the written consent by the Disclosing Party.
+- 10. To not use the disclosing party's name, trademarks, proprietary words or symbols or disclose under this Agreement in any publication, press release, marketing material, or otherwise without the prior written approval of the Disclosing Party.
+- 11. To comply with all statutory laws/rules/legislations related to data protection including but not limited to Information Technology Act, 2000 and Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011. The Receiving Party undertakes that it shall maintain the confidentiality of personal data of individuals/children and shall use the data, shared or accessed, only for the purpose of evaluation and assessment of the project for it is shared and not for any other purpose whatsoever.
+
+#20 T P Venugopal Layout, Anand Nagar, Bengaluru - 560024, Karnataka, India CIN: U72900KA2021PTC150567
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+#### Exceptions
+
+The confidentiality obligations hereunder shall not apply to Confidential Information which:
+
+Is, or later becomes, public knowledge other than by breach of the provisions of this Agreement; OR
+
+Is in the possession of the Party with the full right to disclose prior to its receipt from the Disclosing Party, as evidenced by written records; OR
+
+Is independently received by the Receiving Party from a third party, with no restrictions on disclosure.
+
+### Return and/or Destruction of Confidential Information
+
+The Receiving Party agrees, upon termination of the Purpose/s or upon the written request of the Disclosing Party, whichever is earlier, to promptly deliver to the Disclosing Party all confidential information. Also, confirm to the Disclosing Party, in writing, the destruction of such confidential materials.
+
+### No Right to Confidential Information
+
+The Receiving Party hereby agrees and acknowledges that no license, either express or implied, is hereby, granted to the Receiving Party by the Disclosing Party to use any of the Confidential Information.
+
+The Receiving Party further agrees that the Confidential Information is the exclusive property of the Disclosing Party, and the Receiving Party has no right or title thereto.
+
+#### No Warranty
+
+The Disclosing Party has not made and will not make any representation or warranty as to the accuracy or completeness of its Confidential Information or of any other information provided to the Receiving Party, and the Receiving Party agrees that the Disclosing Party shall have no liability resulting from the use of the Confidential Information or such other information.
+
+### No Commitment
+
+The disclosure of Confidential Information does not, and is not intended to represent a commitment by the Disclosing Party to enter into any business relationship with the Receiving Party or with any other entity. If the Parties desire to pursue any other opportunities, they will execute a separate written agreement.
+
+#20 T P Venugopal Layout, Anand Nagar, Bengaluru - 560024, Karnataka, India CIN: U72900KA2021PTC150567
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+#### Compelled Disclosure
+
+If the Receiving Party is legally compelled to disclose Confidential Information received under this Agreement, then the Receiving Party shall promptly notify in writing the Disclosing Party in order that it may have the opportunity to seek a protective order or any other appropriate remedy and/or waiver compliance with the provisions of this agreement. In the event, the protective order or remedy is not obtained, then the Receiving Party shall only furnish that portion of the Confidential Information which the Receiving Party is legally bound to furnish.
+
+#### Losses
+
+The Receiving Party agrees to indemnify the Disclosing Party against any and all actual losses, damages, claims, or expenses incurred, or suffered by the Disclosing Party as a result of the Receiving Party's breach of this Agreement, not exceeding the amount of one lakh rupees or the annual value of the contract, whichever is lower. .
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+FOR DISCLOSING PARTY Customer Name
+
+FOR RECEIVING PARTY Samanvay Technologies Private Limited

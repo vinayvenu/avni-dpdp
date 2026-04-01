@@ -1,0 +1,345 @@
+Source: https://www.youtube.com/watch?v=2iPDpV8ojHA
+
+[00:06] thank you I'm gonna warn you right now
+[00:08] there no there no audiovisuals and part
+[00:12] of that's because if you're looking at
+[00:13] someone I want you to be looking at me
+[00:15] and part of that's because after 30
+[00:17] years of working in technology I don't
+[00:19] trust it
+[00:21] but don't worry I have I have note cards
+[00:24] and when I told the organizers this they
+[00:26] look slightly chagrined but I said don't
+[00:28] worry it's only for the long boring
+[00:31] quote so I want to use and the
+[00:32] statistics that I want to bore the
+[00:34] audience with and that made them feel a
+[00:36] great deal better so let me say when I
+[00:39] heard the topic was entropy nothing came
+[00:42] to mind faster to my mind than data
+[00:44] because we are surrounded by data that
+[00:46] seems to be falling out of control data
+[00:49] being lost by corporations data being
+[00:51] stolen from government agencies data
+[00:54] that we are volunteering that's being
+[00:55] collected about us billions of bytes a
+[00:58] day
+[00:59] that seems hopelessly out of control and
+[01:01] just to continue the focus on entropy it
+[01:04] seems to be getting worse so I thought
+[01:08] what I might do this evening is talk
+[01:09] about particularly the challenge of
+[01:12] personal data and privacy so remember
+[01:16] all of this data that we are talking
+[01:17] about much of it we are volunteering we
+[01:20] are posting those pictures of our
+[01:22] delicious meals that we think our
+[01:24] friends care about we are engaging in
+[01:27] millions and millions of texts a second
+[01:30] we are posting images and videos at a
+[01:34] colossal rate at a rate that could not
+[01:36] have been imagined it's become almost
+[01:38] meaningless to talk about the volume
+[01:40] because unless you're a computer
+[01:41] scientists talking about things like
+[01:43] petabytes and terabytes I just start
+[01:46] starts to add up to the point it means
+[01:48] nothing but it has a tremendous impact
+[01:52] on our privacy it has a tremendous
+[01:55] impact on this data that's being um that
+[01:58] we are volunteering that's being
+[02:00] collected about us in some cases it's
+[02:02] being calculated or inferred about us
+[02:04] are you a good credit risk should you be
+[02:06] able to buy that car are you somebody
+[02:08] that we want to market to these may not
+[02:11] even be data that really exists
+[02:12] about you but rather that are being
+[02:14] created the New York Times reported in
+[02:17] 2017 this begins the statistics that
+[02:20] accompany you've never heard of not
+[02:22] Facebook not Amazon not a company that
+[02:25] trips off your tongue engages in 50
+[02:28] trillion personal data transactions a
+[02:32] year that's buying and selling your data
+[02:35] and mine every year it seems completely
+[02:39] out of control and along with it our
+[02:41] privacy there are many reasons for this
+[02:44] but the one that I want to focus on
+[02:45] which I think will be I hope of interest
+[02:48] to you and I think is a tiny bit
+[02:49] controversial
+[02:50] is the role that consent plays in data
+[02:53] protection and privacy today modern
+[02:56] privacy law really came about in the
+[02:59] 1960s and it came about from an academic
+[03:02] study so this makes people who work in
+[03:04] universities very happy dr. Alan Weston
+[03:07] who was at Columbia University wrote his
+[03:09] doctoral dissertation for which he later
+[03:11] got funding to turn into a book this
+[03:12] sounds familiar so far called privacy
+[03:15] and freedom and in that book he defined
+[03:17] privacy in a way that every country in
+[03:20] the world now follows and that is and I
+[03:23] quote the claim of individuals groups or
+[03:25] institutions to determine for themselves
+[03:28] when how and to what extent information
+[03:31] about them is communicated to others
+[03:33] right by the 1990s every country had
+[03:36] followed suit in fact in the New York
+[03:38] Times William Safire wrote accepting
+[03:41] legitimate needs in law enforcement and
+[03:43] public interest control of information
+[03:45] must rest with the person himself now
+[03:50] you might not care about Alan Weston or
+[03:51] William Safire but the Supreme Court
+[03:53] went along with this view as well and in
+[03:55] 1988 and Department of Justice versus
+[03:58] Rapporteur committee gave us the
+[03:59] definition that we use today but the
+[04:02] common law and the literal
+[04:03] understandings of privacy encompass the
+[04:06] individual's control of information
+[04:08] concerning his or her person now just
+[04:14] quickly unless you think this is just a
+[04:15] u.s. phenomenon Europe and Asia and many
+[04:18] other countries have followed suit
+[04:19] Europe you may know enacted a new
+[04:21] general data protection regulation it
+[04:23] took effect May 18 months ago and
+[04:26] that regulation although they're quick
+[04:27] to say they've not made the mistake that
+[04:29] the US has made and focus so much on
+[04:31] consent
+[04:31] they use the term 108 times it's still
+[04:36] pretty important in California which has
+[04:39] adopted our most recent privacy law the
+[04:41] California
+[04:41] consumer Privacy Act yet the law gives
+[04:44] individuals the right to consent about
+[04:47] uses of their data that are collected
+[04:49] online well look this sounds like great
+[04:51] I mean like who could be against consent
+[04:53] in fact challenging consent seems
+[04:55] totally counterintuitive in the world of
+[04:57] privacy because privacy is after all so
+[04:59] closely linked to ourselves and our
+[05:01] autonomy but for seven quick reasons I
+[05:04] want to outline I think it's both
+[05:06] impractical and undesirable that we
+[05:09] focus on consent and I think it explains
+[05:10] why privacy law is in the dreadful state
+[05:14] it is today okay first think of the
+[05:17] complexity of privacy notices you see
+[05:20] them all the time you probably ignore
+[05:21] them that's okay almost everybody does
+[05:23] unless you're a lawyer and get paid to
+[05:25] read them but you go visit the doctor
+[05:27] you get a privacy notice you log on to a
+[05:28] website you get that little cookie
+[05:30] privacy notice that's required by
+[05:31] European law that's why you get it you
+[05:34] know researchers like to count things
+[05:35] and if you count for example PayPal's
+[05:37] privacy notices thirty six thousand two
+[05:39] hundred and seventy five words that's by
+[05:42] the way longer than Hamlet iTunes
+[05:46] Privacy Policy comes to nineteen
+[05:48] thousand nine hundred and seventy two
+[05:49] words just longer than Macbeth right one
+[05:53] 2008 study calculated that to read the
+[05:56] privacy policies of the forty or forty
+[05:58] five most popular websites in the world
+[06:00] would take an individual thirty full
+[06:03] working days a year
+[06:07] so these notices are complex because the
+[06:09] things in Plex they are difficult to
+[06:11] understand and we often just pass them
+[06:13] by second they are often just
+[06:15] inaccessible for example how many of you
+[06:19] have phones ok everybody has a phone in
+[06:21] this audience I'm gonna be willing to
+[06:23] bet and every one of you could be
+[06:24] recording right now despite that nice
+[06:26] sign at the entrance that says please
+[06:28] don't record did you give me a notice
+[06:30] that I can send to that did we discuss
+[06:31] that in other words how do you provide
+[06:33] consent in environments in which you're
+[06:35] in a group how about you walk down the
+[06:37] streets of Bloomington's they're their
+[06:38] cameras now
+[06:39] you consent to that how do we manage
+[06:41] consent in a world in which data is
+[06:43] being inferred about you or collected as
+[06:45] as part of a group a third reason is
+[06:48] that consent is proven incredibly
+[06:50] ineffective mainly because people just
+[06:52] ignore it and I love this quote that's
+[06:54] why I carry it with me the Federal Trade
+[06:56] Commission Chairman Jon Leibowitz back
+[06:58] in 2009 and remember the FTC is the
+[07:01] United States largest privacy regulator
+[07:04] they're the people who make the rest of
+[07:07] us put notices and give consent he said
+[07:10] we all agree that consumers don't read
+[07:13] privacy policies little troubling from
+[07:18] the guy who's done more than anyone else
+[07:19] on earth to make us have them in fact
+[07:22] his predecessor FTC chairman Timothy
+[07:24] Morris commented at the end of 2001
+[07:27] about a new law that required more
+[07:30] notices and consent opportunities in the
+[07:32] financial services market and a chairman
+[07:34] mirror said this acres of trees dyed to
+[07:37] produce a blizzard of barely
+[07:39] comprehensible privacy notices indeed
+[07:41] this is a statute that only lawyers
+[07:43] could love until they found out it
+[07:45] applied to them too okay fourth what we
+[07:51] often find out is that the consent we're
+[07:53] giving is entirely illusory we have no
+[07:56] choice try to update your iPhone right
+[07:59] there's a new software it comes out
+[08:01] every couple of weeks if you don't
+[08:03] update it quickly you're prompted to
+[08:05] update it then it starts blocking it
+[08:06] then it starts saying we're gonna update
+[08:07] it for you automatically then the phone
+[08:09] stops working the first thing it does
+[08:11] when you go to update it is it said here
+[08:13] are the seventy four screens of our
+[08:15] privacy policy you can download it you
+[08:18] can email it you can agree to it but you
+[08:22] cannot not agree to it and that's
+[08:25] ilusory consent that's meaningless that
+[08:28] may make lawyers feel better
+[08:29] in fact Apple makes it pop up twice
+[08:32] consent yes and then it says do you
+[08:34] really consent right the alternative
+[08:37] being would you like us to turn your
+[08:39] very expensive phone into a brick which
+[08:41] is the alternative if you say no okay
+[08:46] fifth there's a huge burden on
+[08:48] individuals of all of these consent
+[08:50] opportunities and what consent is often
+[08:53] talked about as a right sometimes even a
+[08:55] human right it's realistically much more
+[08:57] of a duty it's much more of a burden on
+[08:59] individuals and remember when you make
+[09:02] that choice it has the legal effect of
+[09:05] shifting the liability from the from the
+[09:07] the data processor to you right it's
+[09:11] just like when you drive in the garage
+[09:12] and you take that ticket and on the back
+[09:14] of it it says we have no liability for
+[09:16] anything we can crush and mount your car
+[09:17] we can throw it out the the edge of the
+[09:19] garage we're not liable for anything
+[09:20] that that may look like a right to you
+[09:23] like you got the right to consent to
+[09:24] that by driving in the garage but
+[09:26] realistically it was the imposition of a
+[09:28] burden on you and on me and that burden
+[09:32] is really quite significant at times
+[09:35] because of the legal significance that
+[09:37] can attach to those six choice often
+[09:40] serves as an enormous disservice both to
+[09:42] individuals and society think about
+[09:44] press coverage right do we really want
+[09:46] up the president to have a right to
+[09:48] privacy right now that only his consent
+[09:50] will allow coverage of what he's been up
+[09:52] to fraud prevention crime detection do
+[09:55] we want to wait till the criminals
+[09:56] consent so that we can use their data so
+[09:59] what we do in these cases is we override
+[10:01] the consent we acknowledge the consent
+[10:03] doesn't work research something close to
+[10:06] my heart often depends on being able to
+[10:08] use past data often in an anonymized
+[10:11] fashion without going back and getting
+[10:13] individual consent but finally and most
+[10:16] importantly the real challenge about
+[10:19] consent is it leads to lousy privacy
+[10:21] protection it's not the same thing
+[10:24] clicking I agree to I get privacy now
+[10:27] you agree to terms that often eliminate
+[10:30] your privacy you agree to broad terms
+[10:33] that appear to have no limit we're being
+[10:36] asked to do things that we could never
+[10:38] be asked to do in other consumer
+[10:39] protection settings right imagine a
+[10:42] consumer protection law that said well
+[10:44] you can always ask the consumer if it's
+[10:46] okay to defraud them we don't allow that
+[10:48] we set rules and then we hold people to
+[10:51] it we don't allow you to consent them
+[10:52] away its own tempted to end there but I
+[10:55] won't I have four more things I want to
+[10:57] say very quickly and that's because I
+[11:00] want to say something positive I don't
+[11:01] just want to be a drain on your
+[11:04] otherwise stimulating evening so what my
+[11:06] we do that would look differently right
+[11:09] so one thing would be less focus on
+[11:10] consent and more on stewardship of data
+[11:13] if you collect my data if you use my
+[11:16] data and something goes wrong that
+[11:18] causes harm you should be liable for it
+[11:21] you can't shift that liability by asking
+[11:23] me to consent to take it myself
+[11:25] you would be the steward for my data and
+[11:29] that's the way we treat other things
+[11:31] that's the way a lawyer is who acts on
+[11:33] the best behalf of his or her client
+[11:35] that's the way a banker is that's the
+[11:37] way a doctor behaves
+[11:38] why wouldn't we say if you're using my
+[11:40] most personal information you should be
+[11:42] held to the same requirements you should
+[11:45] be a steward you should be acting in
+[11:47] trust of the person whose data you're
+[11:50] using second we might think more about
+[11:53] what are the things we agree that can be
+[11:54] done with data in normal circumstances
+[11:56] and what shouldn't be done with it
+[11:58] stalking is out fraud is out well but
+[12:01] something should be in you know bill
+[12:03] collection fraud detection maybe even
+[12:05] research if you want to keep the vice
+[12:07] president for research happy there's
+[12:09] some things we might be able to slide
+[12:11] over into the generally permitted
+[12:13] category so long as you use good
+[12:14] security and not have to burden people
+[12:17] by telling them the bleeding obvious
+[12:18] like if I if you give me your credit
+[12:20] card
+[12:21] I'm gonna use it to charge you money
+[12:22] third we might think more about redress
+[12:25] because no matter what happens
+[12:27] something's gonna go wrong that's the
+[12:28] one thing we know that's the one
+[12:30] certainty in a world of entropy and
+[12:32] right now we are often left in the cold
+[12:35] when something does go wrong in fact we
+[12:36] often learn about it from the newspaper
+[12:38] and finally when we do ask for consent
+[12:42] let's make it meaningful timely and
+[12:45] effective and since I've criticized
+[12:47] iPhone I'm gonna say something nice
+[12:49] about them now you know that just in
+[12:51] time message did you know this app was
+[12:53] using your location data right now
+[12:56] that's kind of a useful prompt it gives
+[12:58] you a chance to say no I'm gonna go in
+[13:00] and shut that off I don't like that but
+[13:02] using consent in all of these other
+[13:04] settings has the unintended effect of
+[13:06] making us tend to ignore it
+[13:08] when we could make meaningful effective
+[13:11] choices that would protect our privacy
+[13:13] thank you very much
+[13:15] you

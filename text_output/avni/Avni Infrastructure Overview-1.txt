@@ -1,0 +1,344 @@
+Avni Infrastructure Overview
+This document outlines the infrastructure, security and privacy features of Avni.
+Last updated: 30-Dec-2025
+
+About Avni
+Avni is an open-source platform built for community service and data collection. It has been
+recognised as Digital Public Good by the UN Digital Public Goods Alliance. Key features of Avni
+include:
+1.​ Offline: Avni has an Android application that works completely offline with two-way sync
+support. When in -network, the users can sync - which pulls configuration and data from
+the server on cloud and pushes data captured locally.
+2.​ Rich Case Modelling: Avni supports creating a custom data model for case
+management and longitudinal tracking using entities like subject types, programs and
+encounters. This will help in easily creating the required framework for setting a reporting
+tool.
+3.​ Powerful forms: The data is collected using easily configurable forms. The forms
+support all standard data types including GPS location, image, video and audio.
+4.​ Multilingual: The app can be developed in English and then easily converted into local
+languages like Assamese by uploading translations. Both android and the web based
+data entry application support entering and viewing data in regional language. User
+settings are provided to set the default language.
+5.​ Location Hierarchy: We can easily setup location hierarchy and record data against
+this. E.g. State -> District -> Village -> Household
+6.​ Users and Catchment: Users can be easily created in the system and mapped to
+different geographical regions so that data only limited to that geographical region is
+available in the android application. E.g. A frontline worker can be mapped to a single
+village and supervisors can be mapped to block or district.
+7.​ Bulk data upload and export: Avni supports downloading data in longitudinal format.
+This allows the users to extract raw data to perform analysis using tools like Excel,
+SPSS, Strata or R. Avni also has an ability to upload bulk data using CSV files.
+8.​ Security: All the access is behind login screens. All the data is stored on encrypted
+disks. Users can be set up with Roles and Permissions.
+9.​ Features for better coordination and engagement with Users: Avni provides features
+like Approval Workflow, News broadcast and an issue resolution framework to better
+engagement with users, coordinate the work and ensure data quality.
+10.​Health Specific Features like Vaccination Tracking and Growth Chart plotting in the
+health worker mobile application.
+
+1
+
+Component architecture
+The Avni suite has the following components
+●​ Field app (Android) - Avni app deployed on the Android PlayStore. All field users work
+on the field app.
+●​ Administration app and App Designer (Web) - Web application hosted on
+app.avniproject.org - This is used by administrators and app designers. Primary
+purposes include csv uploads, creation of users/locations, and changing form definitions.
+●​ Avni server - Primary API server hosted on app.avniproject.org.
+●​ Rules Server - Meant to run Javascript rules that are built for the application
+●​ Media Server - Handles the Media search mechanism on Avni
+●​ ETL Server - ETL service. Transforms primary data to formats easier for reporting
+●​ Integration Server - Takes care of integration with external systems
+●​ BI Server - An instance of Metabase and another of Superset. These provide
+dashboards
+
+2
+
+Notes
+●​ The Android and web applications interact with the server through API interfaces.
+●​ Identity is established through jwt tokens provided by the Identity Server (Amazon
+Cognito).
+●​ All non-media is stored in the postgres database. The database also stores report
+definitions for the reports and denormalized tables for use by reports.
+●​ Media is stored in S3
+
+Network Architecture
+
+Notes
+●​ The infra is hosted on AWS Mumbai servers
+●​ WAF protects against DDoS attacks
+●​ SSL termination takes place at the Application Load Balancer before being routed to the
+right server.
+●​ Infra capacity is provided along with the components in the diagram
+●​ All EC2 servers run Ubuntu
+
+3
+
+●​ All services run on systemd as services
+●​ Deployment happens through CircleCI
+
+Data Flow
+
+External sdks
+Name
+
+Vendor
+
+Purpose
+
+Data handled
+
+Service Terms
+
+Cognito
+
+AWS
+
+Identity Server
+
+Identity of user
+(user id,
+password,
+phone number)
+
+https://aws.amaz
+on.com/service-t
+erms/
+
+APM
+
+NewRelic
+
+Server
+monitoring
+
+Code
+https://newrelic.c
+instrumentation
+om/termsandcon
+(execution stack, ditions/terms
+
+4
+
+server response
+times, base urls)
+Bugsnag
+
+SmartBear
+
+Error
+management
+
+Stack traces,
+username,
+phone
+characteristics
+such as version,
+memory etc
+
+https://smartbear
+.com/terms-of-us
+e/
+
+Firebase
+
+Google
+
+Analytics
+
+Performance of
+page views,
+events
+
+https://marketing
+platform.google.
+com/about/analy
+tics/terms/us/
+
+Notes:
+●​ All sdks that send data outside the data center are provided here
+●​ No information about beneficiaries is shared with any of the tools mentioned above
+
+Security measures
+Summary
+Area
+
+Item
+
+Implementation Details
+
+Data Security
+
+Encryption at Rest (mobile app)
+
+AES-256 (needs to be enabled
+for an organisation)
+
+Encryption at Rest (server)
+
+AES-256 Encrypted by AWS
+
+Encryption at Rest (backups)
+
+AES-256 Encrypted by AWS
+
+Encryption of data in transit
+(public network)
+
+TLS_ECDHE_RSA_WITH_AES_
+128_GCM_SHA256, 128 bit
+keys, TLS 1.2
+
+Data in transit (within VPC)
+
+Trusted
+
+Database backups
+
+Point in Time recovery for 35
+days for the database
+
+Data residence
+
+AWS Mumbai data centers
+
+5
+
+App Security
+
+Infrastructure
+
+Network Security
+
+Deployment
+
+Contracts
+
+Audits
+
+Login
+
+Open ID Connect (OIDC) using
+Amazon Cognito. JWTs for
+authentication everywhere
+
+Token expiry
+
+1 hour
+
+Role based Access Control
+
+Present. Can be modified by
+admins.
+
+Upgrades
+
+Regular upgrades to application
+packages
+
+Infrastructure access
+
+MFA mandatory. Access logged.
+Ssh access through keys
+(nopasswd)
+
+Access logging
+
+AWS Cloudwatch
+
+Firewall
+
+WAF enabled
+
+Databases
+
+Within private subnet
+
+Routing through subnets
+
+Implemented via AWS Security
+Groups
+
+Secrets management for server
+
+Encrypted config deployed
+through CI servers. Applications
+read through environment
+variables
+
+Secrets management for mobile
+app
+
+No secrets maintained in the app
+bundle
+
+Customers
+
+NDA added to all contracts
+
+Employees
+
+NDA added to all contracts
+
+Security Audit
+
+On demand. Latest report
+performed for a dedicated
+deployment​
+​
+Android Leadership for Equity_ Tea…
+Webapp Leadership for Equity_ AVN…
+
+6
+
+Avni Platform : Data Handling - Access and Sharing of Data
+1.​ Authentication: Data in all the applications is accessible only to authenticated users. It
+is the user's responsibility to ensure that they are keeping a strong password so that it
+cannot be guessed by another human or brute force attack.
+2.​ Protection of database: The database resides within the internal VPC of AWS, and is
+not publicly accessible. The only way to access the database is through the interfaces
+provided by Avni, namely the Android application, the web application and the reporting
+systems. It is protected against accidental deletion, and has PITR (Point in Time
+Restore) mechanism to restore to any point of time. This protects us from disasters and
+data corruption.
+3.​ Authorization / Access Controls: a. Avni provides the ability to restrict access to
+functions to specific users through user roles and detailed privileges. b. Only relevant
+data is made available to the users for their catchments.
+4.​ Encryption in transit: Applications when communicating with each other use encryption
+via HTTPS protocol.
+5.​ Vulnerabilities from Libraries: All the libraries and certificates are regularly upgraded
+to prevent new vulnerabilities.
+6.​ Protection of PIIs: There is no additional protection of PII or any other sensitive
+information once downloaded from the system in the form of spreadsheets by an
+authenticated and authorised user using reports.
+
+Data Storage [Data at Rest]
+1.​ Security and encryption of data at Rest: a). The android field application has an
+option to store data in an encrypted form. We also rely on android security measures to
+ensure that other apps don’t have non-authenticated access to Avni’s data. b).
+Samanvay cloud service uses Amazon cloud storage (AWS) for storage of data on the
+cloud. Samanvay uses Amazon RDS encryption to secure the DB instances and
+snapshots at rest. Amazon RDS encryption uses the industry standard AES-256
+encryption algorithm to encrypt the data on the server that hosts the DB instance. AWS
+RDS encryption also ensures that Amazon doesn’t have access to the database and its
+contents.
+2.​ Data within the country boundaries: Samanvay uses the Amazon data centres from
+India (Mumbai AZ) to store the data.
+3.​ Access for Troubleshooting purposes: Authorised Samanvay team members have
+access to data for troubleshooting purposes. Samanvay and its members will be bound
+by Non disclosure agreement between NGO partner and Samanvay.
+
+7
+
+Privacy
+Samanvay performs the role of a Data Processor as provided in the Digital Personal Data
+Protection Act, 2023. As part of this, we ensure that the data is secure, accessible only to
+authorised users, and any requests for PII removal are done on request of our partner. We also
+provide notice on breach of data within the platform.
+We expect our partners to ensure management of consent, data minimisation, and route any
+request to delete data on behalf of the data principal.
+
+8
+
+

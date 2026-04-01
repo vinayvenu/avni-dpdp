@@ -1,0 +1,199 @@
+Understanding the DPDP Rules and their Impact on Social Sector (Part I...
+
+1 of 4
+
+About Us
+
+Who We Serve
+
+How We Serve
+
+https://www.pacta.in/post/understanding-the-dpdp-rules-and-their-impa...
+
+Publications
+
+Newsletter
+
+Events
+
+Programmes
+
+01/04/26, 6:01 pm
+
+Understanding the DPDP Rules and their Impact on Social Sector (Part I...
+
+2 of 4
+
+https://www.pacta.in/post/understanding-the-dpdp-rules-and-their-impa...
+
+Pulse by Pacta
+
+Nandini Narayanaswamy · Jan 27, 2025 · 4 min read
+
+Understanding the DPDP Rules and their Impact on Social
+Sector (Part I of a 3 Part Series)
+The Digital Personal Data Protection (DPDP) Rules, 2023 (the “DPDP Rules”), were introduced by the Ministry of Electronics and
+Information Technology (MeitY), Government of India, in early January 2025, following the enactment of the Digital Personal Data
+Protection Act, 2023 (the “DPDP Act”), on August 11, 2023. The DPDP Act read with DPDP Rules is poised to provide a
+comprehensive framework for digital personal data protection, emphasizing the principles of lawfulness, transparency, and
+accountability. The DPDP Rules would come into effect in a phased manner. The exact dates for the implementation of different
+provisions will be notiﬁed by the government, which has promised to allow organizations “enough time to adapt their processes to
+comply with the law”.
+In this edition, we delve into the implications of the DPDP Act for social sector enterprises.
+O ve r v i e w o f t h e D P D P A c t
+The DPDP Act introduce two central roles in the realm of data governance:
+1. Data Fiduciar ies: These are entities, including organizations, businesses, or individuals, that collect, process, or store personal
+data. An NGO that collects personal data in digital modes can be a Data Fiduciary under the DPDP Act.
+Obligations of a Data Fiduciar y under the DPDP: A Data Fiduciary is responsible for ensuring that personal data is handled in
+compliance with the law. Their obligations include obtaining explicit consent for collecting and processing personal data,
+implementing data security measures, and respecting the rights of individuals whose data they process.
+2. Data Pr incipals: This term refers to the individuals whose personal data is being collected or processed. A beneﬁciary of an
+NGO’s programs whose personal data is collected for monitoring, evaluation or program delivery is a Data Principal under the DPDP
+Act.
+Rights of the Data Pr incipal under DPDP: A Data Principal has speciﬁc rights under the DPDP Act read with Rules, such as the
+right to access, correct, or erase their data. They are at the center of the regulatory framework, emphasizing the importance of
+individual privacy and control over personal information.
+Implications for NGOs
+NGOs would be classiﬁed as Data Fiduciaries as NGOs often collect and process personal data from beneﬁciaries, donors, and
+stakeholders, making compliance essential under the DPDP Rules. Importantly the DPDP Act continues to hold the Data Fiduciary
+responsible even for data breaches or non-compliance by Data Processors, and mandates that contracts between Data Fiduciaries
+and Data Processes must reﬂect this responsibility. The following are the compliances under the DPDP Rules that are applicable to
+social sector:
+a. NGOs should obtain explicit and infor med consent from individuals (Data Principals) before collecting or processing their
+personal data. This consent must clearly outline the purpose of data collection, the retention period, and whether the data will be
+shared with third parties, such as partner organizations or service providers.
+
+01/04/26, 6:01 pm
+
+Understanding the DPDP Rules and their Impact on Social Sector (Part I...
+
+3 of 4
+
+https://www.pacta.in/post/understanding-the-dpdp-rules-and-their-impa...
+
+shared with third parties, such as partner organizations or service providers.
+b. Implement reasonable secur ity measures, including encryption, controlled access, and regular system monitoring. If NGOs rely
+on third-party service providers (Data Processors) for data handling, they must ensure these entities also comply with the same
+security standards, and ensure that they implement appropriate checks of these compliances.
+c. NGOs are required to provide detailed infor mation to Data Pr incipals about their data processing practices. This includes
+specifying the purpose of data collection, the rights of individuals under the DPDP Act, and providing contact details for someone
+responsible for addressing queries related to data processing.
+d. The DPDP Rules also emphasize data minimization and retention limitation, requiring NGOs to collect only the personal data
+necessary for their stated purposes. Data must be retained only for as long as required by law or operational necessity. Once the
+purpose has been fulﬁlled, NGOs are expected to delete the data, ensuring that unnecessary retention does not compromise
+individual privacy.
+e. In cases where NGOs process personal data without explicit consent, as permitted by certain exceptions under the DPDP Act
+(such as compliance with legal obligations), it must notify the Data Principals about the processing activity. The notiﬁcation should
+include information about the processing and provide a communication channel, such as a website or contact point, where
+individuals can exercise their rights under the DPDP Act.
+f. NGOs must appoint a Data Protection Ofﬁcer (DPO) to ensure compliance with the DPDP Rules. The DPO plays a critical role in
+overseeing data protection strategies, monitoring compliance, and acting as the point of contact for grievances related to personal
+data processing. For NGOs, the DPO ensures that data collection, storage, and usage align with the principles of lawfulness,
+transparency, and accountability. The DPO is also responsible for conducting regular audits, training staff, and coordinating with the
+relevant authorities to address potential breaches or violations.
+NGOs can undertake the following to ensure compliance under the DPDP Rules:
+1. Conduct a Data Audit
+NGOs must map their data collection, storage, and processing practices to identify gaps and ensure alignment with the DPDP Act
+and Rules.
+2. Update Policies and Procedures
+Privacy policies, consent forms, and internal guidelines should be revised to reﬂect the transparency and accountability
+requirements under the DPDP Act and Rules.
+3. Train Stakeholders
+Educating staff, volunteers, and other stakeholders on data protection principles is essential to foster a culture of compliance.
+4. Leverage Technology
+Investing in technology solutions can simplify compliance tasks, from anonymization to monitoring data access.
+Conclusion
+The DPDP Rules herald a new era of accountability and privacy in data processing. For NGOs, these rules present both
+opportunities and challenges. By proactively adopting best practices and ensuring compliance, NGOs can not only avoid penalties
+but also reinforce their credibility and trustworthiness in the eyes of beneﬁciaries, donors, and stakeholders.
+
+01/04/26, 6:01 pm
+
+Understanding the DPDP Rules and their Impact on Social Sector (Part I...
+
+4 of 4
+
+https://www.pacta.in/post/understanding-the-dpdp-rules-and-their-impa...
+
+Events
+
+Contact Us
+
+About Us
+
+Who We Serve
+
+How We Serve
+
+Publications
+
+Newsletters
+
+Who We Are
+
+NGOs & CSOs
+
+Legal
+
+Research Reports
+
+Pulse by Pacta
+
+Careers
+
+Our Journey
+
+HNIs & Philanthropies
+
+Research
+
+Primers
+
+Disability Bulletin
+
+Internships
+
+Our Vision
+
+Educational Institutions
+
+Capacity Building
+
+Op-Eds
+
+Our Mission
+
+Governments & Multilaterals
+
+Case Compendiums
+
+Our People
+
+Think Tanks & Research Initiatives
+
+Annual Reports
+
+Get in Touch
+
+Corporates & Social Impact
+
+Address
+P/37, 11th Cross Rd, Jeevan Bhima Nagar, Bengaluru, Karnataka 560075
+Email: hello@pacta.in
+
+Follow us on
+
+DISCLAIMER
+Pacta upholds and strives to exceed the professional standards. This website is not an advertisement or solicitation of work. Legal information
+shared here are not and do not make up for professional legal advice. By visiting Pacta’s website you know what you are doing and you are
+doing it at your risk and cost. We disclaim any liability arising from the information or materials contained on this site.
+
+Copyright 2025 Pacta . Privacy Policy
+
+CIN: U69100KA2025PTC197428
+
+Site by The Other Design Studio
+
+01/04/26, 6:01 pm
+
+

@@ -1,0 +1,1464 @@
+Source: https://www.youtube.com/watch?v=skCawSr0Qbw
+
+[00:00] What is DPDP?
+[00:01] >> Think of it as the one piece of law that
+[00:04] tells you how companies are allowed to
+[00:06] process your data. What rights that you
+[00:08] have in relation to this data against
+[00:10] those companies and how can you really
+[00:12] help enforce these rights against those
+[00:14] companies. This law is the complete code
+[00:17] that talks about all of these aspects.
+[00:20] The classic example that I think is
+[00:22] discussed here is there was some time
+[00:23] ago a torch app that required access to
+[00:25] your contacts, required access to your
+[00:28] financial information, required access
+[00:30] to your dating history and so on. But
+[00:32] now I think they would be required to
+[00:34] show that whatever they collect is
+[00:36] actually necessary to enable a torch
+[00:38] function. Advocate Thomas is a leading
+[00:40] expert on India's digital personal data
+[00:43] protection act and he comes with a deep
+[00:45] experience in data privacy and
+[00:47] technology law. He joins us today to
+[00:49] break down the act.
+[00:50] >> As a result of you know deciding whether
+[00:53] the Aadhaar is a valid scheme or not,
+[00:55] the courts had to decide whether Indian
+[00:58] citizens had a right to privacy.
+[01:00] >> I post a picture of mine on a social
+[01:02] media app. There's another individual
+[01:04] account on the same platform that takes
+[01:07] my picture, does a deep fake of it and
+[01:09] puts it out.
+[01:10] >> Yeah.
+[01:10] >> Now, how does the protection act or the
+[01:14] privacy laws apply in this scenario?
+[01:16] What rights do I have as as a user
+[01:19] currently residing in India?
+[01:21] >> This is a complicated one, Supre only
+[01:23] because I think
+[01:34] Hello everybody, welcome to another
+[01:36] episode of Tech Talks. I'm Supri from
+[01:38] Aim Network. Folks, day in and day out,
+[01:41] the tech that we use is improving on an
+[01:44] exponential level. But if there's one
+[01:46] thing that all of us are still concerned
+[01:48] about or skeptical about is how all of
+[01:51] these entities and organizations hold
+[01:54] preserve and maintain our data. And of
+[01:58] course as all of you are aware in the
+[02:00] news is India's DPDP act since the last
+[02:03] few months. But if you were to download
+[02:05] the PDF there's a lot of nuances.
+[02:06] There's a lot of information that it's
+[02:08] probably difficult to read and interpret
+[02:10] for the average man like you or me.
+[02:14] So to debunk all of these laws to give
+[02:16] you a good clarity of all of the nuances
+[02:18] that are involved, join with me is a
+[02:20] lawyer who's been practicing in this
+[02:23] arena since quite a long time and he's
+[02:25] going to answer some of the most common
+[02:26] questions, misconceptions, and myths
+[02:28] that all of you and me have about the
+[02:31] DPDP act. So let's welcome Thomas to the
+[02:35] podcast. Thank you Thomas for joining
+[02:37] in. I hear you are the DPDP expert since
+[02:40] quite some time. So yeah,
+[02:42] >> thanks. Thanks for having me. This is uh
+[02:44] you know I I like to tell the story of
+[02:47] my career in terms of how many versions
+[02:48] of the DPD people we've now finally had
+[02:51] and now eventually the act. So it's
+[02:53] great to now actually finally have a law
+[02:55] that I can talk about and that I can
+[02:56] help you know your audience to kind of
+[02:58] understand and make better use of.
+[03:01] >> Right. Thanks for having me over.
+[03:02] >> Right. So Thomas, you've advised
+[03:04] countless companies on the policy on the
+[03:07] privacy act. So just to set the right
+[03:10] context, what is DPDP? you know, if you
+[03:13] were to frame it to someone who
+[03:15] extensively uses internet apps day in
+[03:17] and day out.
+[03:19] >> Nice question, Sup. And I think the way
+[03:22] I would think about this is think of it
+[03:24] as the one piece of law that tells you
+[03:27] how companies are allowed to process
+[03:29] your data, what rights that you have in
+[03:32] relation to this data against those
+[03:34] companies, and how can you really help
+[03:37] enforce these rights against those
+[03:39] companies. This law is the complete code
+[03:42] that talks about all of these aspects.
+[03:44] As a company, think of it as essentially
+[03:47] a set of outcomes that the government
+[03:49] wants you to achieve in relation to data
+[03:51] protection. Uh and basically a set of
+[03:54] principles that you have to follow in
+[03:56] your operations going forward. So in
+[03:59] some substance it's like outcomes that
+[04:01] the government wants you to achieve and
+[04:03] a set of rights that you as an
+[04:04] individual have against companies. Right
+[04:07] now before we even proceed to how
+[04:10] private companies are going to abide by
+[04:12] the law, let's talk about the government
+[04:14] first because our data is out there with
+[04:16] a lot of government digital applications
+[04:17] be it ADA or digilocker
+[04:19] >> or digatra. So firstly how does the
+[04:23] entire policy exempt the government uh
+[04:26] you know in ways the access or abide by
+[04:29] the policies or regulations that are
+[04:31] there or where is it mandatory even for
+[04:33] a government institution to abide by
+[04:35] some of the regulations of the DPDP act.
+[04:37] So subit uh I think one of the key
+[04:40] things to kind of understand when we
+[04:41] talk about government's use of data is
+[04:44] that you know at least with respect to
+[04:45] the government this there are a series
+[04:48] of laws that they are subject to
+[04:50] >> uh which talks about how they can handle
+[04:52] data
+[04:53] >> but at least as it pertains to this
+[04:54] particular law there are a number of
+[04:56] exemptions in terms of what the
+[04:58] government can do or can avail in
+[05:00] relation to your data. So for instance,
+[05:02] if you have to provide your data to the
+[05:04] government to avail a subsidy or a
+[05:05] benefit, potentially they can do that
+[05:07] without your consent.
+[05:09] >> Okay?
+[05:09] >> Right? Uh or if there are there is data
+[05:11] that the government needs to investigate
+[05:13] an offense that you've committed,
+[05:14] potentially they can do that without
+[05:16] consent or without complying with most
+[05:18] of the provisions of this act. But
+[05:20] having said that uh there is a large
+[05:22] body of Indian case law as well as other
+[05:26] laws uh you know for instance under the
+[05:28] criminal procedure codes of India, the
+[05:30] information technology act of India as
+[05:32] well as a number of case laws that the
+[05:34] Supreme Court has from the 1960s until
+[05:37] you know almost earlier this year has
+[05:40] laid down where there are procedural
+[05:41] safeguards that the government has to
+[05:43] abide by when they process your data. So
+[05:46] even though there are some leeways that
+[05:48] are granted to the government uh under
+[05:50] this I'm not as skeptical about you know
+[05:54] what is the use of the by the government
+[05:56] of this data. I think there is a healthy
+[05:59] kind of juristprudence or laws that
+[06:01] exist in India that prevent the
+[06:03] government from overtly misusing your
+[06:06] data.
+[06:06] >> Okay
+[06:07] >> and grant you the citizens some rights
+[06:09] at least in relation to this. But yes
+[06:11] could it have been better under this
+[06:13] act? Of course. Uh but yeah, I mean I
+[06:16] think this is the status that we are in
+[06:17] right now and I think there are ample
+[06:19] methods for us to be able to even hold
+[06:21] the government to account in terms of
+[06:23] what it can do with its data.
+[06:25] >> Right. Right. And now coming back to the
+[06:28] apps that me, you and the audience use
+[06:30] on a regular basis. We got the AI apps
+[06:32] on so many social media apps on our
+[06:34] phone that are really data hungry and
+[06:36] probably have every single information
+[06:38] about us from cookies or the information
+[06:40] that we enter. So what tangible
+[06:42] differences that we will observe going
+[06:45] forward once the act is implemented by
+[06:46] these companies.
+[06:47] >> Got it. So before I jump into the
+[06:49] question on apps maybe I you know for
+[06:51] the benefit of the audience I'll give
+[06:52] like a one minute summary of what the
+[06:54] act does and what its key principles
+[06:56] are. I think you'll see it as a
+[06:57] recurring theme
+[06:58] >> through our conversation.
+[07:00] >> The first and extremely key idea is that
+[07:03] this act applies to something called
+[07:05] personal data. Personal data.
+[07:07] >> Now personal data is any piece of data
+[07:09] that identifies you as an individual.
+[07:11] Very easy examples would be your mobile
+[07:14] number, right? Or let's say your Aadhaar
+[07:17] number, right? Or any government
+[07:19] identifier that identifies you the
+[07:21] individual.
+[07:22] >> Now there could also be information that
+[07:24] associated with other pieces of
+[07:26] information could become personal. So
+[07:28] for instance, if I had let's say your u
+[07:31] you know your uh salary information or I
+[07:35] had your um let's say I had your
+[07:38] address, right? And I combined it with
+[07:40] your name, it could essentially become
+[07:42] personal information because the
+[07:44] combination of those two pieces of
+[07:45] information is able to identify you the
+[07:48] human individual. Right? So this law
+[07:50] applies to personal data and the
+[07:52] processing of personal data by both
+[07:55] companies and or uh and the government.
+[07:58] Now what are the principles that you
+[08:00] know this law lays down? The first key
+[08:02] principle is that every person that's or
+[08:05] every entity that's processing your data
+[08:07] must have a legal basis to do so. That
+[08:10] is it must establish that one of the
+[08:13] conditions under the law is met out.
+[08:15] There are two possible conditions that
+[08:17] you can establish under the law. One is
+[08:19] they've taken your consent to process
+[08:21] that data that is with your permission
+[08:23] >> or alternatively there's something
+[08:25] called a legitimate use under the act
+[08:27] which is let's say for instance you walk
+[08:29] into a hospital and you're you know in
+[08:32] an emergency situation clearly at that
+[08:34] point in time it's almost impossible to
+[08:36] get your consent to process your
+[08:38] personal data in order to give you
+[08:39] medical treatments right similarly and I
+[08:42] think this is a classic example that's
+[08:44] provided in the act itself let's say you
+[08:46] provide your phone number to a pharmacy
+[08:48] for the pharmacy to give you a bill
+[08:51] >> for the sole purpose of giving you the
+[08:52] bill. The pharmacy isn't going to ask
+[08:54] you for consent because you have
+[08:56] voluntarily provided that information to
+[08:58] the pharmacy.
+[08:58] >> Okay?
+[08:59] >> So these are the kinds of purposes which
+[09:01] do not require consent. But by and large
+[09:04] everybody every organization that's
+[09:06] processing your information requires
+[09:08] your consent to do so. Now in order for
+[09:11] them to obtain your consent they have to
+[09:13] give you something called as a notice
+[09:14] which is loosely speaking describing
+[09:17] what they do with this information what
+[09:19] information they collect from you and
+[09:22] what can you do to address any
+[09:24] complaints or grievances that you have
+[09:26] in relation to this data.
+[09:27] >> Okay. So as a result of which um you
+[09:30] know what it allows you to do is it
+[09:33] basically gives you an informed
+[09:35] perspective of what each organization
+[09:37] can and will do in the future with
+[09:39] respect to your data.
+[09:40] >> Okay.
+[09:41] >> So that's largely the basic principles
+[09:44] by which an organization can process
+[09:45] data. But you as a citizen also are
+[09:48] conferred certain rights under the act.
+[09:50] For instance, you can go to an
+[09:52] organization and say, "Give me a summary
+[09:54] of all of the personal data processing
+[09:56] activities that you take in case with
+[09:58] respect to me." So, for instance, next
+[10:00] time you get an annoying, pesky call
+[10:02] from a real estate telemarketer who's
+[10:03] asking you um you know whether you want
+[10:05] to buy a flat very legitimately, you can
+[10:08] approach that organization and say,
+[10:09] "Look, give tell me about how you have
+[10:11] my personal information and give me a
+[10:13] summary of how you've obtained this
+[10:14] personal information."
+[10:16] Secondly, you can ask organizations to
+[10:18] delete personal data that they have with
+[10:20] you.
+[10:21] >> Now, again, the same example, you know,
+[10:23] like if you don't want to be bothered by
+[10:24] a specific telemarketer or you don't
+[10:26] want to be bothered by a specific agency
+[10:28] that is calling you for commercial
+[10:30] communication, you can reach out to them
+[10:31] and say, "Look, please delete my
+[10:33] personal data." Then there is abilities
+[10:36] for you to correct your personal
+[10:37] information available with
+[10:38] organizations. So classic example of
+[10:40] this is let's say you've provided
+[10:42] inaccurate information for uh you know
+[10:45] by way of a mistake or so to a financial
+[10:47] institution and they're unable to
+[10:48] process a transaction for you. You can
+[10:50] reach out to them and say look this is
+[10:52] my accurate basis of information. The
+[10:54] other bits are more reactive sort of a
+[10:57] rights that you have. For instance if
+[10:58] your data gets hacked okay
+[11:00] >> the organization is required to inform
+[11:02] you uh within a certain timeline that
+[11:04] your organization that your data has
+[11:06] been hacked. It's also required to
+[11:08] inform the government that they have
+[11:09] been hacked in relation to that specific
+[11:12] data.
+[11:12] >> So very broadly speaking, these are the
+[11:15] basic principles that you know the act
+[11:18] requires organizations to do.
+[11:20] >> Now coming back to your question on
+[11:22] social media apps and so on,
+[11:24] >> right? Every organization that processes
+[11:26] your personal data is required to meet
+[11:29] these requirements. So potentially now
+[11:31] you have very granular personal data
+[11:35] notices that will be provided to you to
+[11:38] enable you to know what the organization
+[11:40] is doing with your data. What sort of
+[11:42] rights do you have? Who can you reach
+[11:44] out to in case you have certain issues
+[11:46] with the way that your data is processed
+[11:48] as a result of which I think consent
+[11:50] screens are going to be more prevalent
+[11:53] in your life. Right. Um now even though
+[11:56] they were already long documents to
+[11:58] begin with potentially now they're going
+[12:00] to be even longer because I think
+[12:02] they're required to be granular uh under
+[12:04] under Indian law.
+[12:06] >> And the other advantage that you have
+[12:08] under the new law is that now you know
+[12:10] earlier it was an all or nothing thing.
+[12:11] There would be a bucket of list of
+[12:13] purposes where you could say where you
+[12:14] had to say yes to all 100 if you wanted
+[12:16] to use a particular social media app.
+[12:18] >> But now you have the option to opt out
+[12:20] of certain individual pieces of
+[12:21] processing.
+[12:22] >> Okay.
+[12:22] >> Right. The classic example that I think
+[12:24] is discussed here is there was some time
+[12:26] ago a torch app that required access to
+[12:28] your contacts, required access to your
+[12:31] financial information, required access
+[12:33] to your dating history and so on. But
+[12:35] now I think they would be required to
+[12:37] show that whatever they collect is
+[12:39] actually necessary to enable a touch
+[12:41] function. Okay.
+[12:41] >> And it also allows you to opt out of
+[12:43] providing certain pieces of information
+[12:45] to a specific piece of app. So I think
+[12:47] the way I see it is that social media
+[12:50] apps and other organizations that are
+[12:51] doing data inensive businesses should be
+[12:53] ready to grant a little bit more control
+[12:56] >> to users in the way that they're
+[12:57] processing data. Okay?
+[12:58] >> They need to be aware of what they're
+[13:00] doing and what the interface they have
+[13:02] with the specific users are and how they
+[13:04] can kind of encourage
+[13:06] >> uh you know a compliant use of their
+[13:08] data.
+[13:08] >> Okay. But at the same time I don't think
+[13:10] the government is um you know looking at
+[13:13] this law as an overly prescriptive set
+[13:15] of you know do step one step two step
+[13:18] three step four step five etc. I think
+[13:21] what they're looking for this is to set
+[13:22] out a set of principles or outcomes that
+[13:24] you want to achieve as a government. For
+[13:26] instance, you need to ensure that people
+[13:28] have rights, right? Or you need to
+[13:30] ensure that people are informed about
+[13:32] what their data is, how their data is
+[13:33] being processed.
+[13:35] >> All of these things I think are the
+[13:37] outcomes that they want to achieve and
+[13:39] you as an organization have some
+[13:40] flexibility in terms of how you achieve
+[13:42] these outcomes.
+[13:44] >> Right? So I think in that sense you know
+[13:46] where the law has landed up after like
+[13:48] nearly I would say a 14-year journey
+[13:50] >> uh to get here is I think a good happy
+[13:53] middle between protecting kind of
+[13:55] interests in some way whereas allowing
+[13:58] organizations some flexibility and some
+[14:00] breathing room to be able to kind of
+[14:02] process or implement compliances in
+[14:04] their own fashion.
+[14:05] >> Right? So what will change more control
+[14:09] uh definitely a more conscious
+[14:12] processing of personal data and
+[14:14] hopefully a culture of you know rights
+[14:16] that are enforced against these
+[14:17] organizations.
+[14:18] >> So it's mostly about giving users the
+[14:20] asking users the additional consent and
+[14:22] just keeping their rights you know at at
+[14:25] at the highest level of priority.
+[14:27] >> So you also mentioned that it's been a
+[14:30] 14-year journey. could shed light on the
+[14:32] story or if there was any particular
+[14:34] case or a legal battle that ignited this
+[14:36] spark towards the government creating a
+[14:39] DPDP act.
+[14:40] >> So please I can talk about this for
+[14:41] hours but I'm just going to try and keep
+[14:43] it limited.
+[14:44] >> So uh I just said a few crucial
+[14:46] milestones I think in India's privacy
+[14:48] juristprudence and I don't think we give
+[14:49] our courts enough credit for some of
+[14:51] this stuff.
+[14:52] >> Uh India's priv the first case law that
+[14:54] recognized privacy in India was in 1964.
+[14:57] >> Yeah. which was even kind of before the
+[14:59] Indian digital revolution. Um there was
+[15:03] a case called Karak Singh versus I think
+[15:06] the state of Uttar Pradesh if I'm not
+[15:07] mistaken. We had another one in the
+[15:10] 1970s goind against state of Madhya
+[15:12] Pradesh which also recognized the right
+[15:14] to privacy
+[15:15] >> in the '9s in the late '9s once you know
+[15:18] the
+[15:20] broadcasting media became a lot more
+[15:22] prevalent in India written word became a
+[15:24] lot more prevalent in India
+[15:26] >> we had a whole slew of and actually also
+[15:28] the other prominent landmark case on
+[15:30] this was on wiretapping of telephones
+[15:32] right so once telephones penetration
+[15:34] became uh common in India there was a
+[15:36] whole range of cases in the late '9s
+[15:38] which also again recognized kind of the
+[15:40] right to privacy. The only thing was
+[15:42] that I think these were all operating in
+[15:44] the fringes. I think the executive or
+[15:47] the government itself
+[15:48] >> was slow to catch up with what
+[15:50] principles the courts were uh engaging
+[15:53] with. So there was no law at that point
+[15:54] in time. India's first IT law in that
+[15:57] sense even though we've had a telecom
+[15:59] law for nearly 150 years now the first
+[16:02] IT law came in 2000 right
+[16:05] >> um but even that did not or at least had
+[16:08] very scanty principles on how personal
+[16:10] data was processed
+[16:12] >> uh then because of the outsourcing boom
+[16:14] that existed in India from in the early
+[16:17] late '90s early 2000s in 2008 thankfully
+[16:21] the government had amended you know the
+[16:22] law to bring about uh what It calls the
+[16:25] protection of sensitive personal
+[16:27] information.
+[16:27] >> Right.
+[16:28] >> Right. And then 3 years later,
+[16:29] government seems to operate in threeear
+[16:31] cycles here as well. 3 years later, the
+[16:33] government bought out these set of rules
+[16:35] called the sensitive personal data rules
+[16:36] essentially.
+[16:38] >> Now these rules protected um you know
+[16:41] sensitive personal information which was
+[16:43] sexual orientation, medical history, um
+[16:46] you know financial records,
+[16:48] >> uh your passwords, your biometrics,
+[16:50] those kinds of very sensitive pieces of
+[16:52] information. uh and you know it kudos
+[16:55] for the Indian government recognizing
+[16:56] sexual orientation as a piece of
+[16:57] sensitive personal information all the
+[16:59] way back in 2011 before it was even you
+[17:02] know decriminalized.
+[17:03] >> So I think there's a whole range of kind
+[17:06] of that history that traversed all the
+[17:07] way up to 2011.
+[17:09] >> Uh we were also influenced a lot by
+[17:11] international developments in this
+[17:13] front. So there was an OECD uh set of
+[17:15] principles that came out in the 1980s.
+[17:18] The European GDPR was also I think the
+[17:20] first version of it was you know a few
+[17:21] years in at that point in time. So we've
+[17:24] taken influence from some of these
+[17:26] principles and laid down something kind
+[17:28] kind of basic but I would say until this
+[17:30] law was actually enacted um the
+[17:33] enforcement or the compliance culture
+[17:35] around it was not so welldeveloped right
+[17:38] because even though the government has
+[17:40] enacted this law it didn't really
+[17:42] enforce it. I think I can count in my on
+[17:44] my fingers the number of cases where
+[17:46] people have proceeded against companies
+[17:48] >> under this kind of SPDI rules or the
+[17:51] sensitive personal data rules
+[17:53] >> probably sub 10 maybe 20 at most right
+[17:57] and I'm talking about a 15 14 year long
+[17:59] history right now
+[18:00] >> so as a result of which I think civil
+[18:02] society groups uh you know various tech
+[18:05] groups as well in the country felt the
+[18:07] need for something a little bit more
+[18:09] concrete and you know if we had to
+[18:10] become a real mature digital economy. I
+[18:13] think this was a key component of our of
+[18:16] our infrastructure. You know, regulatory
+[18:18] infrastructure is also a key component
+[18:19] of our infrastructure. So the law is a
+[18:22] key component of our infrastructure. I
+[18:24] think we've had the first version of
+[18:25] this act come out in 2011.
+[18:27] >> Right. Um that was an early draft. Uh
+[18:30] there was a few kind of iterations that
+[18:32] came up in between.
+[18:33] >> Okay.
+[18:34] >> Uh and then I think the key pivotal
+[18:36] moment was the Aadhaar case in the
+[18:38] Supreme Court. So in I think 2016 or so
+[18:42] there was or slightly earlier there was
+[18:45] uh a gentleman by the name of justice
+[18:46] Putaswami who's from Karnataka actually
+[18:49] uh who challenged the constitutional
+[18:51] validity of the Aadhaar scheme and this
+[18:52] is one of the judgments where I've had a
+[18:55] >> I've had the opportunity to be involved
+[18:56] in the early parts of my career. So it
+[18:58] was like a great learning experience for
+[19:00] me as well. um as a result of you know
+[19:03] deciding whether the Aadhaar is a valid
+[19:06] scheme or not the the courts had to
+[19:08] decide whether Indian citizens had a
+[19:10] right to privacy.
+[19:11] >> Okay.
+[19:12] >> Right. So even though various judgments
+[19:13] had already laid down shades of it
+[19:15] earlier
+[19:16] >> for the first time where the court has
+[19:17] consciously faced with the question of
+[19:19] do our citizens have the right to
+[19:21] privacy.
+[19:22] >> Okay. And you know in a landmark
+[19:23] judgment in 2017
+[19:26] there was uh you know a categoric
+[19:28] holding that you know given that we all
+[19:30] have the right to life and liberty we
+[19:33] all have the right to be make autonomous
+[19:35] decisions about our person and our
+[19:38] person includes the information that you
+[19:40] and I generate as as individuals.
+[19:42] >> So that is really the genesis for this
+[19:45] serious attempts into making kind of
+[19:47] like the personal data protection law.
+[19:49] So 2017 we had that judgment
+[19:52] >> shortly after the Aadhaar judgment
+[19:53] itself came out in 20 2018.
+[19:56] >> Uh there was a justice B and Shri
+[19:59] Krishna committee report that was issued
+[20:01] just after that kind of judgment came
+[20:03] out which laid down the basic principles
+[20:04] for what the law must contain and since
+[20:07] then we've had a few iterations of the
+[20:10] bill. 2018 we had one, 2019 we had one.
+[20:13] Subsequently, I believe in 2021 also we
+[20:15] had one, but 2023 is when we finally um
+[20:19] had essentially like the version of the
+[20:21] act that we see right now passed in its
+[20:24] form. So it's we've traversed
+[20:26] essentially I think a
+[20:28] >> I would say a 60-year journey almost to
+[20:30] get to where we are right now. Uh and
+[20:33] thankfully from in that 60-year journey,
+[20:35] I think we've come to a place where
+[20:37] we've drawn a happy middle between, you
+[20:39] know, trying to be overly protective of
+[20:41] our of our industries, but also at the
+[20:43] same time ensuring that, you know, our
+[20:46] citizens get uh kind of the the rights
+[20:49] that they are they are entitled to under
+[20:50] our laws.
+[20:51] >> Right. Right. So from what I understand
+[20:54] is that before DPDP was enacted or even
+[20:56] laid down, privacy cases were or privacy
+[21:00] measures or the rules and regulations
+[21:02] were subjective to an individual case
+[21:05] when it was taken to court. Right.
+[21:06] >> Yeah.
+[21:07] >> Right. So um in order to influence or in
+[21:10] order to enforce rather the the rules
+[21:12] that you know existed between 2011 and
+[21:14] actually they still continue until 2027
+[21:17] uh is that you had to go to a body
+[21:20] called the adjudicating officer who is a
+[21:22] who is an officer appointed by each
+[21:24] state government. Now very often you
+[21:26] know you had those appointments were not
+[21:28] made by state governments. Even if they
+[21:30] were made uh you know the kind of cases
+[21:33] that went to them were very few because
+[21:35] very few people even knew that this this
+[21:37] regime existed. primarily the kinds of
+[21:39] cases that were going to them were where
+[21:42] you know banks were uh you know like
+[21:45] basically losing people's money as a
+[21:48] result of fraudulent activities carried
+[21:50] out by somebody right so largely it was
+[21:52] around financial loss and financial harm
+[21:54] those kinds of cases were going but
+[21:56] purely you know personal data breaches
+[21:58] those kinds of privacy matters were not
+[22:00] going to these to these um to these
+[22:03] courts and tribals
+[22:05] >> the other bucket of cases that the
+[22:06] courts were largely dealing with were
+[22:09] you know privacy intrusions by the state
+[22:11] right so for instance
+[22:13] >> um you know like the Aadhar case is a
+[22:15] good example of something that you know
+[22:17] happened in the interim period right
+[22:20] >> um and there's a third bucket which is
+[22:22] basically cases where you know there's
+[22:24] individual against individual so for
+[22:26] instance I think one of the very
+[22:27] prominent ones in the last four five
+[22:28] years is
+[22:30] >> how you know there's a Delhi high court
+[22:31] judgment on how an individual has a
+[22:33] right to privacy against their own
+[22:35] parents where they had eloped and
+[22:37] married, you know, another individual.
+[22:39] So to coersse this person to come back
+[22:42] >> to uh, you know, their parental home was
+[22:44] deemed to be essentially a violation of
+[22:46] their of their right to privacy, right?
+[22:48] So
+[22:49] >> it was these kind of facets that the
+[22:51] courts and the exe and the government
+[22:53] were basically engaging with at that
+[22:54] point in time.
+[22:55] >> So the mainstreaming of this whole idea
+[22:57] of data protection, privacy, etc. is
+[23:00] kind of in that sense a more recent uh
+[23:03] phenomenon. Even though we've had a
+[23:04] longish journey in these kind of other
+[23:06] aspects. So you're absolutely right in
+[23:09] that this act is in that sense a
+[23:10] watershed moment. It'll probably change
+[23:12] the way that
+[23:13] >> both organizations and the state
+[23:15] machinery think about the way that data
+[23:17] is processed. Right? And we don't look
+[23:20] at it merely as some sort of a
+[23:21] constitutional right battle or some sort
+[23:23] of lofty debate about you know rights
+[23:26] but it's actually affecting our
+[23:27] day-to-day lives and day-to-day uh data
+[23:30] collection that is that is being
+[23:31] impacted as a result of that
+[23:33] >> and Thomas you mentioned in 2017 I think
+[23:35] that things also come up and many times
+[23:37] I have read up about the DPDP act the
+[23:38] putwami case yeah
+[23:40] >> so it seems like a milestone it does you
+[23:42] know in terms of the DPDP coming into
+[23:44] picture so what exactly was this case
+[23:46] about if you could shed right to our
+[23:48] readers what exactly was the story
+[23:50] behind this man who fought for you know
+[23:52] the privacy in terms of the Aadhaar
+[23:54] scenario.
+[23:54] >> Yeah. Yeah. So justice Piswami was you
+[23:57] know judge based out of Karnataka
+[23:59] essentially he uh I think he had
+[24:02] challenged the constitutionality of the
+[24:04] Aadhaar scheme right so I think back
+[24:07] then there was some uh you know debate
+[24:10] around how the Aadhaar information was
+[24:13] collected how is it being used what are
+[24:15] the safeguards that were available to
+[24:17] individuals against the Aadhaar uh or in
+[24:20] relation to their Aadhaar database so I
+[24:22] think the primary question that justice
+[24:24] kaswami wanted the courts to engage with
+[24:26] was the idea of whether the collection
+[24:28] of Aadhaar information by the state was
+[24:30] a breach of the individual's privacy.
+[24:32] Okay. because I think he viewed it as
+[24:35] compelled collection of for instance my
+[24:37] biometric information because I'm
+[24:39] providing my fingerprints uh you know
+[24:41] when I'm enrolling to the Aadhaar or I'm
+[24:43] doing authentication I'm also providing
+[24:45] potentially my biometrics to the scanner
+[24:47] at least right um I'm providing certain
+[24:50] demographic information like my address
+[24:52] my date of birth etc to the government
+[24:55] on a what he viewed to be a coerced
+[24:58] essentially basis right
+[25:00] >> uh and the question that the court was
+[25:01] really faced with was is this a breach
+[25:05] of an individual's right to privacy
+[25:07] right
+[25:08] >> but in order to determine that question
+[25:10] first I think the court had to determine
+[25:11] whether we do have a right to privacy
+[25:14] right so this judgment in 2017 was
+[25:17] basically the court taking categoric
+[25:19] view that you know look all all of the
+[25:21] case history in the past aside we are
+[25:23] now emphatically stating that all
+[25:26] individuals have the right to privacy
+[25:28] and the right to basically be autonomous
+[25:30] about information that they generate ate
+[25:33] who they who they are able to expose
+[25:35] their personal lives to who they're able
+[25:36] to expose their private lives to and
+[25:39] that was a watershed moment because it
+[25:41] also led to other second order
+[25:42] consequences. So for instance a large
+[25:45] number of the principles that led to
+[25:47] decriminalization of homosexuality
+[25:49] even for that matter for you know
+[25:51] decriminalization of adultery and a
+[25:52] whole range of other judgments all
+[25:54] derived from the same principle that I
+[25:56] have a right as an individual to ensure
+[25:59] that I control
+[26:01] >> how the state views my personal life
+[26:03] views my private life. state or other
+[26:05] organizations view my personal life,
+[26:07] view my private life and I have to be in
+[26:09] autonomous control over of complete
+[26:11] control over
+[26:12] >> what information I'm able to let out
+[26:15] into the into the public domain. Now of
+[26:18] course there are some exceptions to this
+[26:19] rule because for instance if I'm being
+[26:21] investigated uh I cannot say that you
+[26:24] know I'm not going to give give you my
+[26:25] personal information. Yeah. So there are
+[26:27] some like you know common sense
+[26:29] exceptions to that rule I think but by
+[26:31] and large the 2017 judgment was a great
+[26:34] way to lay down this principle kind of
+[26:36] emphatically because after this there's
+[26:38] not going to be not going to be any
+[26:39] debate in terms of do individuals have
+[26:42] this right or not
+[26:42] >> there's not going to be any subjective
+[26:44] correct because you have something
+[26:46] that's laid out and everybody needs to
+[26:47] ad yeah I mean
+[26:49] >> it it's quite interesting like one man's
+[26:51] fight you know to such a moment and
+[26:54] >> so Thomas my next question is now
+[26:56] obviously uh it's very good that you
+[26:58] bring up some of the other non- tech
+[27:00] cases where we are asked to give out
+[27:02] data. I think you mentioned the pharmacy
+[27:05] you know scenario I think when you're in
+[27:07] that tech world you only think about
+[27:08] social media apps and all of that so
+[27:10] bring that up. So now look now that the
+[27:13] rules are going to be enforced. Now I
+[27:15] see a consent form when I log into any
+[27:18] app or something.
+[27:19] >> How will the government ensure that the
+[27:22] company or the entity is handling the
+[27:24] data in the way that it claims to do so
+[27:27] to the user? Is there any body that the
+[27:30] entity needs to report to where you know
+[27:33] they will be liable for investigations
+[27:35] from that government body or is it in
+[27:37] such a way that if I suspect that this
+[27:39] app is not handling my data carefully
+[27:41] only then I can you know approach the
+[27:43] government or my uh courts and ask them
+[27:46] for a thorough investigation. So how
+[27:47] does that ensuring that this thing is
+[27:49] being enforced? Actually you touch upon
+[27:51] a very interesting aspect because I
+[27:54] think and like I was saying earlier the
+[27:55] enforcement muscle behind the old rules
+[27:58] were probably why it hasn't seen as you
+[28:00] know uh you know widespread adoption or
+[28:02] it hasn't seen as much success as
+[28:04] perhaps this act is going to have
+[28:06] >> thankfully I think the enforcement
+[28:08] muscle here is a little bit different
+[28:10] right um and I think it starts at the
+[28:13] very first instance when you have a
+[28:16] interaction with a social media app or
+[28:18] with any app that's collecting your data
+[28:20] or any organization
+[28:21] So the first thing that you have to
+[28:22] observe as an individual is in that
+[28:24] notice that is being provided to you,
+[28:26] they are required to give you mechanisms
+[28:29] by which you can complain to them or
+[28:32] they're required to give you mechanisms
+[28:34] by which you can enforce certain rights
+[28:36] against them.
+[28:36] >> Okay?
+[28:37] >> Right? So what I would do for instance
+[28:39] is if I were the individual I would look
+[28:41] for what are the mechanisms in which I
+[28:44] can raise and what the act calls them
+[28:46] grievances. what are the grievances that
+[28:47] I can raise in relation to a particular
+[28:49] app and who do I who do I raise it to
+[28:51] right so that's my first port of call
+[28:54] >> right
+[28:55] >> so if I suspect that an app is doing uh
+[28:58] essentially or misusing my data or is
+[28:59] not processing my data in the way that I
+[29:01] think it needs to
+[29:03] >> I can basically go to that particular
+[29:06] grievance mechanism and raise a
+[29:07] grievance complaint in relation to the
+[29:09] processing of my data and they're duty
+[29:11] bound to respond to you within a certain
+[29:13] time period
+[29:14] >> okay
+[29:14] >> right now If that response is
+[29:18] unsatisfactory then the matter gets
+[29:20] escalated to something called a data
+[29:22] protection board
+[29:23] >> right which is an enforcement body
+[29:25] that's being set up in India for the
+[29:27] first time to police the data protection
+[29:30] act and its compliance
+[29:32] >> okay so it's going to be a separate body
+[29:33] >> it's going to be a separate body correct
+[29:34] so the data protection board then has
+[29:36] the right to investigate
+[29:38] >> each organization for which it has
+[29:40] received a complaint
+[29:41] >> and the fines can go all the way up to
+[29:43] 250 crores okay
+[29:44] >> that they can influ that they can uh you
+[29:46] know impose. So it's ranges between 50
+[29:49] crores to 250 crores.
+[29:51] >> Now the one thankfully comfort that some
+[29:54] organizations can take is that the
+[29:55] government is not looking to wrap every
+[29:57] small kind of non-compliance on the
+[29:59] knuckle. It's kind of looking to
+[30:01] penalize significant contraventions of
+[30:04] the act. Right? Right. So I think the
+[30:06] government itself recognizes that
+[30:07] there's going to be some teething kind
+[30:09] of issues for the first couple of years.
+[30:10] And so significant non-controventions
+[30:12] are what are going to be penalized. But
+[30:16] if you do end up in a significant
+[30:17] non-controvention and the board catches
+[30:19] you doing it, the fines are between 50
+[30:21] to 250 crores.
+[30:22] >> Okay.
+[30:23] >> There's a small subset of organizations
+[30:25] called significant data fiduciaries,
+[30:27] >> right?
+[30:28] >> Who are subject to a higher burden of
+[30:30] duty, right? So they are required to do
+[30:32] data protection impact assessments,
+[30:35] audits. They're required to appoint a
+[30:36] local data protection officer and so on
+[30:40] who where the compliance or the or the
+[30:42] enforcement is more proactive in that
+[30:43] sense. Right? So
+[30:45] >> these are likely to be large social
+[30:47] media companies or anybody who has the
+[30:49] ability to kind of process large volumes
+[30:52] of data or their data processing
+[30:53] activities involve a large data
+[30:55] footprint or large impact. So
+[30:58] >> expect perhaps you know largest the
+[31:00] largest of the social media companies to
+[31:01] get covered.
+[31:02] >> Uh perhaps other kind of novel
+[31:05] processing of data where there's a high
+[31:07] impact on the data processing. Uh
+[31:09] genetic data perhaps would be one of
+[31:11] those other
+[31:12] >> things where you could expect some sort
+[31:13] of movement on this front.
+[31:15] >> So the government is thinking about it.
+[31:17] it is segmenting those kinds of small
+[31:19] pockets where this information is deemed
+[31:23] to be a little bit more uh critical and
+[31:26] therefore there is more proactive
+[31:27] compliance but by and large generally
+[31:29] it's a little bit more reactive
+[31:31] >> right you the citizen are in control
+[31:33] over when you want to essentially
+[31:35] initiate a complaint or figure out
+[31:37] whether you really want to go against a
+[31:38] particular
+[31:39] >> uh organization
+[31:40] >> right it's important it's interesting
+[31:42] about the significant data fiduciary
+[31:44] aspect I think
+[31:45] >> we all on day-to-day basis access these
+[31:48] apps and services that you know process
+[31:50] high volumes of data take AI only for
+[31:52] example I think the amount of personal
+[31:54] data which sh that we share with chat
+[31:56] bots is quite insane so but if I'm not
+[32:00] wrong the government has still not
+[32:03] exactly defined what these significant
+[32:04] data fiduciaries are and to what higher
+[32:09] extent will they need to safeguard the
+[32:11] data and all of those things so how do
+[32:14] you think this is going to pan out will
+[32:16] they mandated to localize the data in
+[32:18] India or what other where is the you
+[32:20] know ceiling for these significant data
+[32:22] fiduciaries in terms of maintaining the
+[32:24] privacy
+[32:25] >> so uh this actually has two aspects
+[32:27] right you know who they are and versus
+[32:29] what they do I think there's a little
+[32:30] bit of different clarity in terms of
+[32:32] both these questions
+[32:33] >> who they are I think currently we only
+[32:35] have subjective factors in terms of you
+[32:37] know what is the volume of data that
+[32:38] they process what is the impact of the
+[32:40] data processing and so on
+[32:42] >> I think there at least thankfully the
+[32:44] government has laid down the parameters
+[32:46] that it wants to wants to consider.
+[32:48] >> Okay.
+[32:48] >> Uh I think that can give people who are
+[32:51] a little bit familiar with the industry
+[32:52] a fair set of idea of who it's likely to
+[32:55] cover. You know big social media
+[32:56] definitely I would think. Right.
+[32:58] >> Right. Um kind of like like I mentioned
+[33:00] the kind of the more critical processing
+[33:02] of data genetic data etc. very likely to
+[33:05] get involved. Anybody that has impacts
+[33:08] on India India's electoral democracy
+[33:10] right okay
+[33:10] >> those kind of entities perhaps probably
+[33:12] covered
+[33:13] >> right. uh in terms of what they're
+[33:16] required to do uh I think there's a
+[33:17] little bit more clarity there because
+[33:19] like I was saying they are required to
+[33:21] do data protection impact assessments
+[33:22] they're required to appoint data
+[33:24] protection officer and so on. On the
+[33:26] localization question, I think um there
+[33:29] is basically the government is not clear
+[33:31] about what pieces of data these guys are
+[33:33] supposed to localize, but there's an
+[33:35] intent to say that look there is some
+[33:37] pieces of data that they have to
+[33:38] localize.
+[33:39] >> So I think that thinking is still
+[33:40] evolving in terms of figuring out you
+[33:42] know which pieces of information even by
+[33:44] big tech
+[33:45] >> is required to be localized
+[33:48] >> uh or at least subject to additional
+[33:50] protections if if nothing else. So yeah,
+[33:53] I think on that front we don't really
+[33:55] have as much kind of clarity yet as we
+[33:58] would have required but there is
+[34:00] significantly more than you know who is
+[34:01] going to be covered and so on. So yeah,
+[34:04] I mean expect I think some of their
+[34:06] operations and their posture towards
+[34:08] data to change a little bit to actually
+[34:10] kind of take the u you know Indian
+[34:13] market with some uh deliberate kind of
+[34:17] of a compliance with respect to some of
+[34:19] these some of these measures because I
+[34:21] think other than unlike in the older
+[34:23] regime when you know we didn't have
+[34:24] anything specifically for them
+[34:26] >> uh I think we have now a set of laws
+[34:29] that has the ability to you know treat
+[34:31] these guys slightly differently.
+[34:33] and ensure that there's compos
+[34:36] my next question is of course we live in
+[34:38] a free world anybody in any country can
+[34:41] develop an app and uh you know I can sit
+[34:43] in India and use the app so how do my
+[34:47] rights apply in that situation where
+[34:49] that application has nothing to do with
+[34:52] India or the government except for the
+[34:54] fact that it provides services to me
+[34:56] >> and that country has let's say my data
+[34:59] is stored in that particular country and
+[35:00] their data privacy rights are a little
+[35:02] loose or in the worst case non-existent.
+[35:05] Will the app developer whether it's an
+[35:07] individual or an organization is liable
+[35:09] to the DPDP act that's in India even
+[35:11] though he has no presence in India
+[35:13] except for the fact that there's like
+[35:15] two three users you know using the app.
+[35:17] How does that situation?
+[35:18] >> Short answer yes
+[35:19] >> complicated answer is not really.
+[35:22] >> Okay. if you could pick any example and
+[35:25] >> so uh let's say there's an app that's
+[35:27] sitting out of China that's you know
+[35:28] digital lending in India right a classic
+[35:30] example of the one that everybody's kind
+[35:32] of afraid of I think
+[35:34] >> uh if you are providing any goods or
+[35:36] services to a citizen or to a person
+[35:38] resident in India
+[35:40] >> using a digital platform and you're
+[35:41] processing their personal data the act
+[35:43] applies right there's it's very
+[35:45] categoric about the fact that it applies
+[35:47] to you
+[35:48] >> okay
+[35:48] >> right so all the responsibilities
+[35:51] obligations etc that we discussed
+[35:53] Theoretically all these other companies
+[35:55] are required to comply with them right
+[35:58] >> but the secondary question is how do you
+[36:00] really police some of these things right
+[36:02] so if there is an organization that does
+[36:05] not have a presence in India
+[36:08] >> it's you know for various reasons and
+[36:10] not just under the data protection
+[36:11] legislation but even under conventional
+[36:13] kind of other laws it's quite difficult
+[36:15] to police some of these entities because
+[36:17] unless they are physically located in
+[36:19] India there's very little that you can
+[36:22] do by way of coercive action
+[36:24] >> on these kinds of entities. Right? So
+[36:28] >> what I would say is in all of these
+[36:30] circumstances, you as an individual take
+[36:32] an organized call, right? Or take an
+[36:34] informed call rather in terms of who
+[36:36] you're providing your information to,
+[36:37] right?
+[36:38] >> Is this a brand you trust or is this an
+[36:40] entity that you trust? Because the
+[36:43] moment somebody sitting overseas while
+[36:45] theoretically all of these protections
+[36:46] do apply and you know if they're a
+[36:48] compliant organization they will comply
+[36:50] with all of these they will like you
+[36:52] know agree to India's um India's laws
+[36:56] they will comply with India's laws but
+[36:58] there's no real tangible way unless you
+[37:01] take some certain extreme measures for
+[37:03] the government to really coers them into
+[37:06] doing any of these measures. Now we've
+[37:08] seen these extreme measures being taken
+[37:09] for entities that otherwise operate a
+[37:11] business presence in India like you know
+[37:13] for instance if I have an R&D unit in
+[37:15] India there there are coercive measures
+[37:17] that the government can do even if my
+[37:18] actual platform is not offered by that
+[37:21] entity but if I'm entirely sitting
+[37:23] outside the country I have no presence
+[37:25] in India no assets in India etc it's
+[37:28] very difficult in that sense for any
+[37:30] tangible enforcement action to be taken
+[37:32] against these companies so
+[37:34] >> I would suggest that you know the same
+[37:36] methods of caution that you already
+[37:38] exist in or already exercise in relation
+[37:40] to some of these organizations continue
+[37:42] to do it. I would say right because I
+[37:46] think this law in that sense is only
+[37:49] marginally beneficial for you in
+[37:51] relation to some of these entities. Now
+[37:53] of course the one advantage that the law
+[37:55] has is if there are specific classes of
+[37:58] entities who do significant activities
+[38:00] they may end up being classified as
+[38:01] significant data fiduciaries and as a
+[38:03] result of that you know localization
+[38:05] restrictions may apply to them. The
+[38:08] other key bucket is the government has
+[38:10] the ability to notify a blacklist of
+[38:13] countries for which data may not be
+[38:15] transferred to or there are some
+[38:17] significant restrictions to the transfer
+[38:18] of data to that to those countries.
+[38:21] I there's a 50/50 chance that China may
+[38:24] be on that list, right? Um given, you
+[38:27] know, the geopolitical climate at the
+[38:28] given point in time when the list comes
+[38:30] out, I think at that point we'll know.
+[38:32] >> But, you know, the more I think
+[38:34] egregious kind of countries where where
+[38:37] you know a lot of international business
+[38:38] isn't done definitely expect those
+[38:41] countries to be on those list on that
+[38:43] list. So, I think these are the only two
+[38:45] other levers that the government has in
+[38:47] terms of trying to protect you from
+[38:48] that. But short of this I think the
+[38:51] marginal kind of protection that this
+[38:53] act really offers for that
+[38:55] >> I would say is is kind of minimal at
+[38:59] best I would say.
+[39:00] >> Right
+[39:00] >> now my next series of questions is about
+[39:03] a few examples as they all say we learn
+[39:05] best through examples.
+[39:06] >> Sure.
+[39:06] >> I'll give you a few real world scenarios
+[39:08] so the users so the viewers can also
+[39:10] understand what is exactly at stakes.
+[39:12] >> So now let's say I post a picture of
+[39:14] mine on a social media app. there's
+[39:16] another individual account on the same
+[39:18] platform that takes my picture, does a
+[39:21] deep fake of it and puts it out.
+[39:23] >> Yeah.
+[39:23] >> Now, how does the protection act or the
+[39:26] privacy laws apply in this scenario?
+[39:29] What rights do I have as as a user
+[39:32] currently residing in India?
+[39:34] >> This is a complicated one, Suprit. uh
+[39:36] only because I think you know Indian law
+[39:38] exempts any information that you have
+[39:41] voluntarily put out into the public
+[39:42] domain
+[39:43] >> from the applicability of the of the act
+[39:45] itself. So if I have a public profile
+[39:48] where I've put on put up a photograph
+[39:50] >> I think unfortunately under the data
+[39:52] protection act at least right uh this
+[39:55] processing of that particular piece of
+[39:57] information is not really covered and
+[39:59] there aren't fet you know boundaries
+[40:01] around what can I really do with that
+[40:04] information is it originally linked to
+[40:06] the original purpose by which I put it
+[40:07] and so on
+[40:09] >> deep fakes I think are an issue that is
+[40:11] being dealt with on on the IT act side
+[40:14] right so we have something called as the
+[40:16] intermediaries regulation in India or
+[40:18] the intermediaries guidelines and the
+[40:21] government has recently put up uh you
+[40:22] know a draft set of amendments where
+[40:24] they've required all synthetically
+[40:25] generated content to be labeled as such.
+[40:27] >> Yes.
+[40:28] >> Now I may have a difference of opinion
+[40:30] with the government on whether it
+[40:31] actually is going to work or whether
+[40:32] it's meaningful in any form.
+[40:34] >> Right. But uh I think locating these
+[40:38] kinds of harms or trying to solve these
+[40:40] kind of harms through privacy law may
+[40:42] not be the right kind of way to think
+[40:44] about it. At least in terms of us as an
+[40:47] individual. Definitely if there's a deep
+[40:49] fake which causes you harm, there are
+[40:51] other methods by which you can solve it.
+[40:53] So for instance, if it is causing you uh
+[40:56] if it's defam if it's defamatory to you,
+[40:58] you can always approach
+[40:59] >> the police station. In fact, because
+[41:01] defamation is a criminal offense under
+[41:03] Indian law. If it is sexually explicit
+[41:05] material again you know subject to of
+[41:07] course all the sensitivities that we
+[41:09] have in India there are law enforcement
+[41:11] mechanisms there are courts that
+[41:12] actually engage with this u kind of a
+[41:15] kind of a mechanism so the average
+[41:16] individual in that sense has some of
+[41:19] these other additional protections but
+[41:21] unfortunately I think the data
+[41:22] protection act doesn't you know delve
+[41:24] with this particular kind of a example
+[41:27] because publicly available information
+[41:28] is exempt uh under under the act
+[41:31] >> right the next scenario is let's say on
+[41:33] cloud storage service.
+[41:34] >> Yeah,
+[41:35] >> it's gone by a big tech company or
+[41:37] whatever. So now let's say someone
+[41:39] transmits a malicious file where someone
+[41:42] unknowingly downloads it and it extracts
+[41:44] their personal data whatever in a very
+[41:47] malicious uh intent and a way. Now who
+[41:50] is going to be held liable and
+[41:52] responsible for this? this is the
+[41:53] company that that failed to do its
+[41:56] responsibility in terms of verifying
+[41:58] each and every file that was uploaded
+[42:00] onto its cloud storage service or is it
+[42:01] going to be the individual who put out
+[42:03] the malicious file. So uh again this is
+[42:07] another one where I think the data
+[42:08] protection act doesn't give you much
+[42:10] kind of protection because what you're
+[42:12] really describing is essentially kind of
+[42:15] unauthorized access to my to my data.
+[42:18] >> It's actually already an offense under
+[42:19] Indian law. So so we have an Indian IT
+[42:22] act that actually already protects you
+[42:24] against something like this.
+[42:25] >> In fact it's a criminal offense that
+[42:27] carries about 3 years of imprisonment if
+[42:29] I'm not mistaken. So it is unfortunate
+[42:32] that our police system is still kind of
+[42:35] catching up to some of these offenses
+[42:37] but there are actually very and in fact
+[42:38] the Bangalore cybercell police
+[42:40] thankfully is very well attuned to this.
+[42:42] Bangalore, Hyderabad etc. they're very
+[42:44] well attuned to this. They are I think
+[42:45] the the criminal remedies are actually I
+[42:48] think a little bit more easily
+[42:49] accessible on some of these things. uh
+[42:52] on the question of you know the data
+[42:53] breach itself and who is responsible
+[42:56] um you know this especially if there's
+[42:58] one malicious individual who has
+[43:00] transmitted a like a malicious file
+[43:02] through the internet unfortunately I
+[43:04] don't think the law deems the
+[43:06] organizations either of the
+[43:07] organizations either the cloud service
+[43:08] provider or the or individual's
+[43:10] organization itself to be responsible it
+[43:13] is likely going to be treated as
+[43:15] essentially the an individual's act of
+[43:17] non-compliance
+[43:18] >> so in that kind of particular example I
+[43:21] think that data protection law really
+[43:23] doesn't give you that much of a benefit.
+[43:25] But having said that and just you know
+[43:27] generally speaking about organizations
+[43:29] responsibility to prevent malicious uh
+[43:32] content on their services and sites, the
+[43:35] Indian data protection act actually lays
+[43:36] down about seven or eight principles in
+[43:38] terms of what security measures an
+[43:40] organization must put in place for any
+[43:42] data that is processed by them. This
+[43:44] includes things like, you know,
+[43:45] maintaining access logs, ensuring that
+[43:47] you're able to detect breaches on a
+[43:49] real-time basis, that you're able to
+[43:51] continue to track the harms that data
+[43:53] breaches caused, ensuring that, you
+[43:55] know, all industry best practices are
+[43:57] followed in relation to your to your
+[43:59] security practices, etc. So there's
+[44:01] already a more proactive posture
+[44:03] >> that the government is expecting you to
+[44:05] exercise, right? So I think how the
+[44:08] government is viewing that is at least
+[44:09] it's looking at it more as doing these
+[44:12] proactive things may ensure you you it's
+[44:14] prevented that you get download from
+[44:16] these malicious files and so on. So as a
+[44:18] result of which I think they're hoping
+[44:20] that those proactive measures will
+[44:21] prevent you from ultimately being in a
+[44:23] place where
+[44:23] >> you know this this kind of stuff is
+[44:25] prevented but otherwise there are
+[44:26] general remedies that are available
+[44:28] under other Indian laws in relation to
+[44:30] some of this stuff. Right. And my next
+[44:32] scenario would be like let's say a
+[44:33] there's a government scheme
+[44:34] >> for for uh let's say someone who's under
+[44:37] the below poverty line uh uh you know
+[44:39] segment. Now that scheme hypothetically
+[44:42] it mandates you have your BPL card and
+[44:45] if you want to avail the scheme I'd also
+[44:47] want you to give your Aadhaar for it.
+[44:49] Now does the citizen can the citizen
+[44:52] pose the question to the government look
+[44:54] you have my BPL card which clarifies
+[44:58] that I am you know fit to get this
+[45:00] service but why else would you want my
+[45:01] Aadhaar so how would how would this come
+[45:04] into the picture in that sort of a
+[45:06] scenario
+[45:07] >> I would say yes but not under this act
+[45:09] uh because this act gives the government
+[45:11] the ability to process data for
+[45:13] government subsidies and schemes
+[45:15] >> without having to get consent from the
+[45:17] specific individual.
+[45:18] >> Got it. Got it. Uh but there is an
+[45:19] actual meth I mean this is exactly the
+[45:21] same question that somebody asked in
+[45:22] relation to Aadhaar right which is why
+[45:24] must I provide my personal information
+[45:26] to the government. Yeah, exactly.
+[45:28] Because you know back then you had your
+[45:29] you had a ration card, you had a you had
+[45:31] a if you if you BPL you had a BPL exact
+[45:33] documentation, you had your passport,
+[45:36] your driver's licenses, you had voters I
+[45:38] ids, you had a plethora of other
+[45:39] identities that you had, right?
+[45:41] >> So the natural question is why one more
+[45:43] right or why must I be compelled to
+[45:45] provide biometrics for one more, right?
+[45:47] Exactly. And that's exactly the question
+[45:48] that was asked to the to the government
+[45:50] in relation to each of these pieces of
+[45:52] information. So every citizen has the
+[45:55] right by way of a constitutional court
+[45:57] case to ask the government.
+[45:58] >> Ask
+[45:59] >> Yeah. Which is how why are you
+[46:01] processing this additional piece of
+[46:02] information.
+[46:03] >> Uh and the government is actually
+[46:04] required to demonstrate that it is the
+[46:06] least intrusive method of achieving a
+[46:08] particular outcome.
+[46:09] >> Right.
+[46:09] >> Right. So like for instance in your
+[46:11] example of you know let's say I wanted
+[46:13] to distribute benefits to you know
+[46:15] certain classes of people and they
+[46:17] already had an identifier that existed.
+[46:19] Exactly. The government is required to
+[46:21] show you in that court case why another
+[46:23] identification is required when the
+[46:25] existing one could have very well served
+[46:27] the purpose. Right? So it has
+[46:29] >> the need to show you why something is or
+[46:32] some additional measure is the least
+[46:33] intrusive method to achieve something.
+[46:36] >> So I mean these these protections exist,
+[46:38] right? I think as a citizenry we've
+[46:41] engaged with it in some time in the past
+[46:43] but I think unfortunately not enough
+[46:44] perhaps. So I think that's definitely
+[46:47] something that I'm hoping we'll pick up
+[46:49] over the next couple of years. You know,
+[46:51] as a citizenry, we're getting aware of
+[46:53] the rights that we have in relation to
+[46:54] our data. We're treating our data as a
+[46:56] real extension of ourselves and our
+[46:58] human bodies, right? And that requires
+[47:01] us to be, I think, holding the state and
+[47:04] other companies responsible for, you
+[47:06] know, all the choices that they're
+[47:07] making. And there's enough avenues, I
+[47:09] think, to do that. So I think that's
+[47:10] definitely something that I'm hopeful
+[47:12] this act and these kind of you know
+[47:14] legislations and cases will allow our
+[47:16] citizens to do.
+[47:17] >> So Thomas, my last question would be
+[47:20] about uh you know along the same lines
+[47:21] of the previous discussion about the RTI
+[47:24] act. uh you know obviously there's a lot
+[47:26] of information that one a citizen in
+[47:28] India would want to ask the government
+[47:30] but what if the information is deemed as
+[47:33] private or personal information so that
+[47:35] that makes you know the government
+[47:36] easier to withhold that information you
+[47:38] know under the DPDP act so how do these
+[47:41] two regulations overlap and how do you
+[47:43] address the confusion that many citizens
+[47:45] are having
+[47:46] >> yeah so on this front I think this is
+[47:48] one of those places where I think the
+[47:50] government has uh assumed a little bit
+[47:52] more power onto itself by using this
+[47:54] law. Earlier, the RT act already allowed
+[47:57] for an exemption for personal
+[47:58] information, but what it allowed each
+[48:01] individual government office to do or
+[48:03] each individual entity that's subject to
+[48:05] the RTI to do was to take a call in
+[48:07] terms of whether a public interest is
+[48:09] served and so on in disclosing that
+[48:11] information despite it being personal
+[48:13] information.
+[48:14] This act has basically introduced an
+[48:16] amendment or has amended the RTA act to
+[48:18] the effect of saying that any personal
+[48:21] information is now straight up maybe
+[48:23] rejected by the the specific office. So
+[48:26] as a result of which what we've now
+[48:27] ended up with is a situation where the
+[48:30] RTI mechanism is potentially a little
+[48:32] bit more weaker because it gives the
+[48:34] government the ability to say no in more
+[48:36] instances than it would have been able
+[48:37] to in the previous uh iteration of the
+[48:40] RTI act. So I think as a result of which
+[48:43] I think there expect a few more RTI you
+[48:46] can expect a few more rejections to your
+[48:47] RTI requests especially where you know
+[48:50] there are personal uh details involved
+[48:53] bribery and those kinds of cases etc
+[48:55] where you know if people investigating
+[48:57] those kinds of cases may see a lot more
+[48:59] drop off of uh of RTI requests in
+[49:02] relation to requests that they make but
+[49:04] yeah I mean as a result of which this
+[49:06] act has now therefore weakened the RTI
+[49:09] mechanism a little bit
+[49:10] >> right So Thomas, thank you so much for
+[49:12] the uh detailed conversation and thank
+[49:14] you for taking the time out on a busy uh
+[49:16] weekday for explaining our audience what
+[49:19] the EDP act means. Thank you Suprit and
+[49:21] uh hopefully you guys also learned uh
+[49:24] something today and I'm hoping that you
+[49:26] know as a result of this act we're able
+[49:27] to come to a place where we're actively
+[49:30] engaging with our digital rights because
+[49:32] to my mind this is just the first step
+[49:34] towards being essentially or setting up
+[49:36] the right infrastructure to be for us to
+[49:39] be a responsible digital economy and I
+[49:41] think you know there's miles to go there
+[49:43] and I think this is a very first step
+[49:44] and it's a great first step and I'm
+[49:46] hoping that you know all of us really
+[49:47] engage with our with our digital rights
+[49:49] as we go forward and thank you so much
+[49:51] for having me. It was a great
+[49:53] conversation. Thank you so much
+[49:54] >> and thank you to all of you for
+[49:56] listening to the conversation. As Thomas
+[49:58] mentioned, I hope we take multiple steps
+[50:00] towards this direction. So stay tuned
+[50:02] for more such conversations like these.
+[50:04] Like, share and subscribe to A IM
+[50:05] Network and always remember to think AI
+[50:08] and think AIN.

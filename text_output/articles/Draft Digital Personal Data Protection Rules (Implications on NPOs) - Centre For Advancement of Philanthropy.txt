@@ -1,0 +1,330 @@
+Draft Digital Personal Data Protection Rules (Implications on NPOs) - ...
+
+1 of 9
+
+https://capindia.in/draft-digital-personal-data-protection-rules-implicati...
+
+Centre For Advancement of Philanthropy (https://capindia.in)  Legal news (https://
+capindia.in/category/legal-news/)  Draft Digital Personal Data Protection Rules
+(Implications on NPOs)
+
+Draft Digital Personal Data Protection Rules (Implications on NPOs)
+ May 2, 2025
+
+ admin (https://capindia.in/author/admin/)
+
+ Legal news (https://capindia.in/category/legal-news/)
+
+The Digital Personal Data Protection Act (DPDPA) was passed by the Indian Parliament in
+August 2023, but is not yet fully operational. While the Act itself is in place, detailed
+implementing Rules and the establishment of the Data Protection Board of India are still
+pending. The DPDPA aims to provide a comprehensive legal framework for protecting digital
+personal data in India.
+
+Draft Rules released
+The Ministry of Electronics and Information Technology has released draft rules for the DPDP Act
+
+in January 2025. The government has solicited feedback on the draft rules from various
+
+01/04/26, 6:01 pm
+
+Draft Digital Personal Data Protection Rules (Implications on NPOs) - ...
+
+2 of 9
+
+https://capindia.in/draft-digital-personal-data-protection-rules-implicati...
+
+stakeholders, including businesses, NPOs, and the public. The government is expected to release
+the final rules after considering public feedback and establish the Data Protection Board.
+Once the Act is fully operational, companies (including NPOs) and individuals will be bound by its
+provisions, which include data processing consent, data security measures, and data subject
+rights.
+DPDP Rules
+The Digital Personal Data Protection (DPDP) Rules, 2023 (DPDP Rules), have been introduced by
+the Ministry of Electronics and Information Technology (MeitY), Government of India, in early
+January 2025. This was following the enactment of the Digital Personal Data Protection Act, 2023
+(DPDP Act), on August 11, 2023.
+The DPDP Rules shall come into effect in a phased manner. The exact dates for the
+implementation of different provisions will be notified by the government, which has assured
+allowing organizations “enough time to adapt their processes to comply with the law.”
+The DPDP Act read with DPDP Rules is set to provide a comprehensive framework for digital
+personal data protection, emphasizing the principles of compliance with the law, transparency,
+and accountability. For NPOs, these rules present both opportunities and challenges. By
+proactively adopting best practices and ensuring compliance, NPOs can reinforce their credibility
+and trustworthiness in the eyes of beneficiaries, donors, and all stakeholders.
+Overview of the DPDP Act
+The DPDP Act introduce two essential roles in the realm of data governance:
+1. Data Fiduciaries: These are entities, including organizations, businesses, or individuals, that
+collect, process, or store personal data. An NPO that collects personal data in digital modes
+can be a Data Fiduciary under the DPDP Act. A Data Fiduciary (including an NPO) is
+responsible for ensuring that personal data is handled in compliance with the law. Their
+obligations include obtaining explicit consent for collecting and processing personal data,
+implementing data security measures, and respecting the rights of individuals whose data
+they process.
+2. Data Principals: This term refers to the individuals whose personal data is collected or
+processed. A beneficiary of an NPO’s programs whose personal data is collected for
+monitoring, evaluation or program delivery is a Data Principal under the DPDP Act.
+
+
+
+Rights of the Data Principal under DPDP
+
+01/04/26, 6:01 pm
+
+Draft Digital Personal Data Protection Rules (Implications on NPOs) - ...
+
+3 of 9
+
+https://capindia.in/draft-digital-personal-data-protection-rules-implicati...
+
+A Data Principal has specific rights under the DPDP Act read with Rules, such as the right to
+access, correct, or erase their data. They are at the centre of the regulatory framework,
+emphasizing the importance of individual privacy and control over personal information.
+Implications for NPOs
+
+
+
+NPOs shall be classified as Data Fiduciaries since NPOs often collect and process
+
+personal data from beneficiaries, donors, and stakeholders, making compliance essential
+under the DPDP Rules.
+
+
+
+The DPDP Act continues to hold the Data Fiduciary responsible even for data breaches
+
+or non-compliance by Data Processors, and mandates that contracts between Data
+Fiduciaries and Data Processes must reflect this responsibility.
+Compliances under the DPDP Rules applicable to NPOs:
+1. NPOs must obtain explicit and informed consent from individuals (Data Principals) before
+collecting or processing their personal data. This consent must clearly outline the purpose
+of data collection, the retention period, and whether the data will be shared with third
+parties, such as partner organizations, donors or service providers.
+2. Implement reasonable security measures, including encryption, controlled access, and
+regular system monitoring. If NPOs rely on third-party service providers (Data Processors)
+for data handling, they must ensure these entities also comply with the same security
+standards, and ensure that they implement appropriate checks of these compliances.
+3. NPOs shall be required to provide detailed information to Data Principals about their data
+processing practices. This includes specifying the purpose of data collection, the rights of
+individuals under the DPDP Act, and providing contact details for someone responsible for
+addressing queries related to data processing.
+4. The DPDP Rules also emphasize data minimization and retention limitation, requiring NPOs
+to collect only the personal data necessary for their stated purposes. Data must be retained
+only for as long as it is required by law or operational necessity. Once the purpose has been
+fulfilled, NPOs are expected to delete the data, ensuring that unnecessary retention does not
+compromise individual privacy.
+5. In cases where NPOs process personal data without explicit consent, as permitted by certain
+exceptions under the DPDP Act (such as compliance with legal obligations), it must notify
+the Data Principals about the processing activity. The notification should include
+information about the processing and provide a communication channel, such as a website
+or contact point, where individuals can exercise their rights under the DPDP Act.
+6. NPOs shall appoint a Data Protection Officer (DPO) to ensure compliance with the DPDP
+
+
+Rules. The DPO shall play a critical role in overseeing data protection strategies, monitoring
+
+01/04/26, 6:01 pm
+
+Draft Digital Personal Data Protection Rules (Implications on NPOs) - ...
+
+4 of 9
+
+https://capindia.in/draft-digital-personal-data-protection-rules-implicati...
+
+compliance, and acting as the point of contact for grievances related to personal data
+processing. For NPOs, the DPO ensures that data collection, storage, and usage align with the
+principles of legal compliance, transparency, and accountability. The DPO is also responsible
+for conducting regular audits, training staff, and coordinating with the relevant authorities
+to address potential breaches or violations.
+Processing data of Child and Person with Disability
+The Draft DPDPR requires the Data Fiduciary to obtain verifiable consent from a parent or lawful
+guardian before processing the personal data of a minor or a person with a disability. The
+fiduciary must also ensure due diligence to verify that the individual claiming to be the parent or
+guardian is an adult and, if necessary, can be identified through reliable age and identity details.
+For lawful guardians, verification must include confirmation that the guardian was appointed by a
+court or relevant authority.
+Exemptions from obtaining verifiable consent & tracking of children
+The Draft DPDPR exempt certain Data Fiduciaries from the requirement of obtaining verifiable
+consent and from tracking children and monitoring their behaviour in certain cases. The Data
+Fiduciaries so exempted inter alia include:
+1. Clinical establishments, mental health establishments or healthcare professionals when
+providing health services to the extent necessary for protection of health.
+2. Allied healthcare professionals when processing of data is to support implementation of any
+healthcare treatment to the extent necessary for protection of health.
+3. Educational institutions when processing is for behaviour monitoring and tracking for the
+educational institute’s activities or in the interest of safety of children enrolled with the
+institution.
+Exemptions of applicability for research, archiving or statistical purposes
+When processing for research, archiving or statistical purposes is carried out then the provisions
+of the DPDPA are not attracted provided that such processing must inter alia be carried out in a
+lawful manner, be limited to such personal data as is necessary for such uses, processing in such
+cases is done while making reasonable efforts to ensure accuracy of personal data maintaining
+reasonable security safeguards to prevent personal data breach, etc.
+NPOs should undertake the following to ensure compliance under the DPDP Rules:
+1. Conduct a Data Audit: NGOs should map their data collection, storage, and processing
+
+
+
+01/04/26, 6:01 pm
+
+Draft Digital Personal Data Protection Rules (Implications on NPOs) - ...
+
+5 of 9
+
+https://capindia.in/draft-digital-personal-data-protection-rules-implicati...
+
+practices to identify gaps and ensure alignment with the DPDP Act and Rules.
+2. Update Policies and Procedures: Privacy policies, consent forms, and internal guidelines
+should be revised to reflect the transparency and accountability requirements under the
+DPDP Act and Rules.
+3. Build capacity of Stakeholders: Educate the staff, volunteers, and other stakeholders on data
+protection principles in order to foster a culture of compliance.
+4. Leverage Technology: Invest in technology solutions in order to simplify and streamline
+compliance tasks, including maximising privacy of data to monitoring data access.
+5. Appoint Data Protection Officer (DPO): To oversee data protection strategies and ensure
+compliance.
+6. Establish communication channel: For individuals to exercise their rights under the
+DPDPA.
+Tags:
+
+ PREVIOUS (HTTPS://CAPINDIA.IN/PROPOSED-NEW-INCOME-TAX-BILL-2025-IMPACTON-NPOS/)
+
+NEXT
+
+
+
+Leave a Reply
+Comment *
+
+Name *
+
+
+Email *
+
+01/04/26, 6:01 pm
+
+Draft Digital Personal Data Protection Rules (Implications on NPOs) - ...
+
+6 of 9
+
+https://capindia.in/draft-digital-personal-data-protection-rules-implicati...
+
+Website
+
+POST COMMENT
+
+Search
+
+
+
+Newsletter Signup
+Get latest updates, news and surveys
+Name
+
+Email*
+
+Subscribe
+
+Categories
+Book Review (https://capindia.in/category/book-review/) (4)
+CAP INDIA (https://capindia.in/category/cap-india/) (239)
+CAP Team (https://capindia.in/category/cap-team/) (5)
+
+
+
+01/04/26, 6:01 pm
+
+Draft Digital Personal Data Protection Rules (Implications on NPOs) - ...
+
+7 of 9
+
+https://capindia.in/draft-digital-personal-data-protection-rules-implicati...
+
+Charity Commissioner (https://capindia.in/category/charity-commissioner/) (12)
+CSR News (https://capindia.in/category/csr-news/) (54)
+Debate (https://capindia.in/category/debate/) (7)
+Editorials (https://capindia.in/category/editorials/) (1)
+FCRA (https://capindia.in/category/fcra/) (32)
+Governance (https://capindia.in/category/governance/) (3)
+GST (https://capindia.in/category/gst/) (7)
+HR / Labour Laws (https://capindia.in/category/hr-labour-laws/) (5)
+Income tax (https://capindia.in/category/income-tax/) (50)
+Interaction (https://capindia.in/category/interaction/) (13)
+Investment (https://capindia.in/category/investment/) (2)
+Legal news (https://capindia.in/category/legal-news/) (176)
+Lokpal (https://capindia.in/category/lokpal/) (2)
+Maharashtra Public Trusts Act 1950 (https://capindia.in/category/maharashtra-public-trustsact-1950/) (1)
+MCA (https://capindia.in/category/mca/) (1)
+News (https://capindia.in/category/news/) (32)
+PMLA (https://capindia.in/category/pmla/) (1)
+POSH (https://capindia.in/category/posh/) (2)
+
+
+
+01/04/26, 6:01 pm
+
+Draft Digital Personal Data Protection Rules (Implications on NPOs) - ...
+
+8 of 9
+
+https://capindia.in/draft-digital-personal-data-protection-rules-implicati...
+
+Profession tax (https://capindia.in/category/profession-tax/) (1)
+Profiles & Bios (https://capindia.in/category/profiles-bios/) (15)
+Research (https://capindia.in/category/research/) (3)
+ROC (https://capindia.in/category/roc/) (1)
+Social Stock Exchange (https://capindia.in/category/social-stock-exchange/) (2)
+Technology (https://capindia.in/category/technology/) (1)
+Theme & Fun (https://capindia.in/category/theme-fun/) (4)
+Workshops (https://capindia.in/category/workshops/) (2)
+
+Archives
+Select Month
+
+ADDRESS
+4th Floor, Mulla House,
+51 M.G. Road, Flora Fountain,
+Mumbai – 400 001.
+(022) – 46077717
+
+Maps
+
+Map data ©2026 Report a map error
+
+
+
+01/04/26, 6:01 pm
+
+Draft Digital Personal Data Protection Rules (Implications on NPOs) - ...
+
+9 of 9
+
+https://capindia.in/draft-digital-personal-data-protection-rules-implicati...
+
+LATEST BLOGS
+Implications of FCRA Amendment Bill 2026 (https://capindia.in/implications-of-fcra-amendmentbill-2026/)
+Impact of Finance Bill 2026 on NPOs (https://capindia.in/impact-of-finance-bill-2026-on-npos/)
+More companies likely to come under the mandatory CSR net (https://capindia.in/morecompanies-likely-to-come-under-the-mandatory-csr-net/)
+Maharashtra Ordinance introduces concept of ‘tenure trustee’ and ‘perpetual trustee’ (https://
+capindia.in/maharashtra-ordinance-introduces-concept-of-tenure-trustee-and-perpetualtrustee/)
+Does your trust deed cover the clause that the trust is irrevocable? (https://capindia.in/does-yourtrust-deed-cover-the-clause-that-the-trust-is-irrevocable/)
+
+QUARTERLY NEWSMAGAZINE
+
+(https://capindia.in/wp-content/uploads/2019/01/CAP-Newsmag-Q3-
+
+Oct-Dec-2018.pdf)
+FY 2018 – 19 – Q 3 (https://capindia.in/wp-content/uploads/2019/01/CAP-NewsmagQ3-Oct-Dec-2018.pdf)
+
+PAYMENT GATEWAY
+
+
+We've made giving simple and secure! Use any major credit card and pay via danamojo
+© 2018 Centre for Advancement of Philanthropy
+
+
+Developed by Fuelfortech Private Limited (https://www.fuelfortech.com/)
+
+01/04/26, 6:01 pm
+
+

@@ -1,0 +1,179 @@
+# Decoding the DPDP Act for Nonprofits | Part 1
+
+![](images/Decoding the DPDP Act for Nonprofits _ Part 1 _ Platform Commons/_page_0_Picture_3.jpeg)
+
+#### [November 18, 2023](https://platformcommons.org/dpdp-for-nonprofits/)
+
+In the rapidly evolving landscape of digital data protection, our collective responsibility to safeguard the integrity of our stakeholders and our organizations has never been more crucial. As we navigate through the nuances of **[the Digital Personal Data Protections \(DPDP\)](https://www.meity.gov.in/writereaddata/files/Digital%20Personal%20Data%20Protection%20Act%202023.pdf) [Act of 2023](https://www.meity.gov.in/writereaddata/files/Digital%20Personal%20Data%20Protection%20Act%202023.pdf)**, this blog series is crafted to offer a thorough insight into its pivotal aspects, specifically tailored for professionals in the nonprofit industry.
+
+- 1. Part 1: DPDP Act, Key Terms, Consent & Some examples
+- 2. [Part 2: Introduction to Consent Manager, Challenges with using](https://platformcommons.org/dpdp-for-nonprofits-2/) [Forms & Survey Tools](https://platformcommons.org/dpdp-for-nonprofits-2/)
+- 3. [Part 3: Complying to DPDP Act as a Nonprofit](https://platformcommons.org/dpdp-for-nonprofits-3/)
+- 4. [Past 4: Concerns and Red Flags by Data Activists, Nonprofits](https://platformcommons.org/dpdp-for-nonprofits-4/)
+
+Here is a video that is a good positive introduction to the series.
+
+Got any questions? I'm happy to help.
+
+Business Today
+
+![](images/Decoding the DPDP Act for Nonprofits _ Part 1 _ Platform Commons/_page_1_Picture_3.jpeg)
+
+Watch on
+
+#### **Disclaimer**
+
+Do consult your lawyer for your data matters.
+
+I do not carry the legal expertise traditionally associated with matters like the Digital Personal Data Protections (DPDP) Act, I've had the privilege of spending a decade at the intersection of nonprofits, technology, and data. In my previous assignment of learning about software licenses, their pros and cons, and co-authoring the **[Platform](https://platformcommons.org/platform-commons-license/) [Commons License](https://platformcommons.org/platform-commons-license/)**[,](https://platformcommons.org/platform-commons-license/) a.k.a. Equitable Access Licence[,](https://platformcommons.org/platform-commons-license/) I had the honor of debating with legal professionals, software experts and data activists, and explored the depth of the matter. Decoding DPDP is an adventurous journey for me.
+
+During these conversations, we delved into the nuances of data protection, asking questions that often led to collaborative discoveries. In the absence of clear legal answers, we navigated the terrain with an adventurous spirit, seeking ethical paths forward. In this article, I share some insights with humility and the hope that they may offer valuable perspectives to leaders navigating the challenges of data protection.
+
+## **Simplifying the Important Terms**
+
+As I was reading the act, I found a few jargons that we should decode for an average reader.
+
+- **Data Principal:** The individual or entity to whom that the personal data relates to.
+- **Data Fiduciary:** The person/s, or entity/ies, who determines the purpose for which the data should be used, and the means of processing the data. In some countries, Data Fiduciaries are also called as Data Controllers.
+- **Significant Data Fiduciary:** These are people or entities responsible for managing substantial volumes of personal citizen data or sensitive information that poses a potential risk to the rights of data principals. This can also include data that may jeopardize the sovereignty, integrity of India, or its electoral democracy. The designation as a significant data fiduciary may also be conferred
+
+by the state.
+
+• **Data Processor:** The person/s, or entity/ies, who processes the data on behalf of Data fiduciary.
+
+While the DPDP is primarily about protection of **Personal Data**, there are many types of data that loosly mentioned in the Act.
+
+- **Data**: Any data that is digital, or is coverted in digital once taken on paper. This includes everything under the sun that you can imagine! Including the file you store in your phone / computer, facts, opinions, articles, etc.
+- **Personal Data:** Data that relates to an individual, this includes a person, family, company, association, state.
+- **Non Personal Data:** Data that does not identify a person.
+- **Critical Data:** Data of national importance.
+
+Who is DPDP Act applicable to?
+
+- This law applies to how personal information is handled in India, whether it's collected digitally or in non-digital form that's later digitized.
+- It also covers the processing of digital personal data outside India if it's related to offering goods or services to people in India.
+
+### **Illustration 1: Understanding Key Terms through an example | Saajha**
+
+Let's take a pause here and understand the above definitions with an example.
+
+![](images/Decoding the DPDP Act for Nonprofits _ Part 1 _ Platform Commons/_page_2_Picture_14.jpeg)
+
+[Saajha,](https://www.saajha.org/) a nonprofit dedicated to empowering parents of first-generation learners, utilizes a comprehensive approach to enhance the learning environment at home. Saajhedars, community champions affiliated with Saajha, leverage a specialized app to schedule calls to
+
+parents. During these calls, Saajhedars counsel parents on effective learning methodologies and assess the foundational literacy and numeracy levels of the children using the [ASER framework.](https://asercentre.org/)
+
+Following the assessment, the system automatically triggers relevant learning content to the parents' WhatsApp numbers, facilitating improved learning for both mother and child. This ongoing communication throughout the year aims to advance children beyond foundational literacy and numeracy, fostering more informed and engaged parents.
+
+- **Data Principal:** The data collected pertains to individual children, their parents, and the Saajhedars.
+- **Data Fiduciary:** Saajha, responsible for capturing the data through its paid staff, onboarded volunteers, and Saajhedars, acts as the data fiduciary. Saajha determines the purposes for which the data is to be used.
+- **Data Processor:** The app used by Saajha and its users is developed by [Platform Commons.](https://platformcommons.org/) This company builds the software, writes the logic and algorithms for call scheduling, engagement rate
+
+- analysis, call recording, and data processing on behalf of Saajha. Platform Commons serves as the data processor, operating as directed by Saajha.
+- **Personal Data:** This includes the name, phone number, email address, and address of the children and parents, or combinations of data points that individually may not identify an individual but do so when combined, such as school, class, and roll number.
+- **Non-Personal Data:** Non-personal data comprises information generated by parents or children that is not personal, such as call feedback, preferred call times, the number of times a parent was contacted. Aggregate data insights derived from this information, which are of interest to Saajha's donors seeking impact, also fall under the category of non-personal data.
+
+This brings us to an important topic!
+
+#### **Consent**
+
+While there is no explicit definition of Consent provided in the act, and is used in many places without a capital C. It is better to resort to the most moral definition of the word, that refers to the voluntary agreement or permission given by an individual. When someone consents to something, they willingly and knowingly agree to a particular action, decision, or proposal. So, we will stick to that definition! (Consent is a right and a duty as per DPDP Act 2023, more on this later)
+
+Some characteristics of consent can be derived from reading the sections of DPDP Act 2023, that Consent must be solicited from the Data Principal before storing the data that is
+
+- **Consent should be Free**: This means that the Data Principal should have the freedom to either agree or disagree without facing any pressure, consequences or false promises.
+- **Consent should be Specific**: The consent should be for a particular purpose, and the Data Principal should know exactly what they are agreeing to.
+- **Consent should be Informed**: The Data Principal should be aware of what they are agreeing to, including the purpose of data processing, who will process it, and any potential consequences.
+- **Consent should be Unconditional**: The consent should be without any hidden conditions.
+- **Consent should be Unambiguous**: The consent should not have any confusing language.
+- **Consent should solicit a clear affirmative action**: The Data Principal should actively indicate their agreement.
+- **Consent should be Recorded**: The system should keep a record for the same with a time stamp.
+- **Consent should be Revockable / Withdrawable**: With the ease of doing so being comparable to the ease with which such consent was given.
+- **Consent should be Demonstrable**: That Data Fiduciary should be able to provide an evidence of the consent taken.
+
+Most importantly, if the Data Principal is a Minor (below 18) or a person with Disability, the Consent has to be taken from parent or a legal
+
+guardian.
+
+#### **Illustration 2: Capturing Consent that is Informed and Verifiable**
+
+Continuing Saajha's case study, this consent is solicited through WhatsApp. We work with [Turn.io](https://turn.io/) that leverages [WhatsApp for Business](https://business.whatsapp.com/) APIs to trigger consent prompt to the parent's WhatsApp Number, irrespective of the source the parent is onboarded. This consent is documented, demonstratable, withdrawable and clearly informs the parents about the services offered by Saajha to help their children access gap based learning content. The system clearly acknowledges when the consent is given and only schedules a service when opted-in.
+
+![](images/Decoding the DPDP Act for Nonprofits _ Part 1 _ Platform Commons/_page_4_Picture_5.jpeg)
+
+#### **Illustration 2: Capturing Consent from Parents for Minors**
+
+Enter [ReachONE,](https://reachone.in/) a pioneering social enterprise dedicated to fostering online mentorship connections among students through a network of dedicated volunteers. Notably, a significant portion of these
+
+![](images/Decoding the DPDP Act for Nonprofits _ Part 1 _ Platform Commons/_page_4_Picture_8.jpeg)
+
+volunteers comprises minors – students under the age of 18, each aspiring to be a mentor. To navigate the intricacies of data protection and ensure a seamless experience, ReachONE & Platform Commons has implemented a judiciously designed protocol.
+
+In this system, when a user below the age of 18 registers on the platform, they encounter a pivotal juncture. ReachONE, recognizing the legal and ethical nuances, prompts these young users to furnish details regarding their parents. This initiates a well-crafted communication process wherein the platform promptly dispatches both email and SMS notifications to the identified parents, outlining the registration and seeking their explicit consent.
+
+![](images/Decoding the DPDP Act for Nonprofits _ Part 1 _ Platform Commons/_page_4_Figure_11.jpeg)
+
+![](images/Decoding the DPDP Act for Nonprofits _ Part 1 _ Platform Commons/_page_5_Picture_2.jpeg)
+
+However, ReachONE doesn't stop there. The communication extends beyond a mere heads-up; it provides comprehensive details on how the personal data of these young volunteers will be utilized within the platform. This approach not only safeguards the interests of both the minors and their parents but also epitomizes ReachONE's commitment to responsible and transparent data management practices.
+
+The volunteer or their parents can manage this consent on the platform, including withdrawing the consent.
+
+#### **Unintended Consent Pitfalls**
+
+![](images/Decoding the DPDP Act for Nonprofits _ Part 1 _ Platform Commons/_page_5_Picture_6.jpeg)
+
+In the realm of nonprofit technology, a nuanced understanding is rather important, especially as organizations may inadvertently stumble into pitfalls, given the sector's relatively constrained tech maturity. And the program managers want to access as muc data as possible, the DPDP Act makes a special mention about data minimization
+
+Consider a scenario where an **expectant mother engages with an NGO's app**, designed to provide guidance throughout her maternity journey. In a gesture of trust, she willingly shares her personal data
+
+and agrees to the terms outlined in the app. Here lies a critical juncture – the app, seeking to broaden its reach, gains access to her mobile phone contact list.
+
+While the Data Principal (the pregnant woman) gives her consent for this contact list access, it's crucial to recognize that such access isn't required for delivering the core promised services. Ideally, her consent should be confined to the processing of her personal data solely, without opening the door for the NGO to promote its services to contacts in her phone book.
+
+This will be considered a violation of the DPDP Act, 2023.
+
+## **Next Up: Exploring NGOs' Favorite Tool – Google Forms for Data**
+
+#### **Capture!**
+
+While some nonprofits effectively leverage technology to streamline operations, a considerable number of NGOs still rely on on-the-ground services and later assess their impact through surveys using tools like [Google Forms,](https://docs.google.com/forms/) [AppSheets,](https://about.appsheet.com/home/) [Survey CTO,](https://www.surveycto.com/) [Survey Monkey,](http://surveymonkey.com/) etc. For the former, beneficiary is usually configured as an entity in the database, and consent is either implicit or could be easily accommodated. However, capturing beneficiary data in surveys or forms, considered a data record is most discouraged practice.
+
+Collecting data records through forms poses challenges in addressing and managing consent-related aspects. Even if consent is taken, and honestly integrated via the field staff, obtaining verifiable evidencebased acknowledgments and withdrawals from data principals can be cumbersome and requires makeshift solutions. This is a recipie for disaster!
+
+The complexity increases when these forms involve **data collection from children or individuals with disabilities**, requiring consent from a legal guardian, who is not present at the time to capturing data.
+
+The 2023 DPDP Act lacks clear guidance for nonprofits collecting ad-hoc surveys that capture super sensitive data such as contact details, caste, family income, etc mostly without incorporating consent. In the next part of this blog series, we'll explore optimal approaches to safeguard personal data. And best ways to avoid the same and transition into a more systematic way of capturing data.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+#### Further Reading…
+
+- [Part 2: Introduction to Consent Manager, Challenges with using](https://platformcommons.org/dpdp-for-nonprofits-2/) [Forms & Survey Tools](https://platformcommons.org/dpdp-for-nonprofits-2/)
+- [Part 3: Complying to DPDP Act as a Nonprofit](https://platformcommons.org/dpdp-for-nonprofits-3/)
+- [Past 4: Concerns and Red Flags by Data Activists, Nonprofits](https://platformcommons.org/dpdp-for-nonprofits-4/)
+
+[Prev](https://platformcommons.org/friends/) [Dear friends and family](https://platformcommons.org/friends/)
+
+[Next](https://platformcommons.org/dpdp-for-nonprofits-2/) [Decoding the DPDP Act for](https://platformcommons.org/dpdp-for-nonprofits-2/) [Nonprofits | Part 2](https://platformcommons.org/dpdp-for-nonprofits-2/)
+
+#### Post a comment
+
+Your email address will not be published. Required fields are marked \*
+
+| Comment       |                                                                      |
+|---------------|----------------------------------------------------------------------|
+|               |                                                                      |
+|               |                                                                      |
+|               |                                                                      |
+|               |                                                                      |
+|               |                                                                      |
+| Name          |                                                                      |
+|               |                                                                      |
+| Email address |                                                                      |
+|               |                                                                      |
+| Website       |                                                                      |
+|               | Save my name, email, and website in this browser for the next time I |
+| comment.      |                                                                      |
+|               |                                                                      |
+|               | Post Comment                                                         |

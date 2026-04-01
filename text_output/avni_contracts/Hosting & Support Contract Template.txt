@@ -1,0 +1,215 @@
+Samanvay Technologies Private Limited
+#20 T P Venugopal Layout, Anand Nagar, Bengaluru - 560024, Karnataka, India
+CIN: U72900KA2021PTC150567
+_________________________________________________________________
+
+Hosting & Support Contract for
+
+Title
+BETWEEN
+Customer Name ,
+Customer Address
+AND
+Samanvay Technologies Private Limited, #20, T.P. Venugopal Layout, Anand Nagar,
+Bangalore - 560024
+​
+​
+Description: Hosting & Support of Avni app for Title
+Start - End dates: Start Date - End Date
+Recipient: Customer Name
+Samanvay Technologies Private Limited has agreed to provide the Hosting & support of
+software on the terms set out in this contract
+​
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+...………………………………….
+​​
+Signatory Name
+(For and on behalf of Customer Name )
+​
+Mobile: Signatory Mobile Number
+​
+Email: Signatory Email
+​ ​
+​
+​
+
+……………………………………………
+Arjun Khandelwal
+(Director, Samanvay Technologies)
+Mobile: +91 9923139403
+Email:arjunk@samanvayfoundation.org
+
+__________________________________________________________________________________
+Samanvay Technologies Private Limited
+Ph #: +91 9923139403
+
+Samanvay Technologies Private Limited
+#20 T P Venugopal Layout, Anand Nagar, Bengaluru - 560024, Karnataka, India
+CIN: U72900KA2021PTC150567
+_________________________________________________________________
+
+Scope of Work
+The scope of this agreement is to provide hosting and support services for the Title
+project developed on the Avni platform and deployed on Samanvay shared hosting
+platform.
+
+Hosting Deliverables
+Definition of terms:
+1.​ Hosting Period-12 months (starting from day 1 of contract)
+2.​ Up to 200 users and 20,000 form submissions per month
+3.​ Additional forms will be charged at ₹2000 per 10,000 form submissions
+
+Support Deliverables
+1.​ Support period - 12 months ( Start Date - End Date )
+2.​ The objective of this support engagement is to ensure that the system is
+available and any user problems are resolved.
+3.​ Avni issues can be reported in the form of the ticket on Freshdesk and with the
+description of the issue.
+4.​ For any discussion with the support team, that for some reason cannot be dealt
+with using freshdesk, can be done over a call or on WhatsApp.
+
+This agreement will cover the following:
+1.​ Ensuring the availability of the cloud service
+2.​ Android app installation/upgrade issues
+3.​ Normal functioning of all applications - android app, reporting & dashboard
+4.​ Availability of upgrades of the app as Avni releases are made available.
+__________________________________________________________________________________
+Samanvay Technologies Private Limited
+Ph #: +91 9923139403
+
+Samanvay Technologies Private Limited
+#20 T P Venugopal Layout, Anand Nagar, Bengaluru - 560024, Karnataka, India
+CIN: U72900KA2021PTC150567
+_________________________________________________________________
+
+This agreement does not cover
+1.​ Any feature enhancement requests for Avni (there is a product backlog through
+which customer requests will be routed, prioritized and communicated)
+2.​ Any hardware related issues with the user devices.
+3.​ New reports or changes to existing ones. Requests for such changes will be
+handled later, and charged based on the estimated effort and the prevailing
+billing rate at the time.
+4.​ New forms or changes to existing ones. Requests for such changes will be
+handled later, and charged based on the estimated effort and the prevailing
+billing rate at the time.
+5.​ Resolving basic end-user issues (these issues should be reported to the local IT
+team first, who will be trained by Samanvay)
+6.​ Any onsite visits.
+
+__________________________________________________________________________________
+Samanvay Technologies Private Limited
+Ph #: +91 9923139403
+
+Samanvay Technologies Private Limited
+#20 T P Venugopal Layout, Anand Nagar, Bengaluru - 560024, Karnataka, India
+CIN: U72900KA2021PTC150567
+_________________________________________________________________
+
+Additional Terms
+Data Privacy
+Customer Name undertakes to comply with the requirements of the roles of Data Fiduciary and Consent
+Manager as provided in the Digital Personal Data Protection Act, 2023 while Samanvay undertakes to
+comply with the requirements of a Data Processor as defined in the act.
+
+Data Security
+1.​ Samanvay will ensure that
+a.​ All data will be stored encrypted on disk
+b.​ All data in transit outside the data centre will be encrypted (via TLS for all APIs)
+c.​ Only authorised users will be allowed access to data based on login and access
+controls provided by the Avni application
+d.​ Audit details including created date, created time, last modified date and last
+modified time will be stored for all entities that are created in the database
+2.​ Customer Name will ensure that
+a.​ User ids are not shared
+b.​ Passwords are complex
+c.​ Mobile devices are not shared
+d.​ Phones on which work is happening are not rooted
+e.​ PII Data downloaded from reports are shared only with authorised people and
+removed from personal devices as soon as they are not required anymore
+f.​ No data is hosted, displayed, uploaded, modified, published, transmitted, or
+shared that
+i.​ belongs to another person and to which the user does not have any right;
+ii.​ is defamatory, obscene, pornographic, pedophilic, invasive of another‘s
+privacy, including bodily privacy, insulting or harassing on the basis of
+gender, libelous, racially or ethnically objectionable, relating or
+encouraging money laundering or gambling, or otherwise inconsistent
+with or contrary to the laws in force;
+iii.​ is harmful to child;
+__________________________________________________________________________________
+Samanvay Technologies Private Limited
+Ph #: +91 9923139403
+
+Samanvay Technologies Private Limited
+#20 T P Venugopal Layout, Anand Nagar, Bengaluru - 560024, Karnataka, India
+CIN: U72900KA2021PTC150567
+_________________________________________________________________
+
+iv.​
+v.​
+vi.​
+
+infringes any patent, trademark, copyright or other proprietary rights;
+violates any law for the time being in force;
+deceives or misleads the addressee about the origin of the message or
+knowingly and intentionally communicates any information which is
+patently false or misleading in nature but may reasonably be perceived as
+a fact;
+vii.​ impersonates another person;
+viii.​ threatens the unity, integrity, defence, security or sovereignty of India,
+friendly relations with foreign States, or public order, or causes incitement
+to the commission of any cognizable offence or prevents investigation of
+any offence or is insulting other nation;
+ix.​ contains software virus or any other computer code, file or program
+designed to interrupt, destroy or limit the functionality of any computer
+resource;
+x.​ is patently false and untrue, and is written or published in any form, with
+the intent to mislead or harass a person, entity or agency for financial gain
+or to cause any injury to any person;
+3.​ In case of non-compliance with the above, Avni has the right to terminate the access or
+usage rights of the users to the computer resource immediately or remove non-compliant
+information or both, as the case may be.
+
+Software license
+Avni is licensed as AGPL 3.0. This means that all the source code for the software is publicly
+available for use, copy and ownership. This implies that Customer Name will have complete
+ownership of the software irrespective of whether Samanvay remains the supplier of software in
+future or not.
+
+__________________________________________________________________________________
+Samanvay Technologies Private Limited
+Ph #: +91 9923139403
+
+Samanvay Technologies Private Limited
+#20 T P Venugopal Layout, Anand Nagar, Bengaluru - 560024, Karnataka, India
+CIN: U72900KA2021PTC150567
+_________________________________________________________________
+
+Payment Terms
+The Hosting & Support Services Cost of the system will be INR ₹2,13,468
+(Including 18 % GST) for the period of 12 months (Starting from day 1 of the contract)
+and it will be paid in advance on a quarterly basis for the stipulated period.
+
+Bank Details:
+Name: SAMANVAY TECHNOLOGIES PVT LTD
+Bank Name: HDFC Bank
+Account Number: 50200060858989
+Account Type : Current
+IFSC Code: HDFC0000076
+Branch: M.G.Road, Raheja Towers, Bangalore - 1
+
+__________________________________________________________________________________
+Samanvay Technologies Private Limited
+Ph #: +91 9923139403
+
+
