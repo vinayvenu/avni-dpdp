@@ -7,17 +7,17 @@ Features are organized by functional area. Priority classification:
 - **SHOULD** — strongly recommended; absence creates legal or operational risk
 - **COULD** — good practice; relevant when becoming a Significant Data Fiduciary or as the platform matures
 
-**Deadline:** All MUST features must be ready before **13 May 2027**. Consent collection and erasure workflows (F1–F8) are accelerated — target delivery by **end of August 2026** — because customers are evaluating DPDP compliance posture now and the consent flow is the core product obligation.
+**Deadline:** All MUST features must be ready before **13 May 2027**. Consent collection and erasure workflows (F2–F8) are accelerated — target delivery by **end of August 2026** — because customers are evaluating DPDP compliance posture now and the consent flow is the core product obligation.
 
 ---
 
 ## 1. Consent Collection
 
 ### F1 — OTP-Based Consent Flow
-**Priority:** SHOULD
+**Priority:** COULD
 **Legal basis:** Act Section 6(1); Aadhaar Guidelines Section 10, 13, Annexure A.13
 **Current status:** Not available
-**Target:** Q1 2027
+**Target:** Post August 2026 — build only if customers request it
 
 The strongest legally defensible consent method for assisted mode. An OTP is sent to the beneficiary's registered mobile number; the beneficiary reads it aloud and the field worker enters it in Avni. The affirmative action is traceable to the beneficiary's device and cannot be performed by the field worker.
 
@@ -25,7 +25,7 @@ However, OTP is not always feasible in Avni's field context:
 - Many field workers use shared phones, which makes it impossible to establish phone ownership by the beneficiary
 - Network connectivity may be unavailable at the point of enrollment
 
-F2 (audio recording) and F3 (signed form) are viable today without OTP and serve as the primary consent methods. OTP should be offered as an option where beneficiary phone ownership can be confirmed, but its absence does not create a compliance gap if F2 or F3 is used.
+F2 (audio recording) and F3 (signed form) are the primary consent methods and fully satisfy the legal requirement. OTP has no compliance advantage over these methods for Avni's deployment context. It will not be built as part of the August 2026 goal; it can be added later if a specific customer requests it.
 
 The OTP and consent event must be stored linked to the beneficiary record with a timestamp.
 
@@ -357,7 +357,6 @@ Consent collection and erasure workflows are accelerated to August 2026 because 
 ### Wave 3 — August 2026 (Erasure, OTP consent, first reports)
 - **F7**: Erasure workflow triggered by void — *design must happen in June before development; infra sign-off on backup expiry approach required*
 - **F8**: Erasure on written instruction (same workflow as F7)
-- **F1**: OTP-based consent flow — stretch goal; fall to September if capacity constrained
 - **F15**: Bulk export logging and role restrictions
 - **R1**: Consent Registry Report (depends on F5)
 - **R3**: Bulk Export Log Report (depends on F15)
@@ -416,7 +415,7 @@ Consent collection and erasure workflows are accelerated to August 2026 because 
 | F12 | Application-level access audit logging | Security | MUST | Nov 2026 | Not confirmed |
 | R2 | Outstanding Retrospective Notice Report | Reporting | MUST | Nov 2026 | Not available |
 | R4 | Access Audit Report | Reporting | MUST | Nov 2026 | Depends on F12 |
-| F1 | OTP-based consent flow | Consent | SHOULD | Q1 2027 | Not available |
+| F1 | OTP-based consent flow | Consent | COULD | Post Aug 2026 (on request) | Not available |
 | F9 | Purpose expiry detection | Erasure | SHOULD | Q1 2027 | Not available |
 | F16 | Periodic OTP re-auth + token model | Security | SHOULD (MUST: sensitive data) | Q1 2027 | Not in place |
 | F17 | Session timeout for Data Entry App (web) | Security | SHOULD | Q1 2027 | Not confirmed |
