@@ -67,11 +67,15 @@ This document identifies every change required to the Service & Support Contract
 >
 > (i) **Audit rights:** [Customer Name] may request, no more than once per year, a written summary of Samanvay's security measures or the results of any security audit conducted by Samanvay. Samanvay shall respond within 30 days.
 >
+> (j) **Scope of Samanvay's obligations:** Samanvay's obligations as Data Processor under this Section G extend to personal data stored and processed on Samanvay's own infrastructure (AWS Mumbai cloud, including databases, S3, and backups). Samanvay is not responsible for the security of personal data on field worker devices (including the Realm database on Android devices), which are operated by and under the control of [Customer Name]. [Customer Name] remains solely responsible for implementing appropriate security controls on all devices and systems outside Samanvay's infrastructure.
+>
+> (k) **Integration Server:** Where [Customer Name] uses the Avni Integration Server to connect Avni to external systems not operated by Samanvay, Samanvay's data protection obligations under this contract extend only to personal data within Samanvay's own infrastructure. Samanvay is not responsible for the data protection practices, security, or compliance of any external system receiving data via the Integration Server. [Customer Name] is responsible for ensuring that any external system to which personal data is transmitted via the Integration Server complies with applicable law, including the Act, and for executing any required data processing agreements with the operators of those external systems.
+>
 > **G.2 [Customer Name]'s obligations as Data Fiduciary**
 >
 > [Customer Name] will ensure that:
 >
-> (a) **Mobile encryption:** The AES-256 encryption feature for the Avni Android application (Realm database) is enabled for all field workers before deployment. [Customer Name] acknowledges that operating the Android app without encryption enabled may constitute a breach of DPDP Rules 2025, Rule 6(a).
+> (a) **Mobile encryption:** The AES-256 encryption feature for the Avni Android application (Realm database) is enabled for all field workers before deployment. [Customer Name] acknowledges that operating the Android app without encryption enabled may constitute a breach of DPDP Rules 2025, Rule 6(a). Samanvay shall bear no liability for any loss, breach, or unauthorised access to personal data stored on field worker devices where [Customer Name] has not enabled the encryption feature made available by Samanvay.
 >
 > (b) **User credentials:** User IDs are not shared between individuals. Passwords meet minimum complexity requirements. Users are trained on credential security.
 >
@@ -97,7 +101,23 @@ This document identifies every change required to the Service & Support Contract
 
 ---
 
-## 3. Appendix A — NDA: Survival Clause
+## 3. Section G — G.4 Grievance and Incident Reporting
+
+### Current wording
+> *"Any victim of a cyber security incident can make a complaint either through the Contact Us option on the Samanvay website (https://www.samanvayfoundation.org/about-us#contact-us-1) or through the email linked in the privacy policy of Avni app (hello@samanvayfoundation.org). This will reach the Grievance Officer at Samanvay who will take necessary action within the time stipulated by the IT Guidelines."*
+
+### Problem
+This clause references "the IT Guidelines" — i.e., the IT (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021 — but does not reference DPDP Rule 7, which governs breach notification obligations from May 2027 onwards. The clause could create confusion about which obligations apply and which timelines govern.
+
+### Suggested replacement
+
+> **G.4 Grievance and incident reporting**
+>
+> Any person affected by a data security incident may report it to Samanvay's Grievance Officer at hello@samanvayfoundation.org or through the contact details on the Samanvay website. Samanvay shall acknowledge and address grievances in accordance with the timelines required by applicable law. Samanvay's obligations in respect of personal data breaches are governed by Clause G.1(e) above. [Customer Name]'s obligations to notify affected Data Principals and the Data Protection Board of India of any personal data breach are governed by Clause G.2(h) and DPDP Rules 2025, Rule 7.
+
+---
+
+## 5. Appendix A — NDA: Survival Clause
 
 ### Current wording
 The NDA has no explicit survival or duration clause. It is tied implicitly to the contract period.
@@ -114,7 +134,7 @@ Add the following clause at the end of the NDA, before the signature block:
 
 ---
 
-## 4. Appendix A — NDA: Update Statutory Reference
+## 6. Appendix A — NDA: Update Statutory Reference
 
 ### Current wording
 > *"To comply with all statutory laws/rules/legislations related to data protection including but not limited to Information Technology Act, 2000 and Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011."*
@@ -124,7 +144,7 @@ Add the following clause at the end of the NDA, before the signature block:
 
 ---
 
-## 5. Appendix A — NDA: Liability Cap
+## 7. Appendix A — NDA: Liability Cap
 
 ### Current wording
 > *"The Receiving Party agrees to indemnify the Disclosing Party against any and all actual losses, damages, claims, or expenses incurred, or suffered by the Disclosing Party as a result of the Receiving Party's breach of this Agreement, not exceeding the amount of **one lakh rupees or the annual value of the contract, whichever is lower**."*
@@ -144,7 +164,11 @@ No change required, but recommend adding the following note:
 |---------|-------------|------------|
 | F — Data Privacy | Replace: fix Data Fiduciary/Processor/Consent Manager terminology | Act S.2(g), S.2(i), S.2(k) |
 | G.1 — Samanvay obligations | Replace/expand: add breach notification (24hr), erasure, 1-yr log retention, sub-processors, audit rights, data residency | Rules 6(a)–(g), Rule 7, Act S.8(7)(b) |
+| G.1(j) — Scope limitation | Add: Samanvay's obligations extend only to its own infrastructure; field worker devices are NGO's responsibility | Rule 6(a), general principle |
+| G.1(k) — Integration Server | Add: Samanvay not responsible for external systems connected via Integration Server; NGO responsible for compliance of those systems | Rule 6(f), Act S.8(2) |
+| G.2(a) — Mobile encryption liability | Add: Samanvay bears no liability for device-side breaches where NGO has not enabled available encryption | Rule 6(a), Act S.8(5) |
 | G.2 — Customer obligations | Replace/expand: add mobile encryption, device loss SOP (48hr), BI restriction, export controls, consent responsibility, Data Principal rights | Rules 6(a), 6(b), Act S.6, S.8(7) |
+| G.4 — Grievance and incident reporting | Update: align with DPDP Rule 7; replace IT Guidelines reference with DPDP obligations | Rule 7, Act S.8(7) |
 | Appendix A NDA — Duration | Add: survival clause (perpetual, survives contract termination) | Act S.8(7), general principle |
 | Appendix A NDA — Statutory ref | Update: add DPDP Act 2023 and Rules 2025 | General compliance obligation under the Act |
 | Appendix A NDA — Liability | Add: clarification note on DPDP regulatory liability | Act S.8(5) and Schedule (enforced via S.33) |

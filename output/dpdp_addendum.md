@@ -59,15 +59,21 @@ In addition to its existing obligations under the Original Contract, Samanvay sh
 
 **3.1 Breach notification:** On becoming aware of any personal data breach, notify the Customer **within 24 hours** of becoming aware, providing: a description of the breach including its nature, extent and timing; the personal data categories affected; an initial assessment of impact; and measures being taken to contain and remediate. This timeline is designed to allow the Customer sufficient time to fulfil its obligations under Rule 7(2) of the Rules, which are two-stage: (a) a **preliminary notification** to the Data Protection Board of India *without delay* upon becoming aware of the breach (Rule 7(2)(a)); and (b) a **detailed follow-up notification** to the Board within 72 hours of becoming aware (Rule 7(2)(b)). The Customer acknowledges that the initial Board notification under Rule 7(2)(a) must be made "without delay" and should not be deferred until the 72-hour deadline.
 
-**3.2 Erasure on instruction:** On written instruction from the Customer, erase specified personal data from all production systems, backups, and associated storage (including Amazon S3) within **30 days**, unless retention is required under applicable law. Samanvay shall confirm erasure in writing to the Customer upon completion. This obligation covers erasures arising from Data Principal consent withdrawal (Act Section 6(4)) and erasure requests (Act Section 12).
+**3.2 Backups:** Maintain Point-in-Time Recovery (PITR) backups of all personal data for a minimum of **35 days**, encrypted to the same standard as primary data.
 
-**3.3 Access logs:** Maintain application-level logs recording access to personal data, including at minimum: timestamp, user identifier, and action performed. Such logs shall be retained for a minimum of **one year** from the date of each log entry, stored in a tamper-evident manner.
+**3.3 Erasure on instruction:** On written instruction from the Customer, erase specified personal data from all production systems, backups, and associated storage (including Amazon S3) within **30 days**, unless retention is required under applicable law. Samanvay shall confirm erasure in writing to the Customer upon completion. This obligation covers erasures arising from Data Principal consent withdrawal (Act Section 6(4)) and erasure requests (Act Section 12).
 
-**3.4 Sub-processors:** Samanvay currently uses Amazon Web Services (AWS), Mumbai region, as a sub-processor for cloud infrastructure and storage. Samanvay shall notify the Customer at least **30 days** in advance of any addition or material change to sub-processors.
+**3.4 Access logs:** Maintain application-level logs recording access to personal data, including at minimum: timestamp, user identifier, and action performed. Such logs shall be retained for a minimum of **one year** from the date of each log entry, stored in a tamper-evident manner.
 
-**3.5 Data residency:** All personal data shall remain stored and processed within AWS data centres in the Mumbai (ap-south-1) region and shall not be transferred outside India without the Customer's prior written consent.
+**3.5 Sub-processors:** Samanvay currently uses Amazon Web Services (AWS), Mumbai region, as a sub-processor for cloud infrastructure and storage. Samanvay shall notify the Customer at least **30 days** in advance of any addition or material change to sub-processors.
 
-**3.6 Audit rights:** The Customer may request, no more than once per year, a written summary of Samanvay's security measures or the results of any security audit conducted by Samanvay. Samanvay shall respond within 30 days.
+**3.6 Data residency:** All personal data shall remain stored and processed within AWS data centres in the Mumbai (ap-south-1) region and shall not be transferred outside India without the Customer's prior written consent.
+
+**3.7 Audit rights:** The Customer may request, no more than once per year, a written summary of Samanvay's security measures or the results of any security audit conducted by Samanvay. Samanvay shall respond within 30 days.
+
+**3.8 Scope of Samanvay's obligations:** Samanvay's obligations as Data Processor under this Clause 3 extend to personal data stored and processed on Samanvay's own infrastructure (AWS Mumbai cloud, including databases, S3, and backups). Samanvay is not responsible for the security of personal data on field worker devices (including the Realm database on Android devices), which are operated by and under the control of the Customer. The Customer remains solely responsible for implementing appropriate security controls on all devices and systems outside Samanvay's infrastructure.
+
+**3.9 Integration Server:** Where the Customer uses the Avni Integration Server to connect Avni to external systems not operated by Samanvay, Samanvay's data protection obligations under this Addendum extend only to personal data within Samanvay's own infrastructure. Samanvay is not responsible for the data protection practices, security, or compliance of any external system receiving data via the Integration Server. The Customer is responsible for ensuring that any external system to which personal data is transmitted via the Integration Server complies with applicable law, including the Act, and for executing any required data processing agreements with the operators of those external systems.
 
 ---
 
@@ -75,7 +81,7 @@ In addition to its existing obligations under the Original Contract, Samanvay sh
 
 In addition to its existing obligations under the Original Contract, the Customer shall:
 
-**4.1 Mobile encryption:** Ensure the AES-256 encryption feature for the Avni Android application (Realm database) is enabled for all field workers. The Customer acknowledges that operating the app without this encryption enabled may constitute a breach of DPDP Rules 2025, Rule 6(a).
+**4.1 Mobile encryption:** Ensure the AES-256 encryption feature for the Avni Android application (Realm database) is enabled for all field workers. The Customer acknowledges that operating the app without this encryption enabled may constitute a breach of DPDP Rules 2025, Rule 6(a). Samanvay shall bear no liability for any loss, breach, or unauthorised access to personal data stored on field worker devices where the Customer has not enabled the encryption feature made available by Samanvay.
 
 **4.2 Device loss:** Notify Samanvay and request revocation of the affected user account within **48 hours** of becoming aware that a field worker's device has been lost or stolen.
 
@@ -88,7 +94,7 @@ In addition to its existing obligations under the Original Contract, the Custome
   - All Data Principals who gave consent before 13 May 2027 are provided with a retrospective notice as required under Section 5(2) of the Act, as soon as reasonably practicable after that date.
   - For Data Principals whose data was collected before 13 May 2027 without any prior consent, Section 5(2) does not apply. Fresh DPDP-compliant consent must be obtained before 13 May 2027, or continued processing must be justified under Section 7 of the Act.
 
-**4.6 Data Principal rights:** Process all requests from Data Principals for access, correction, and erasure of personal data in accordance with the Act. Where erasure requires Samanvay to delete data from its systems, issue a written erasure instruction to Samanvay as described in Clause 3.2.
+**4.6 Data Principal rights:** Process all requests from Data Principals for access, correction, and erasure of personal data in accordance with the Act. Where erasure requires Samanvay to delete data from its systems, issue a written erasure instruction to Samanvay as described in Clause 3.3.
 
 **4.7 Breach notification:** Notify affected Data Principals and the Data Protection Board of India of any personal data breach in accordance with Rule 7 of the Rules. Samanvay's obligation is limited to notifying the Customer as described in Clause 3.1.
 

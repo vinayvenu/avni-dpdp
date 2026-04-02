@@ -1,0 +1,107 @@
+# **THIRD-PARTY VENDOR AGREEMENT**
+
+This Third-Party Vendor Agreement ("Agreement") is entered into as of **[Insert Date]** ("Effective Date") by and between:
+
+**[Company Name]**, a company incorporated under the laws of India, having its registered office at **[Insert Address]**, hereinafter referred to as the "Company"; and
+
+**[Vendor Name]**, a company incorporated under the laws of India, having its registered office at **[Insert Address]**, hereinafter referred to as the "Vendor."
+
+(Collectively referred to as the "Parties" and individually as a "Party.")
+
+### **RECITALS**
+
+#### WHEREAS:
+
+- 1. The Company engages the Vendor to provide certain services that may involve the processing of personal data as defined under the **Digital Personal Data Protection Act, 2023 ("DPDPA")**; and
+- 2. The Parties intend to ensure compliance with their respective obligations under applicable data protection laws and regulations, including the DPDPA;
+
+NOW, THEREFORE, the Parties agree as follows:
+
+### **1. DEFINITIONS**
+
+- 1.1 **"Personal Data"**: Any data about an individual processed by the Vendor on behalf of the Company under the DPDPA.
+- 1.2 **"Processing"**: Any operation performed on Personal Data, including collection, recording, storage, use, sharing, or deletion, as defined under the DPDPA.
+- 1.3 **"Sub-Processor"**: Any third party engaged by the Vendor to process Personal Data on behalf of the Company.
+- 1.4 **"Confidential Information"**: Includes all information disclosed by one Party to the other that is marked confidential or reasonably expected to be treated as confidential.
+
+### **2. SCOPE OF SERVICES**
+
+- 2.1 The Vendor agrees to provide the following services ("Services"): **[Insert detailed description of services]**.
+- 2.2 The Vendor acknowledges that the Services may involve the processing of Personal Data and agrees to comply with this Agreement and applicable laws.
+
+### **3. OBLIGATIONS OF THE VENDOR**
+
+- 3.1 **Compliance with Laws**: Process Personal Data in accordance with this Agreement, the Company's instructions, and applicable laws, including the DPDPA.
+- 3.2 **Confidentiality**: Ensure all personnel authorized to process Personal Data are bound by confidentiality obligations.
+- 3.3 **Security Measures**: Implement appropriate technical and organizational measures, including:
+  - Encryption of Personal Data;
+  - Access control mechanisms;
+  - Regular security audits and vulnerability assessments.
+- 3.4 **Data Breach Notification**: Notify the Company within **[Insert Timeframe, e.g., 24 hours]** of any data breach and provide sufficient details for the Company to meet its reporting obligations.
+
+#### 3.5 **Sub-Processors**:
+
+- Do not engage any Sub-Processor without prior written consent from the Company.
+- Ensure Sub-Processors comply with this Agreement.
+- 3.6 **Assistance**: Assist the Company in fulfilling data protection obligations, including:
+  - Responding to data subject requests;
+  - Conducting privacy impact assessments;
+  - Providing necessary information for audits.
+- 3.7 **Data Retention and Disposal**: Upon termination of this Agreement, return or securely delete all Personal Data at the Company's discretion.
+
+### **4. OBLIGATIONS OF THE COMPANY**
+
+- 4.1 **Instructions**: Provide clear, written instructions for processing Personal Data.
+- 4.2 **Legal Basis**: Warrant that the Company has obtained all necessary consents or other legal
+
+bases for processing Personal Data.
+
+4.3 **Audit Rights**: Retain the right to audit the Vendor's compliance upon reasonable notice.
+
+### **5. CONFIDENTIALITY**
+
+5.1 Keep all Confidential Information secure and do not disclose it to any third party without prior written consent, except as required by law.
+
+### **6. INDEMNIFICATION AND LIABILITY**
+
+- 6.1 **Vendor Indemnity**: Indemnify the Company against claims, damages, or costs arising from the Vendor's breach of this Agreement.
+- 6.2 **Company Indemnity**: Indemnify the Vendor against claims arising from the Company's failure to comply with its legal obligations.
+- 6.3 **Liability Cap**: Except in cases of gross negligence or willful misconduct, the total liability of either Party shall not exceed **[Insert Amount]**.
+
+### **7. TERM AND TERMINATION**
+
+- 7.1 This Agreement shall remain in effect until terminated by either Party with **[Insert Notice Period]** written notice.
+- 7.2 Upon termination, the Vendor shall return or securely delete all Personal Data.
+
+### **8. CROSS-BORDER DATA TRANSFERS**
+
+8.1 The Vendor shall not transfer Personal Data outside India without the prior written consent of the Company and ensuring compliance with applicable laws.
+
+### **9. GOVERNING LAW AND DISPUTE RESOLUTION**
+
+- 9.1 This Agreement is governed by the laws of India.
+- 9.2 Disputes shall be resolved under the exclusive jurisdiction of the courts in **[Insert Jurisdiction]**.
+
+## **10. MISCELLANEOUS**
+
+- 10.1 **Amendments**: Any amendments to this Agreement must be in writing and signed by both Parties.
+- 10.2 **Entire Agreement**: This document constitutes the entire understanding between the Parties regarding Personal Data processing.
+- 10.3 **Notices**: Notices under this Agreement shall be sent to the addresses mentioned above.
+
+**IN WITNESS WHEREOF**, the Parties have executed this Agreement as of the Effective Date.
+
+#### **For the Company:**
+
+| • | Name: [Insert Name]   |
+|---|-----------------------|
+| • | Title: [Insert Title] |
+| • | Signature:            |
+| • | Date:                 |
+
+#### **For the Vendor:**
+
+| • | Name: [Insert Name]   |
+|---|-----------------------|
+| • | Title: [Insert Title] |
+| • | Signature:            |
+| • | Date:                 |

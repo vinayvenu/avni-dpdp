@@ -68,11 +68,15 @@ Identical to the Service & Support Contract — obligations are too narrow for D
 >
 > (i) **Audit rights:** [Customer Name] may request, no more than once per year, a written summary of Samanvay's security measures or the results of any security audit conducted by Samanvay. Samanvay shall respond within 30 days.
 >
+> (j) **Scope of Samanvay's obligations:** Samanvay's obligations as Data Processor under this contract extend to personal data stored and processed on Samanvay's own infrastructure (AWS Mumbai cloud, including databases, S3, and backups). Samanvay is not responsible for the security of personal data on field worker devices (including the Realm database on Android devices), which are operated by and under the control of [Customer Name]. [Customer Name] remains solely responsible for implementing appropriate security controls on all devices and systems outside Samanvay's infrastructure.
+>
+> (k) **Integration Server:** Where [Customer Name] uses the Avni Integration Server to connect Avni to external systems not operated by Samanvay, Samanvay's data protection obligations under this contract extend only to personal data within Samanvay's own infrastructure. Samanvay is not responsible for the data protection practices, security, or compliance of any external system receiving data via the Integration Server. [Customer Name] is responsible for ensuring that any external system to which personal data is transmitted via the Integration Server complies with applicable law, including the Act, and for executing any required data processing agreements with the operators of those external systems.
+>
 > **[Customer Name]'s obligations as Data Fiduciary**
 >
 > [Customer Name] will ensure that:
 >
-> (a) **Mobile encryption:** The AES-256 encryption feature for the Avni Android application (Realm database) is enabled for all field workers. [Customer Name] acknowledges that operating the app without encryption enabled may constitute a breach of DPDP Rules 2025, Rule 6(a).
+> (a) **Mobile encryption:** The AES-256 encryption feature for the Avni Android application (Realm database) is enabled for all field workers. [Customer Name] acknowledges that operating the app without encryption enabled may constitute a breach of DPDP Rules 2025, Rule 6(a). Samanvay shall bear no liability for any loss, breach, or unauthorised access to personal data stored on field worker devices where [Customer Name] has not enabled the encryption feature made available by Samanvay.
 >
 > (b) **User credentials:** User IDs are not shared between individuals. Passwords meet minimum complexity requirements.
 >
@@ -120,5 +124,8 @@ Additionally, the H&S contract should reference the retrospective notice obligat
 |---------|-------------|------------|
 | Data Privacy | Replace: fix terminology (Data Fiduciary, Data Processor, optional Consent Manager); add NDA continuity reference | Act S.2(g), S.2(i), S.2(k) |
 | Data Security — Samanvay | Replace/expand: add breach notification (24hr), erasure (30 days), 1-yr log retention, sub-processors, audit rights, data residency | Rules 6(a)–(g), Rule 7, Act S.8(7)(b) |
+| Data Security — Samanvay (j) | Add: scope limitation — Samanvay's obligations extend only to its own infrastructure | Rule 6(a), general principle |
+| Data Security — Samanvay (k) | Add: Integration Server — Samanvay not responsible for external systems; NGO responsible for compliance of connected systems | Rule 6(f), Act S.8(2) |
+| Data Security — Customer (a) | Add: Samanvay bears no liability for device-side breaches where NGO has not enabled available encryption | Rule 6(a), Act S.8(5) |
 | Data Security — Customer | Replace/expand: add mobile encryption, device loss SOP (48hr), BI restriction, export controls, consent + retrospective notice responsibility (S.5(2) applies only where consent was previously given), Data Principal rights | Rules 6(a), 6(b), Act S.5(2), S.6, S.7, S.8(7), S.12 |
 | Applicable Law | Add: reference to DPDP Act 2023 and Rules 2025 | General compliance obligation under the Act |

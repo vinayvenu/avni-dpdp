@@ -1,0 +1,68 @@
+#### [Company Letterhead/Logo]
+
+#### **CONSENT FORM FOR DATA PROCESSING**
+
+**Date:** [Insert Date]
+
+**Subject:** Consent for Processing of Personal Data
+
+Dear [Recipient Name],
+
+This consent form is issued to inform you of the purposes for which your personal data will be processed and to obtain your explicit consent for the same, in compliance with the Digital Personal Data Protection Act, 2023 ("DPDPA") and the Digital Personal Data Protection Rules, 2023 ("DPDP Rules").
+
+### **1. INFORMATION WE WILL COLLECT**
+
+We may collect and process the following categories of personal data:
+
+- **Basic Information:** Name, Contact Information, Address, Date of Birth.
+- **Sensitive Personal Data (if applicable):** Financial Details, Health Information, Biometric Data, etc.
+
+### **2. PURPOSE OF PROCESSING**
+
+Your personal data will be processed for the following purposes:
+
+- 1. **Service Provision:** To provide the services or products you have requested.
+- 2. **Legal Compliance:** To comply with applicable laws and regulatory requirements.
+- 3. **Marketing Communications:** To send you marketing materials, but only with your explicit consent.
+- 4. **Data Analytics:** For improving our services, products, and user experience.
+
+### **3. LEGAL BASIS FOR PROCESSING**
+
+The legal basis for processing your personal data is your explicit consent as provided under Section 7 of the DPDPA and other applicable provisions of the DPDP Rules.
+
+## **4. RIGHTS AVAILABLE TO YOU**
+
+Under the DPDPA, you have the following rights:
+
+- **Right to Access:** Obtain access to your data.
+- **Right to Rectification:** Request corrections to any inaccuracies in your data.
+- **Right to Erasure:** Request deletion of your personal data.
+- **Right to Restriction:** Restrict or object to certain types of data processing.
+- **Right to Data Portability:** Request transfer of your personal data to another entity.
+- **Right to Withdraw Consent:** Withdraw your consent at any time, without affecting the lawfulness of processing based on consent before its withdrawal.
+- **Right to Nominate:** Can nominate someone to exercise their rights on their behalf if they are unable to do so.
+
+To exercise these rights, you may contact us at:
+
+- **Email:** [Insert Email Address] • **Phone:** [Insert Phone Number]
+- **Address:** [Insert Organisation Address]
+
+### **5. CONSENT DECLARATION**
+
+By signing below, you confirm that you have read and understood the terms of this consent form and voluntarily agree to the processing of your personal data as described herein.
+
+I hereby give my explicit consent to [Insert Organisation Name] for the processing of my personal data for the purposes mentioned above.
+
+| Signature: |  |  |
+|------------|--|--|
+| Name:      |  |  |
+| Date:      |  |  |
+|            |  |  |
+
+# **6. CONTACT INFORMATION**
+
+If you have any questions or concerns regarding this consent form or our data processing practices, please contact our Data Protection Officer (DPO):
+
+- **Name:** [Insert DPO Name]
+- **Email:** [Insert DPO Email Address]
+- **Phone:** [Insert DPO Phone Number]

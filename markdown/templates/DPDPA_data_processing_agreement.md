@@ -1,0 +1,99 @@
+#### **DATA PROCESSING AGREEMENT**
+
+This Data Processing Agreement ("Agreement") is entered into as of [Insert Date] ("Effective Date") by and between:
+
+**[Data Controller Name]**, a company incorporated under the laws of India, having its registered office at [Insert Address], hereinafter referred to as the "Controller"; and
+
+**[Data Processor Name]**, a company incorporated under the laws of India, having its registered office at [Insert Address], hereinafter referred to as the "Processor."
+
+#### **RECITALS**
+
+#### **WHEREAS:**
+
+- 1. The Controller has engaged the Processor to perform certain services, which involve the processing of personal data as defined under the **Digital Personal Data Protection Act, 2023 ("DPDPA")**; and
+- 2. The Parties intend to ensure compliance with their respective obligations under the DPDPA and related rules.
+
+#### **TERMS AND CONDITIONS**
+
+# **1. DEFINITIONS**
+
+- 1.1 **"Personal Data"**: Data about an individual processed under this Agreement, as defined under the DPDPA.
+- 1.2 **"Processing"**: Any operation on Personal Data, including collection, storage, use, transfer, or deletion.
+- 1.3 **"Sub-Processor"**: Any third party engaged by the Processor for processing Personal Data.
+
+# **2. SCOPE AND PURPOSE**
+
+- 2.1 **Purpose**: The Processor shall process Personal Data solely for [Insert Purpose].
+- 2.2 **Types of Data**: [Insert types, e.g., name, contact information, etc.].
+- 2.3 **Categories of Data Subjects**: [Insert categories, e.g., customers, employees, etc.].
+
+# **3. PROCESSOR OBLIGATIONS**
+
+- 3.1 **Compliance**: Process Personal Data per Controller's instructions and DPDPA.
+- 3.2 **Confidentiality**: Ensure authorized personnel are bound by confidentiality agreements.
+- 3.3 **Security Measures**:
+  - Encryption and pseudonymization.
+  - Regular security audits.
+  - Implement technical safeguards.
+
+*Downloaded from www.dpdpa.com*
+
+3.4 **Breach Notification**: Notify the Controller of any data breach within [Insert Timeframe, e.g., 24 hours].
+
+#### 3.5 **Assistance**:
+
+- Respond to data subject requests.
+- Assist with privacy impact assessments.
+- Support audits as requested.
+- 3.6 **Deletion or Return of Data**: Upon termination, delete or return Personal Data as instructed by the Controller.
+
+# **4. CONTROLLER OBLIGATIONS**
+
+- 4.1 Provide lawful instructions for processing.
+- 4.2 Ensure valid legal basis for processing.
+- 4.3 Reserve the right to audit Processor's compliance.
+
+# **5. SUB-PROCESSORS**
+
+- 5.1 **Approval**: Engage sub-processors only with prior written consent.
+- 5.2 **Liability**: Ensure sub-processors comply with this Agreement.
+
+# **6. CROSS-BORDER DATA TRANSFERS**
+
+6.1 Obtain written consent for transfers outside India and comply with DPDPA Sections 16 and 17.
+
+# **7. INDEMNITY AND LIABILITY**
+
+- 7.1 **Processor Liability**: Indemnify the Controller for breaches.
+- 7.2 **Controller Liability**: Indemnify the Processor for violations caused by the Controller.
+
+# **8. TERM AND TERMINATION**
+
+- 8.1 Effective until completion of services or terminated with [Insert Notice Period].
+- 8.2 On termination, ensure the secure return or deletion of data.
+
+# **9. GOVERNING LAW AND DISPUTE RESOLUTION**
+
+- 9.1 Governed by Indian laws, including the DPDPA.
+- 9.2 Disputes resolved under the exclusive jurisdiction of courts in [Insert Jurisdiction].
+
+# **10. MISCELLANEOUS**
+
+*Downloaded from www.dpdpa.com*
+
+- 10.1 Amendments require written agreement.
+- 10.2 Entire agreement governing data processing.
+
+**IN WITNESS WHEREOF**, the Parties have executed this Agreement as of the Effective Date.
+
+| For the Controller:         |
+|-----------------------------|
+| Name: [Insert Name]         |
+| Designation: [Insert Title] |
+| Signature:                  |
+|                             |
+| For the Processor:          |
+| Name: [Insert Name]         |
+| Designation: [Insert Title] |
+| Signature:                  |
+|                             |

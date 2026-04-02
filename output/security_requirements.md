@@ -10,7 +10,6 @@
 
 **All security requirements must be implemented by 13 May 2027** — 18 months from the notification of the DPDP Rules on 13 November 2025, when Rules 5–16 (including Rule 6 and Rule 7) come into force.
 
-*Today is 1 April 2026. Approximately 13 months remain.*
 
 **Security requirements are fully retrospective.** Rule 6 requires the Data Fiduciary to protect "personal data in its possession or under its control" — it makes no distinction between data collected before or after commencement. Every beneficiary record currently in Avni is subject to all security safeguards (M1–M8) from 13 May 2027.
 
@@ -35,7 +34,9 @@ The Realm database AES-256 encryption is currently **optional per organisation**
 
 **Gap:** Some NGO deployments may have unencrypted Realm databases on personal phones that cannot be remotely wiped.
 
-**Action:** Enforce AES-256 Realm encryption as mandatory for all Avni deployments. Remove the option to disable it. Document this as a platform-level baseline, not an NGO configuration choice.
+**Action:** Make AES-256 Realm encryption the mandatory default for all Avni deployments. The configuration option may remain available for platform administration purposes, but every contract with an NGO deploying a PII-collecting program must contractually require encryption to be enabled (see contract_changes.md G.2(a) and G.1(j)). The NGO's failure to enable available encryption is a contractual breach and explicitly removes Samanvay's liability for device-side data loss. NGOs claiming a non-PII deployment must formally declare this in writing; Samanvay should review form configurations to confirm before waiving the requirement.
+
+**Note — Update to M7:** The contract obligation covering Realm encryption and device-side scope limitation is now addressed in G.1(j) and G.2(a) of the proposed contract changes. M7 (security obligations in the Samanvay contract) should be considered satisfied once those clauses are in place.
 
 ---
 
@@ -133,6 +134,21 @@ Field workers use personal phones with no MDM. Remote wipe is not possible. When
 
 ---
 
+### S0 — Periodic OTP re-authentication with token-based session management
+**Rule 6(b):** *"appropriate measures to control access to the computer resources...and to limit and control access to and use of personal data..."*
+
+Current password-based authentication relies on a contractual obligation (G.2(b)) for field workers to use strong passwords — a requirement that cannot be technically enforced or verified by Samanvay. A weak or reused password on a lost device gives an attacker persistent server access regardless of Realm encryption (M1).
+
+**Gap:** No technical enforcement of authentication strength. Contractual password obligation is unverifiable.
+
+**Recommended approach:** Require OTP re-authentication once per month. Between OTP events, issue a long-lived refresh token stored securely on the device. Use short-lived access tokens (1 hour) for all server communication, generated from the refresh token. Implement refresh token rotation on each use — each refresh token exchange issues a new refresh token and invalidates the previous one, limiting the window of a compromised token to a single use cycle.
+
+The browser-based Data Entry App requires equivalent treatment (session OTP or equivalent strong authentication) — its current JWT model (see S5) is a separate but related gap.
+
+**Priority:** SHOULD HAVE for all deployments. Upgrade to MUST HAVE for deployments handling health, financial, or other sensitive personal data categories — where a strict Board reading of "appropriate" access controls under Rule 6(b) is likely to require more than a contractual password nudge.
+
+---
+
 ### S1 — Breach detection / alerting on access logs
 **Rule 6(c)** requires logs for "detection of unauthorised access, its investigation and remediation."
 
@@ -208,7 +224,7 @@ Currently consent withdrawal requires a field worker to physically visit and voi
 
 | ID | Requirement | Priority | DPDP Basis | Current Status |
 |----|-------------|:--------:|------------|----------------|
-| M1 | Mandatory mobile (Realm) encryption | MUST | Rule 6(a) | Optional per org — gap |
+| M1 | Mandatory mobile (Realm) encryption | MUST | Rule 6(a) | Optional per org — gap; enforcement via contractual obligation + liability exclusion (non-PII orgs may apply for exception with written declaration) |
 | M2 | Application-level access audit logs | MUST | Rule 6(c) | Not confirmed — gap |
 | M3 | 1-year log retention (Cloudwatch) | MUST | Rule 6(e), Rule 8(3) | Unconfirmed — needs audit |
 | M4 | Restrict PII report creation in BI layer | MUST | Rule 6(b) | Possible but not enforced — gap |
@@ -216,6 +232,7 @@ Currently consent withdrawal requires a field worker to physically visit and voi
 | M6 | Breach notification process (72hr Board) | MUST | Rule 7 | Not documented — gap |
 | M7 | Security obligations in Samanvay contract | MUST | Rule 6(f) | NDA only — gap |
 | M8 | Device loss/revocation SOP | MUST | Rule 6(b) | Not documented — gap |
+| S0 | Periodic OTP re-auth + refresh/access token model | SHOULD (MUST for sensitive data) | Rule 6(b) | Not in place — passwords only |
 | S1 | Breach detection / access anomaly alerting | SHOULD | Rule 6(c) | Not confirmed |
 | S2 | Periodic security audits (annual) | SHOULD | Rule 6(g) | On demand only |
 | S3 | NGO obligation to report device loss | SHOULD | Rule 6(b) | Not in place |
