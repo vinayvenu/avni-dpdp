@@ -38,6 +38,8 @@ Both of us have obligations under DPDP. This note explains where Avni stands tod
 
 We are building DPDP compliance into Avni as a core platform capability. All legally required features will be ready well before May 2027. Consent and erasure — the most critical pieces — are prioritised for completion by August 2026.
 
+**Please note:** The roadmap below is tentative. We may reshuffle items to accommodate other higher-priority obligations — regulatory changes, customer-critical needs, or platform stability work — as they arise. The overall commitment to be fully compliant before 13 May 2027 stands, but the month-by-month sequencing may shift.
+
 ### June 2026 — Immediate controls
 - Restrict report-creation access in the BI layer (Metabase/Superset) as a platform-wide default to prevent unauthorised access to raw personal data
 - Begin sending the DPDP compliance addendum to existing customers for signature
@@ -81,7 +83,7 @@ We will send you a compliance addendum to your existing contract. This formally 
 If you haven't already, request us to enable AES-256 encryption for the Avni Android app (Realm database) for your organisation. Operating without this encryption may constitute a non-compliance with DPDP Rules.
 
 ### Prepare your privacy notice
-Draft a DPDP-compliant notice that explains to your beneficiaries: what personal data you collect, why you collect it, and their rights under the law. This notice will be read aloud or presented as a printed form during the consent step in Avni. We can share a template to help you get started.
+Draft a DPDP-compliant notice that explains to your beneficiaries: what personal data you collect, why you collect it, and their rights under the law. This notice will be read aloud or presented as a printed form during the consent step in Avni.
 
 ### Plan for retrospective notice delivery
 All existing beneficiaries whose data was collected before May 2027 must receive a DPDP-compliant notice. For field programmes, this means physical revisits. Start planning the operational logistics — field schedules, worker assignments, geographic coverage — so you are ready to execute once the tracking tool is available in Avni (November 2026).
